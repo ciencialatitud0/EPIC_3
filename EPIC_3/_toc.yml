@@ -3,7 +3,13 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: General Information
+    chapters:
+    - file: info/dates.md  
+    - file:  registration.md  
+    - file:  speakers.md
+    - file:  participants.md  
+    - file:  schedule.md  
+    - file:  programm.md  
+  - caption: School
