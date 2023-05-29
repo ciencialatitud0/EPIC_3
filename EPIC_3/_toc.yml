@@ -7,9 +7,8 @@ parts:
   - caption: General Information
     chapters:
     - file: info/dates.md  
-    - file:  registration.md  
-    - file:  speakers.md
-    - file:  participants.md  
-    - file:  schedule.md  
-    - file:  programm.md  
-  - caption: School
+    - file:  info/registration.md  
+    - file:  info/speakers.md
+    - file:  info/participants.md  
+    - file:  info/schedule.md  
+    - file:  info/programm.md  
