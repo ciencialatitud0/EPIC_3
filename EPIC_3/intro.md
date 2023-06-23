@@ -38,8 +38,8 @@ The school will be held in person on the campus of Yachay Tech University from A
 
 **Cost**: there is no registration fee
 
-## How to apply:
-The applications for EPIC 3 are open until July 16th, 2023. Please submit your application here:
+## Deadline:
+The applications for EPIC 3 are open until **July 16th, 2023**. Please submit your application here:
 
 #### Registration page: https://indico.cern.ch/event/1299902/registrations/95897/
 
@@ -52,14 +52,14 @@ Students who complete the course will receive an ICTP-PWF certificate.
 
 
 ## Organizing Committee:
-Project coordinator / speaker: Hernán Andrés Morales-Navarrete; Universität Konstanz, Germany; Computational Life Science, Biophysics, Machine Learning
-Local coordinator/ speaker: Wladimir Banda-Barragán; Yachay Tech University, Ecuador, Astrophysics, Computational Fluid Mechanics
-Speaker: Helga Dénes; Yachay Tech University, Ecuador, Astrophysics, Radio Astronomy
-Speaker: Luis Manzanillas; Synchrotron SOLEIL, France. Particle physics
-Speaker: Alejandro Gomez Espinosa; ETH-Zurich, Switzerland. High Energy Physics
-Speaker: Lupe Villegas; Institute of Optics (IO-CSIC), Spain; Biophysics
-Speaker: Edison Salazar; Leiden University, The Netherlands. Materials Science
-Speaker: Henrry M. Osorio; Escuela Politécnica Nacional. Materials Science
+* Project coordinator / speaker:Hernán Andrés Morales-Navarrete; Universität Konstanz, Germany; Computational Life Science, Biophysics, Machine Learning
+* Local coordinator/ speaker: Wladimir Banda-Barragán; Yachay Tech University, Ecuador, Astrophysics, Computational Fluid Mechanics
+* Speaker: Helga Dénes; Yachay Tech University, Ecuador, Astrophysics, Radio Astronomy
+* Speaker: Luis Manzanillas; Synchrotron SOLEIL, France. Particle physics
+* Speaker: Alejandro Gomez Espinosa; ETH-Zurich, Switzerland. High Energy Physics
+* Speaker: Lupe Villegas; Institute of Optics (IO-CSIC), Spain; Biophysics
+* Speaker: Edison Salazar; Leiden University, The Netherlands. Materials Science
+* Speaker: Henrry M. Osorio; Escuela Politécnica Nacional. Materials Science
 
 
 
