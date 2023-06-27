@@ -1,0 +1,610 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>3ra Escuela de Programación para Investigación Científica &#8212; EPIC III</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'intro';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Important dates" href="info/dates.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="#">
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.png" class="logo__image only-light" alt="Logo image"/>
+    <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1 current active">
+                <a class="reference internal" href="#">
+                    3ra Escuela de Programación para Investigación Científica
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">General Information</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="info/dates.html">Important dates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/registration.html">Requirements and registration:</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/speakers.html">Tutors and speakers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/participants.html">Participants</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/schedule.html">Schedule</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/programm.html">Programm</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Fintro.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/intro.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>3ra Escuela de Programación para Investigación Científica</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#epic-3-the-frontiers-of-computational-physics">“EPIC 3: The Frontiers of Computational Physics”</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#indico-page-of-the-school">Indico page of the School:</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#general-information">General Information</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#goals-and-deliverables">Goals and deliverables:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#venue">Venue:</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#address">Address:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#website">Website:</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#deadline">Deadline:</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#registration-page">Registration page:</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#grants">Grants:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#certificate">Certificate:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#organizing-committee">Organizing Committee:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#essential-prerequisites">Essential Prerequisites:</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="ra-escuela-de-programacion-para-investigacion-cientifica">
+<h1>3ra Escuela de Programación para Investigación Científica<a class="headerlink" href="#ra-escuela-de-programacion-para-investigacion-cientifica" title="Permalink to this heading">#</a></h1>
+<section id="epic-3-the-frontiers-of-computational-physics">
+<h2>“EPIC 3: The Frontiers of Computational Physics”<a class="headerlink" href="#epic-3-the-frontiers-of-computational-physics" title="Permalink to this heading">#</a></h2>
+<p>Physics Without Frontiers (PWF) jointly with Grupo de Investigadores Latitud Cero, the Physics Department of Escuela Politécnica Nacional, and the School of Physical Sciences and Nanotechnology of Yachay Tech University in Ecuador are pleased to announce our upcoming summer “School of Programming for Scientific Research - EPIC 3: The Frontiers of Computational Physics”.</p>
+<section id="indico-page-of-the-school">
+<h3>Indico page of the School:<a class="headerlink" href="#indico-page-of-the-school" title="Permalink to this heading">#</a></h3>
+<p><a class="reference external" href="https://indico.cern.ch/event/1299902/">https://indico.cern.ch/event/1299902/</a></p>
+</section>
+</section>
+<section id="general-information">
+<h2>General Information<a class="headerlink" href="#general-information" title="Permalink to this heading">#</a></h2>
+<p>The third edition of EPIC will focus on introducing computational techniques for the analysis of scientific data and images by using the programming languages python and julia as tools. Instructors will present real research problems to illustrate the use of computational tools in the experimental or theoretical study of physical systems. Basic programming notions are essential to sign up for this workshop.</p>
+<p>The tutorials will focus on the following areas:</p>
+<ul class="simple">
+<li><p>biophysics</p></li>
+<li><p>astrophysics</p></li>
+<li><p>materials science</p></li>
+<li><p>particle physics</p></li>
+</ul>
+</section>
+<section id="goals-and-deliverables">
+<h2>Goals and deliverables:<a class="headerlink" href="#goals-and-deliverables" title="Permalink to this heading">#</a></h2>
+<p>The third edition of EPIC will focus on introducing techniques for data analysis and image processing using Python and Julia as the main tools. EPIC 3 will have plenary talks on various topics and dedicated tutorials on simulation and data analysis in physics, machine learning for physics and life sciences, observational astronomy and computational astrophysics, high-energy (particle) physics, and materials science. By the end of this school, participants will have the ability to perform basic data analysis on unprocessed raw data and images to extract important information about physical systems. Participants will also have the opportunity to present their own research work during a dedicated session.</p>
+</section>
+<section id="venue">
+<h2>Venue:<a class="headerlink" href="#venue" title="Permalink to this heading">#</a></h2>
+<p>The school will be held in person on the campus of Yachay Tech University from August 14th to August 18th, 2023. Yachay Tech is located in the beautiful area of Urcuquí, a place renowned for its pleasant weather conditions and its proximity to numerous tourist attractions, such as hot springs, lakes, mountains, and active and inactive volcanoes.</p>
+<section id="address">
+<h3>Address:<a class="headerlink" href="#address" title="Permalink to this heading">#</a></h3>
+<p>Yachay Tech University, School of Physical Sciences and Nanotechnology, Hacienda San José S/N, 100119 Urcuquí, Ecuador</p>
+</section>
+<section id="website">
+<h3>Website:<a class="headerlink" href="#website" title="Permalink to this heading">#</a></h3>
+<p><a class="reference external" href="https://www.yachaytech.edu.ec/en/physicsandnanotech/">https://www.yachaytech.edu.ec/en/physicsandnanotech/</a></p>
+<p><strong>Dates</strong>: 14th - 18th August 2023</p>
+<p><strong>Format</strong>: In person</p>
+<p><strong>Duration</strong>: 5 days</p>
+<p><strong>Time investment</strong>: 40 hours</p>
+<p><strong>Cost</strong>: there is no registration fee</p>
+</section>
+</section>
+<section id="deadline">
+<h2>Deadline:<a class="headerlink" href="#deadline" title="Permalink to this heading">#</a></h2>
+<p>The applications for EPIC 3 are open until <strong>July 16th, 2023</strong>. Please submit your application here:</p>
+<section id="registration-page">
+<h3>Registration page:<a class="headerlink" href="#registration-page" title="Permalink to this heading">#</a></h3>
+<p><a class="reference external" href="https://indico.cern.ch/event/1299902/registrations/95897/">https://indico.cern.ch/event/1299902/registrations/95897/</a></p>
+</section>
+</section>
+<section id="grants">
+<h2>Grants:<a class="headerlink" href="#grants" title="Permalink to this heading">#</a></h2>
+<p>The number of participants is limited to the 20 most motivated students. Preference will be given to students in their last semesters and who have not participated in previous editions of EPIC. Scholarships may be provided free of charge to cover accommodation or accommodation plus lunches for the most outstanding candidates throughout the duration of the school. Participants (or their universities) are expected to bear the costs of travel from their respective universities to Yachay. However, a few travel grants might be available. There is no registration fee.</p>
+</section>
+<section id="certificate">
+<h2>Certificate:<a class="headerlink" href="#certificate" title="Permalink to this heading">#</a></h2>
+<p>Students who complete the course will receive an ICTP-PWF certificate.</p>
+</section>
+<section id="organizing-committee">
+<h2>Organizing Committee:<a class="headerlink" href="#organizing-committee" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Project coordinator / speaker:Hernán Andrés Morales-Navarrete; Universität Konstanz, Germany; Computational Life Science, Biophysics, Machine Learning</p></li>
+<li><p>Local coordinator/ speaker: Wladimir Banda-Barragán; Yachay Tech University, Ecuador, Astrophysics, Computational Fluid Mechanics</p></li>
+<li><p>Speaker: Helga Dénes; Yachay Tech University, Ecuador, Astrophysics, Radio Astronomy</p></li>
+<li><p>Speaker: Luis Manzanillas; Synchrotron SOLEIL, France. Particle physics</p></li>
+<li><p>Speaker: Alejandro Gomez Espinosa; ETH-Zurich, Switzerland. High Energy Physics</p></li>
+<li><p>Speaker: Lupe Villegas; Institute of Optics (IO-CSIC), Spain; Biophysics</p></li>
+<li><p>Speaker: Edison Salazar; Leiden University, The Netherlands. Materials Science</p></li>
+<li><p>Speaker: Henrry M. Osorio; Escuela Politécnica Nacional. Materials Science</p></li>
+</ul>
+</section>
+<section id="essential-prerequisites">
+<h2>Essential Prerequisites:<a class="headerlink" href="#essential-prerequisites" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Basic programming experience (in python, R, and/or julia).</p></li>
+<li><p>Basic knowledge of the English language.</p></li>
+</ul>
+<div class="toctree-wrapper compound">
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">General Information</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="info/dates.html">Important dates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/registration.html">Requirements and registration:</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/speakers.html">Tutors and speakers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/participants.html">Participants</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/schedule.html">Schedule</a></li>
+<li class="toctree-l1"><a class="reference internal" href="info/programm.html">Programm</a></li>
+</ul>
+</div>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+                <footer class="bd-footer-article">
+                  
+<div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="right-next"
+       href="info/dates.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Important dates</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div></div>
+  
+</div>
+
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#epic-3-the-frontiers-of-computational-physics">“EPIC 3: The Frontiers of Computational Physics”</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#indico-page-of-the-school">Indico page of the School:</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#general-information">General Information</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#goals-and-deliverables">Goals and deliverables:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#venue">Venue:</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#address">Address:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#website">Website:</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#deadline">Deadline:</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#registration-page">Registration page:</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#grants">Grants:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#certificate">Certificate:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#organizing-committee">Organizing Committee:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#essential-prerequisites">Essential Prerequisites:</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Ciencia Latitud 0
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
