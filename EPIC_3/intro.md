@@ -3,9 +3,7 @@
 
 Physics Without Frontiers (PWF) jointly with Grupo de Investigadores Latitud Cero, the Physics Department of Escuela Politécnica Nacional, and the School of Physical Sciences and Nanotechnology of Yachay Tech University in Ecuador are pleased to announce our upcoming summer "School of Programming for Scientific Research - EPIC 3: The Frontiers of Computational Physics".
 
-#### School Website:
-https://ciencialatitud0.github.io/EPIC_3/intro.html
-#### Indico page:
+#### Indico page of the School:
 https://indico.cern.ch/event/1299902/
 
 ## General Information
