@@ -11,4 +11,5 @@ parts:
     - file:  info/speakers.md
     - file:  info/participants.md  
     - file:  info/schedule.md  
-    - file:  info/programm.md  
+    - file:  info/programme.md
+    - file:  info/practical-information.md
