@@ -42,7 +42,7 @@ https://www.yachaytech.edu.ec/en/physicsandnanotech/
 **Cost**: there is no registration fee
 
 ## Deadline
-The applications for EPIC 3 are open until **July 16th, 2023**. Please submit your application here:
+The applications for EPIC 3 are open until Thursday **20th July th, 2023**. Please submit your application via Indico.
 
 #### Registration page
 https://indico.cern.ch/event/1299902/registrations/95897/
@@ -55,15 +55,17 @@ The number of participants is limited to the 20 most motivated students. Prefere
 Students who complete the course will receive an ICTP-PWF certificate.
 
 
-## Organizing Committee:
-* Project coordinator / speaker: Hernán Andrés Morales-Navarrete; Universität Konstanz, Germany; Computational Life Science, Biophysics, Machine Learning
-* Local coordinator/ speaker: Wladimir Banda-Barragán; Yachay Tech University, Ecuador, Astrophysics, Computational Fluid Mechanics
-* Speaker: Helga Dénes; Yachay Tech University, Ecuador, Astrophysics, Radio Astronomy
-* Speaker: Luis Manzanillas; Synchrotron SOLEIL, France. Particle physics
-* Speaker: Alejandro Gomez Espinosa; ETH-Zurich, Switzerland. High Energy Physics
-* Speaker: Lupe Villegas; Institute of Optics (IO-CSIC), Spain; Biophysics
-* Speaker: Edison Salazar; Leiden University, The Netherlands. Materials Science
-* Speaker: Henrry M. Osorio; Escuela Politécnica Nacional. Materials Science
+## Scientific Organizing Committee:
+* Hernán Andrés Morales-Navarrete; Universität Konstanz, Germany; Computational Life Science, Biophysics, Machine Learning
+* Wladimir Banda-Barragán; Yachay Tech University, Ecuador, Astrophysics, Computational Fluid Mechanics
+* Paulina Vizcaíno Imacaña; Universidad Internacional del Ecuador (UIDE), Ciencias de la Computación
+* Henrry M. Osorio; Escuela Politécnica Nacional. Materials Science
+* Helga Dénes; Yachay Tech University, Ecuador, Astrophysics, Radio Astronomy
+* Alejandro Gomez Espinosa; ETH-Zurich, Switzerland. High Energy Physics
+* Luis Manzanillas; Synchrotron SOLEIL, France. Particle physics
+* Lupe Villegas; Institute of Optics (IO-CSIC), Spain; Biophysics
+* Edison Salazar; Leiden University, The Netherlands. Materials Science
+
 
 
 ## Essential Prerequisites
