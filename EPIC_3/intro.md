@@ -67,15 +67,15 @@ Students who complete the course will receive an ICTP-PWF certificate.
 
 
 ## Scientific Organizing Committee
-* Hernán Andrés Morales-Navarrete; Universität Konstanz, Germany; Computational Life Science, Biophysics, Machine Learning
-* Wladimir Banda-Barragán; Yachay Tech University, Ecuador, Astrophysics, Computational Fluid Mechanics
-* Paulina Vizcaíno Imacaña; Universidad Internacional del Ecuador (UIDE), Ciencias de la Computación
-* Henrry M. Osorio; Escuela Politécnica Nacional. Materials Science
-* Helga Dénes; Yachay Tech University, Ecuador, Astrophysics, Radio Astronomy
-* Alejandro Gomez Espinosa; ETH-Zurich, Switzerland. High Energy Physics
-* Luis Manzanillas; Synchrotron SOLEIL, France. Particle physics
-* Lupe Villegas; Institute of Optics (IO-CSIC), Spain; Biophysics
-* Edison Salazar; Leiden University, The Netherlands. Materials Science
+* Hernán Andrés Morales-Navarrete; Universität Konstanz, Germany
+* Wladimir Banda-Barragán; Yachay Tech University, Ecuador
+* Paulina Vizcaíno Imacaña; Universidad Internacional del Ecuador (UIDE)
+* Henrry M. Osorio; Escuela Politécnica Nacional, Ecuador
+* Helga Dénes; Yachay Tech University, Ecuador
+* Alejandro Gomez Espinosa; ETH-Zurich, Switzerland
+* Luis Manzanillas; Synchrotron SOLEIL, France
+* Lupe Villegas; Institute of Optics (IO-CSIC), Spain
+* Edison Salazar; Leiden University, The Netherlands
 
 
 ## Essential Prerequisites
