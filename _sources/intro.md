@@ -12,10 +12,13 @@ The third edition of EPIC will focus on introducing computational techniques for
 
 The tutorials will focus on the following areas:
 
+ * data and image analysis
+ * machine learning
+ * astrophysics and cosmology
  * biophysics
- * astrophysics
- * materials science
  * particle physics
+ * materials science
+ * fluid dynamics
 
 
 ## Goals and deliverables
@@ -55,7 +58,15 @@ The number of participants is limited to the 20 most motivated students. Prefere
 Students who complete the course will receive an ICTP-PWF certificate.
 
 
-## Scientific Organizing Committee:
+## Speakers and lecturers
+* Clara Rojas, PhD, Yachay Tech University, Ecuador (Cosmology)
+* Alejandro Gomez Espinosa, PhD, ETH-Zurich, Switzerland (High Energy Physics)
+* Helga Dénes, PhD, Yachay Tech University, Ecuador (Radio Astronomy)
+* Andrés Morales-Navarrete, PhD, Universität Konstanz, Germany (Biophysics and Machine Learning)
+* Wladimir Banda-Barragán, PhD, Yachay Tech University, Ecuador (Fluid Dynamics)
+
+
+## Scientific Organizing Committee
 * Hernán Andrés Morales-Navarrete; Universität Konstanz, Germany; Computational Life Science, Biophysics, Machine Learning
 * Wladimir Banda-Barragán; Yachay Tech University, Ecuador, Astrophysics, Computational Fluid Mechanics
 * Paulina Vizcaíno Imacaña; Universidad Internacional del Ecuador (UIDE), Ciencias de la Computación
@@ -67,11 +78,10 @@ Students who complete the course will receive an ICTP-PWF certificate.
 * Edison Salazar; Leiden University, The Netherlands. Materials Science
 
 
-
 ## Essential Prerequisites
 
  *  Basic programming experience (in python, R, and/or julia).
- *  Basic knowledge of the English language.
+ *  Adequate knowledge of the English language.
 
 ```{tableofcontents}
 ```
