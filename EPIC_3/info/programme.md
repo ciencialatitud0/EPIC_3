@@ -69,14 +69,10 @@ Public talk and Dinner in Ibarra (40 minutes away from Yachay Tech)
 #### - Midday parallel sessions (10h30 - 12h30)
 10h30 - 12h30: Hands-on Tutorial 7: High-energy physics: LHC data analysis
 
-10h30 - 12h30: Hands-on Tutorial 8 (TBC): Materials: Introduction to Excited-State Dynamics: Tully scheme implementation and models
-
 #### Lunch Break (12h30 - 14h00)
 
 #### - Afternoon parallel sessions (14h00 - 16h30)
-14h00 - 16h00: Hands-on Tutorial 9: High-energy physics: LHC data analysis
-
-14h00 - 16h00: Hands-on Tutorial 10 (TBC): Materials: Nonadiabatic dynamics simulations
+14h00 - 16h00: Hands-on Tutorial 9: Materials Science
 
 ## Day 5: Friday 18 August 2023
 
