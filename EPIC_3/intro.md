@@ -83,7 +83,7 @@ Students who complete the course will receive an ICTP-PWF certificate.
  *  Adequate knowledge of the English language.
 
 ## Poster: 
-![EPIC3-ad1](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/d5759238-4267-4645-816e-d5ef196f22b9)
+![EPIC3-ad1 001](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/0ec5aac8-d50f-47f3-92a3-0be499449a65)
 
 
 ```{tableofcontents}
