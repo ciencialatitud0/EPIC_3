@@ -12,7 +12,33 @@ The campus of Yachay Tech is located in the Urcuquí canton in the Imbabura prov
 
 See location: https://goo.gl/maps/XbB5P739rvPBCJCv7
 
-## History of Yachay Tech campus:
+### From Quito (Carcelén Bus Station)
+- Take a bus towards Ibarra.
+- Get off at the Ibarra bus station (don't leave the terminal, otherwise you will need to pay 0.15 USD).
+- Search for the buses going towards Urcuquí (the Ibarra-Urcuquí fare is 0.70 USD).
+- The buses from Ibarra to Urcuquí go from 05h45 to 20h00 (every 15 minutes).
+- Get off at the Cementery.
+- Then, take another bus to go down to campus (the Urcuquí-Yachay bus costs 0.40 USD).
+
+
+### From Quito's airport
+- Take the bus from the airport that goes to one of the terminals (Carcelén).
+- Once in the Carcelén bus station, take a bus towards Ibarra.
+- Get off at the Ibarra bus station (don't leave the terminal, otherwise you will need to pay 0.15 USD).
+- Search for the buses going towards Urcuquí (the Ibarra-Urcuquí fare is 0.70 USD).
+- The buses from Ibarra to Urcuquí go from 05h45 to 20h00 (every 15 minutes).
+- Get off at the Cementery.
+- Then, take another bus to go down to campus (the Urcuquí-Yachay bus costs 0.40 USD).
+
+#### Via taxi from Quito to Urcuquí
+- Quito - Ibarra (15 USD)
+- Ibarra - Urcuquí (10 USD to 12 USD)
+
+### From Urcuquí to Ibarra
+- The last bus from Urcuquí leaves at 18h30.
+
+
+## History of Yachay Tech campus
 
 Read more on the history of Yachay Tech campus:
 
