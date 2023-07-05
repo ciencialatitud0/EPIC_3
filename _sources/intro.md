@@ -1,4 +1,4 @@
-# III Escuela de Programación para Investigación Científica
+# III Escuela de Programación para Investigación Científica (EPIC)
 ## "EPIC 3: The Frontiers of Computational Physics"
 
 Physics Without Frontiers (PWF) jointly with Grupo de Investigadores Latitud Cero, the Physics Department of Escuela Politécnica Nacional, and the School of Physical Sciences and Nanotechnology of Yachay Tech University in Ecuador are pleased to announce our upcoming summer "School of Programming for Scientific Research - EPIC 3: The Frontiers of Computational Physics".
@@ -68,8 +68,8 @@ Students who attend and complete the course will receive an ICTP-PWF certificate
 * Clara Rojas, PhD, Yachay Tech University, Ecuador (Cosmology)
 * Alejandro Gomez Espinosa, PhD, ETH-Zurich, Switzerland (High Energy Physics)
 * Helga Dénes, PhD, Yachay Tech University, Ecuador (Radio Astronomy)
-* Andrés Morales-Navarrete, PhD, Universität Konstanz, Germany (Biophysics and Machine Learning)
-* Wladimir Banda-Barragán, PhD, Yachay Tech University, Ecuador (Fluid Dynamics)
+* Andrés Morales-Navarrete, PhD, Universität Konstanz, Germany (Biophysics & Machine Learning)
+* Wladimir Banda-Barragán, PhD, Yachay Tech University, Ecuador (Astrophysics & Fluid Dynamics)
 
 
 ## Scientific Organizing Committee
