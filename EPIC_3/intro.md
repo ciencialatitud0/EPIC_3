@@ -20,9 +20,10 @@ The tutorials will focus on the following areas:
  * materials science
  * fluid dynamics
 
-## A Physics Without Frontiers program:
+### EPIC 3, a Physics Without Frontiers program:
 
 EPIC 3 is kindly supported and funded by ICTP's Physics Without Frontiers (PWF) program. If you would like to know more about the PWF team, please have a look at their ongoing and previous projects:
+
 https://www.ictp.it/home/physics-without-frontiers
 
 
@@ -56,7 +57,7 @@ https://indico.cern.ch/event/1299902/registrations/95897/
 
 
 ## Grants
-The number of participants of EPIC 3 will be limited to the 20 most motivated students. Preference will be given to BSc students in their mid to last semesters, MSc students, and who have not participated in previous editions of EPIC (EPIC 1 or EPIC 2). Accommodation (in a shared residency) will be provided (free of charge) by the host institution to all selected participants. Some scholarships to cover meals (breakfast, lunch, dinner, snacks) will also be available to participants who request them. Scholarships to cover meals and travel costs may only be available for a very limited number of participants. Participants (or their universities) are expected to bear the costs of travel from their respective universities to Yachay Tech. However, a few travel grants might be available. **When you submit your application, please indicate the kind of financial support that you would require to attend EPIC 3. There is no registration fee.
+The number of participants of EPIC 3 will be limited to the 20 most motivated students. Preference will be given to BSc students in their mid to last semesters, MSc students, and who have not participated in previous editions of EPIC (EPIC 1 or EPIC 2). Accommodation (in a shared residency) will be provided (free of charge) by the host institution to all selected participants. Some scholarships to cover meals (breakfast, lunch, dinner, snacks) will also be available to participants who request them. Scholarships to cover meals and travel costs may only be available for a very limited number of participants. Participants (or their universities) are expected to bear the costs of travel from their respective universities to Yachay Tech. However, a few travel grants might be available. **When you submit your application, please indicate the kind of financial support that you would require to attend EPIC 3.** There is no registration fee.
 
 
 ## Certificate
