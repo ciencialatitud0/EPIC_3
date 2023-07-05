@@ -59,7 +59,7 @@ https://www.yachaytech.edu.ec/en/about/history-of-the-campus/
 
 ## Popular attractions near Yachay Tech
 - Yachay Botanical Garden in Urcuqui
-- Yahuarcocha lake in Inbarra (busses go 15 minutes from Ibarra 0.35 USD)
+- Yahuarcocha lake in Ibarra (busses go 15 minutes from Ibarra 0.35 USD)
 - Mirador San Miguel Arcangel in Ibarra
 - Museo del Cuartel in the centre of Ibarra
 - Thermal springs in Chachimbiro (there are no busses that go there, however an Urcuqui pick-up truck to Chamchimbiro costs about 5 USD, this can be economic for a group of 4 people) There are several hot springs distributed on the mountain. We recommend the "Arco Iris Termas de Chachimbiro" (entry is ~5 USD per person) 
