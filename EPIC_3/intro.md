@@ -45,9 +45,9 @@ https://www.yachaytech.edu.ec/en/physicsandnanotech/
 **Cost**: there is no registration fee
 
 ## Deadline
-The applications for EPIC 3 are open until Thursday **20th July th, 2023**. Please submit your application via Indico.
+The applications for EPIC 3 are open until Thursday **20th July, 2023**. Please submit your application via Indico.
 
-#### Registration page
+#### Registration page on Indico
 https://indico.cern.ch/event/1299902/registrations/95897/
 
 
@@ -58,7 +58,7 @@ The number of participants is limited to the 20 most motivated students. Prefere
 Students who complete the course will receive an ICTP-PWF certificate.
 
 
-## Speakers and lecturers
+## Confirmed Speakers and Lecturers
 * Clara Rojas, PhD, Yachay Tech University, Ecuador (Cosmology)
 * Alejandro Gomez Espinosa, PhD, ETH-Zurich, Switzerland (High Energy Physics)
 * Helga Dénes, PhD, Yachay Tech University, Ecuador (Radio Astronomy)
