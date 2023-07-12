@@ -69,9 +69,9 @@ Students who attend and complete the course will receive an ICTP-PWF certificate
 
 ## Confirmed Speakers and Lecturers
 * Clara Rojas, PhD, Yachay Tech University, Ecuador (Cosmology)
+* María José Benítez, PhD, Escuela Politécnica Nacional, Ecuador (Materials Science)
 * Alejandro Gomez Espinosa, PhD, ETH-Zurich, Switzerland (High Energy Physics)
 * Helga Dénes, PhD, Yachay Tech University, Ecuador (Radio Astronomy)
-* María José Benítez, PhD, Escuela Politécnica Nacional, Ecuador (Materials Science)
 * Andrés Morales-Navarrete, PhD, Universität Konstanz, Germany (Biophysics & Machine Learning)
 * Wladimir Banda-Barragán, PhD, Yachay Tech University, Ecuador (Astrophysics & Fluid Dynamics)
 
