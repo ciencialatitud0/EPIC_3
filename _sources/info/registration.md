@@ -18,3 +18,5 @@
 
  * When you submit your application, please indicate the kind of financial support that you would require to attend EPIC 3.
 
+## Elibibility
+We welcome applications from undergraduate students, MSc students, and early-career professionals working on any field of natural sciences and/or computer sciences and who wish to expand their scientific computing skills. While we will review all applications, we will give preference to applicants from Latin American countries (owing to the limited available funds) and to students who have not participated in previous editions of EPIC. **We are also fully committed to reducing the existing gender gap in academia, so half of our scholarships will be allocated to female applicants. Female applicants are particularly welcome to apply, half of our lecturers will be female researchers, and we will have a dedicated session on Women in STEM as part of EPIC 3.**
