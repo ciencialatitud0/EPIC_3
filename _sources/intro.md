@@ -91,7 +91,7 @@ Students who attend and complete the course will receive an ICTP-PWF certificate
 
 ## Poster
 
-![EPIC3-ad1 001](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/0ec5aac8-d50f-47f3-92a3-0be499449a65)
+![EPIC3-ad2 001](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/2e936790-9ec0-4d28-9560-0b4cc2b610de)
 
 
 ```{tableofcontents}
