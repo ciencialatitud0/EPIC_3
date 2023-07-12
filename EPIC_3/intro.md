@@ -25,7 +25,10 @@ The tutorials will focus on the following areas:
 EPIC 3 is kindly supported and funded by ICTP's Physics Without Frontiers (PWF) program. If you would like to know more about the PWF team, please have a look at their ongoing and previous projects:
 
 https://www.ictp.it/home/physics-without-frontiers
+https://indico.ictp.it/event/10390
 
+## Eligibility
+We welcome applications from undergraduate students, MSc students, and early-career professionals working on any field of natural sciences and/or computer sciences and who wish to expand their scientific computing skills. While we will review all applications, we will give preference to applicants from Latin American countries (owing to the limited available funds) and to students who have not participated in previous editions of EPIC. **We are also fully committed to reducing the existing gender gap in academia, so half of our scholarships will be allocated to female applicants. Female applicants are particularly welcome to apply, and we will have a dedicated session on Women in STEM as part of EPIC 3.**
 
 ## Goals and deliverables
 The third edition of EPIC will focus on introducing techniques for data analysis and image processing using Python and Julia as the main tools. EPIC 3 will have plenary talks on various topics and dedicated tutorials on simulation and data analysis in physics, machine learning for physics and life sciences, observational astronomy and computational astrophysics, high-energy (particle) physics, and materials science. By the end of this school, participants will have the ability to perform basic data analysis on unprocessed raw data and images to extract important information about physical systems. Participants will also have the opportunity to present their own research work during a dedicated session.
@@ -68,6 +71,7 @@ Students who attend and complete the course will receive an ICTP-PWF certificate
 * Clara Rojas, PhD, Yachay Tech University, Ecuador (Cosmology)
 * Alejandro Gomez Espinosa, PhD, ETH-Zurich, Switzerland (High Energy Physics)
 * Helga Dénes, PhD, Yachay Tech University, Ecuador (Radio Astronomy)
+* María José Benítez, PhD, Escuela Politécnica Nacional, Ecuador (Materials Science)
 * Andrés Morales-Navarrete, PhD, Universität Konstanz, Germany (Biophysics & Machine Learning)
 * Wladimir Banda-Barragán, PhD, Yachay Tech University, Ecuador (Astrophysics & Fluid Dynamics)
 
