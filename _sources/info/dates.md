@@ -2,7 +2,7 @@
 
  * Deadline for submitting applications: 20th July, 2023
    
- * Notification of selected candidates: <span style="color:blue">26th July, 2023t</span>
+ * Notification of selected candidates:  <span style="color:red;">26th July, 2023 > </span>
    
  * All applicants will receive an email from: ciencia.latitud0@gmail.com containing the result of their application.
    
