@@ -18,7 +18,7 @@
 #### - Midday session (10h40 - 12h20)
 #### Classroom LAB-PB09, E2-E3 building 1st floor
 
-10h30 - 12h30: Hands-on Tutorial 1: Monte Carlo simulations for physics
+10h40 - 12h20: Hands-on Tutorial 1: Monte Carlo simulations for physics
 
 #### Lunch Break (12h20 - 14h20)
 
@@ -44,12 +44,13 @@
 #### - Midday session (10h40 - 12h20)
 #### Classroom LAB-PB09, E2-E3 building 1st floor
 
-10h30 - 12h30: Hands-on Tutorial 3: Introduction to BioImage Analisys with Python
+10h40 - 12h20: Hands-on Tutorial 3: Introduction to BioImage Analisys with Python
 
 #### Lunch Break (12h20 - 14h20)
 
 #### - Afternoon session (14h20 - 16h00)
 #### Classroom LAB-PB09, E2-E3 building 1st floor
+
 14h00 - 16h00: Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems
 
 
@@ -58,6 +59,7 @@
 
 #### - Morning session (08h00 - 10h00)
 #### Classroom LAB-PB09, E2-E3 building 1st floor
+
 08h00 - 10h00: Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models
 
 #### Coffee Break (10h00 - 10h40)
@@ -66,20 +68,26 @@
 #### - Midday session (10h40 - 12h20)
 #### Classroom LAB-PB09, E2-E3 building 1st floor
 
-10h30 - 12h30: Hands-on Tutorial 3: Introduction to BioImage Analisys with Python
+10h40 - 12h20: Scientific talks
 
 #### Lunch Break (12h20 - 14h20)
 
 #### - Afternoon session (14h20 - 16h00)
 #### Classroom LAB-PB09, E2-E3 building 1st floor
-14h20 - 16h00: Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python: How to discover particles in LHC data using Python
 
+14h20 - 15h10: Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python
+
+15h10 - 16h00: Hands-on Tutorial 5:How to discover particles in LHC data using Python
+
+#### - Evening session (18h00 - 20h00)
+18h00 - 20h00: Public talk
 
 ## Day 4: Thursday 17 August 2023
 ### Astrophysics and Computing
 
 #### - Morning session (08h00 - 10h00)
 #### Classroom LAB-PB09, E2-E3 building 1st floor
+
 08h00 - 10h00: Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes
 
 #### Coffee Break (10h00 - 10h40)
@@ -87,12 +95,14 @@
 
 #### - Midday parallel sessions (10h40 - 12h20)
 #### Classroom SEPA-A15, Senescyt building 2nd floor
-10h30 - 12h30: Contributed talks
+
+10h40 - 12h20: Contributed talks
 
 #### Lunch Break (12h20 - 14h20)
 
 #### - Afternoon parallel sessions (14h20 - 16h00)
-14h20 - 16h00: Campus Tour YT
+
+14h20 - 16h00: Campus Tour Yachay Tech
 
 
 ## Day 5: Friday 18 August 2023
@@ -101,6 +111,7 @@
 
 #### - Morning session (08h00 - 09h30)
 #### Classroom SEPA-A15, Senescyt building 2nd floor
+
 08h00 - 10h00: Student group talks
 
 #### Coffee Break (10h00 - 10h40)
@@ -108,6 +119,7 @@
 
 #### - Midday session (10h40 - 11h30)
 #### Classroom SEPA-A15, Senescyt building 2nd floor
+
 10h00 - 11h30: La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador
 
 11h30 - 12h20: Women in STEM Forum
