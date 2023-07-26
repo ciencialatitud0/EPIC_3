@@ -31,6 +31,13 @@
 
 ### Machine Learning for Physics and Life Sciences
 
+#### - Morning session (08h00 - 10h00)
+#### Classroom SEPA-A15, Senescyt building 2nd floor
+
+08h00 - 08h40: Using deep learning to understand fish development
+
+08h40 - 10h00: Scientific talks
+
 #### Coffee Break (10h00 - 10h40)
 #### Classroom SEPA-A15, Senescyt building 2nd floor
 
@@ -44,6 +51,7 @@
 #### - Afternoon session (14h20 - 16h00)
 #### Classroom LAB-PB09, E2-E3 building 1st floor
 14h00 - 16h00: Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems
+
 
 ## Day 3: Wednesday 16 August 2023
 ### High-energy Physics and Materials Science
@@ -65,6 +73,7 @@
 #### - Afternoon session (14h20 - 16h00)
 #### Classroom LAB-PB09, E2-E3 building 1st floor
 14h20 - 16h00: Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python: How to discover particles in LHC data using Python
+
 
 ## Day 4: Thursday 17 August 2023
 ### Astrophysics and Computing
@@ -101,7 +110,7 @@
 #### Classroom SEPA-A15, Senescyt building 2nd floor
 10h00 - 11h30: La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador
 
-11h30 - 12h20: Womein in STEM Forum
+11h30 - 12h20: Women in STEM Forum
 
 12h20 - 12h30: Concluding Remarks & Wrap-up
 
