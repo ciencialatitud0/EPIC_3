@@ -130,6 +130,3 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor
 12h20 - 12h30: Concluding Remarks & Wrap-up
 
 ### Good-Bye Lunch (12h30 - 14h00)
-
-[EPIC3_program1.pdf](https://github.com/ciencialatitud0/EPIC_3/files/12175115/EPIC3_program1.pdf)
-
