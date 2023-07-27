@@ -1,9 +1,10 @@
 # Preliminary Programme
 
-## Day 1: Monday 14 August 2023
-### Computational Physics Tools and Data Analysis
+# Day 1: Monday 14 August 2023
+## Computational Physics Tools and Data Analysis
 
-#### - Morning session (08h00 - 10h00, Classroom SEPA-A15, Senescyt building 2nd floor)
+### Morning session (08h00 - 10h00)
+**Location:** Classroom SEPA-A15, Senescyt building 2nd floor
 
 08h00 - 08h15: Registration
 
@@ -11,9 +12,11 @@
 
 08h40 - 10h00: Scientific talks
 
-#### Coffee Break (10h00 - 10h40, Classroom SEPA-A15, Senescyt building 2nd floor)
+#### Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
-#### - Midday session (10h40 - 12h20, Classroom LAB-PB09, E2-E3 building 1st floor)
+#### - Midday session (10h40 - 12h20)
+Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 10h40 - 12h20: Hands-on Tutorial 1: Monte Carlo simulations for physics
 
@@ -23,11 +26,11 @@
 14h00 - 16h00: Hands-on Tutorial 2: Fast Fourier Transform methods for fluid dynamics
 
 
-## Day 2: Tuesday 15 August 2023
+# Day 2: Tuesday 15 August 2023
+## Machine Learning for Physics and Life Sciences
 
-### Machine Learning for Physics and Life Sciences
-
-#### - Morning session (08h00 - 10h00, Classroom SEPA-A15, Senescyt building 2nd floor)
+### Morning session (08h00 - 10h00)
+**Location:** Classroom SEPA-A15, Senescyt building 2nd floor)
 
 08h00 - 08h40: Using deep learning to understand fish development
 
@@ -47,8 +50,8 @@
 14h00 - 16h00: Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems
 
 
-## Day 3: Wednesday 16 August 2023
-### High-energy Physics and Materials Science
+# Day 3: Wednesday 16 August 2023
+## Materials Science and High-energy Physics
 
 #### - Morning session (08h00 - 10h00, Classroom LAB-PB09, E2-E3 building 1st floor)
 
@@ -71,8 +74,9 @@
 #### - Evening session (18h00 - 20h00)
 18h00 - 20h00: Public talk
 
-## Day 4: Thursday 17 August 2023
-### Astrophysics and Computing
+
+# Day 4: Thursday 17 August 2023
+## Astrophysics and Computing
 
 #### - Morning session (08h00 - 10h00, Classroom LAB-PB09, E2-E3 building 1st floor)
 
@@ -91,8 +95,8 @@
 14h20 - 16h00: Campus Tour Yachay Tech
 
 
-## Day 5: Friday 18 August 2023
-
+# Day 5: Friday 18 August 2023
+## 
 ### EPIC 3 Student Presentations
 
 #### - Morning session (08h00 - 09h30, Classroom SEPA-A15, Senescyt building 2nd floor)
