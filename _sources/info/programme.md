@@ -22,7 +22,9 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 ### Lunch Break (12h20 - 14h20)
 
-### Afternoon session (14h20 - 16h00, Classroom LAB-PB09, E2-E3 building 1st floor)
+### Afternoon session (14h20 - 16h00)
+Location: Classroom LAB-PB09, E2-E3 building 1st floor
+
 14h00 - 16h00: Hands-on Tutorial 2: Fast Fourier Transform methods for fluid dynamics
 
 
@@ -36,7 +38,8 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor)
 
 08h40 - 10h00: Scientific talks
 
-### Coffee Break (10h00 - 10h40, Classroom SEPA-A15, Senescyt building 2nd floor)
+### Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 ### Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
@@ -59,9 +62,11 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 08h00 - 10h00: Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models
 
-### Coffee Break (10h00 - 10h40, Classroom SEPA-A15, Senescyt building 2nd floor)
+### Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
-### Midday session (10h40 - 12h20, Classroom LAB-PB09, E2-E3 building 1st floor)
+### Midday session (10h40 - 12h20)
+Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 10h40 - 12h20: Scientific talks
 
@@ -81,11 +86,13 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 # Day 4: Thursday 17 August 2023
 ## Astrophysics and Computing
 
-### Morning session (08h00 - 10h00, Classroom LAB-PB09, E2-E3 building 1st floor)
+### Morning session (08h00 - 10h00)
+Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 
 08h00 - 10h00: Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes
 
-### Coffee Break (10h00 - 10h40, Classroom SEPA-A15, Senescyt building 2nd floor)
+### Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 ### Midday session (10h40 - 12h20)
 Location: Classroom SEPA-A15, Senescyt building 2nd floor
@@ -108,11 +115,15 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 08h00 - 10h00: Student group talks
 
-### Coffee Break (10h00 - 10h40, Classroom SEPA-A15, Senescyt building 2nd floor)
+### Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
-### Midday session (10h40 - 11h30, Classroom SEPA-A15, Senescyt building 2nd floor)
+### Midday session (10h40 - 11h30)
+Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
-10h00 - 11h30: La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador
+10h00 - 10h40: La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador
+
+10h40 - 11h30: Mini-presentations from Female Scientists
 
 11h30 - 12h20: Women in STEM Forum
 
