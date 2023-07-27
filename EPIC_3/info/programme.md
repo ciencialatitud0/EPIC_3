@@ -107,7 +107,6 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 
 # Day 5: Friday 18 August 2023
-
 ## EPIC 3 Student Presentations and Diversity in Science
 
 ### Morning session (08h00 - 09h30)
@@ -118,7 +117,7 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor
 ### Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
-### Midday session (10h40 - 11h30)
+### Midday session (10h40 - 12h30)
 Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 10h00 - 10h40: La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador
