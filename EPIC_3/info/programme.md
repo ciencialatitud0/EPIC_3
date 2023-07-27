@@ -4,7 +4,7 @@
 ## Computational Physics Tools and Data Analysis
 
 ### Morning session (08h00 - 10h00)
-**Location:** Classroom SEPA-A15, Senescyt building 2nd floor
+Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 08h00 - 08h15: Registration
 
@@ -30,7 +30,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ## Machine Learning for Physics and Life Sciences
 
 ### Morning session (08h00 - 10h00)
-**Location:** Classroom SEPA-A15, Senescyt building 2nd floor)
+Location: Classroom SEPA-A15, Senescyt building 2nd floor)
 
 08h00 - 08h40: Using deep learning to understand fish development
 
@@ -46,7 +46,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ### Lunch Break (12h20 - 14h20)
 
 ### Afternoon session (14h20 - 16h00)
-**Location:** Classroom LAB-PB09, E2-E3 building 1st floor
+Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 14h00 - 16h00: Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems
 
@@ -55,7 +55,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ## Materials Science and High-energy Physics
 
 #### - Morning session (08h00 - 10h00)
-**Location:** Classroom LAB-PB09, E2-E3 building 1st floor
+Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 08h00 - 10h00: Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models
 
@@ -68,7 +68,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ### Lunch Break (12h20 - 14h20)
 
 ### Afternoon session (14h20 - 16h00)
-**Location:** Classroom LAB-PB09, E2-E3 building 1st floor
+Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 14h20 - 15h10: Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python
 
@@ -88,7 +88,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ### Coffee Break (10h00 - 10h40, Classroom SEPA-A15, Senescyt building 2nd floor)
 
 ### Midday session (10h40 - 12h20)
-**Location:** Classroom SEPA-A15, Senescyt building 2nd floor
+Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 10h40 - 12h20: Contributed talks
 
@@ -104,7 +104,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ## EPIC 3 Student Presentations and Diversity in Science
 
 ### Morning session (08h00 - 09h30)
-**Location:** Classroom SEPA-A15, Senescyt building 2nd floor
+Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 08h00 - 10h00: Student group talks
 
