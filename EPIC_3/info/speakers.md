@@ -3,7 +3,6 @@
 * Clara Rojas, PhD, Yachay Tech University, Ecuador (Cosmology)
 * Nelson Herrera, PhD, Universidad Internacional del Ecuador 
 * Diego Morales, PhD, Yachay Tech University, Ecuador (Statistics)
-* María José Benítez, PhD, Escuela Politécnica Nacional, Ecuador (Materials Science)
 * Paulina Vizcaíno, PhD, Universidad Internacional del Ecuador (Education)
 * Alejandro Gomez Espinosa, PhD, ETH-Zurich, Switzerland (High Energy Physics)
 * Roberto Jácome, PhD (c), Universidad Internacional del Ecuador 
