@@ -1,5 +1,5 @@
 # EPIC Junior
-## Computación Científica para Estudiantes de Secundaria
+## Escuela de Computación Científica para Estudiantes de Secundaria
 
 Por primera ocasión, la serie de escuelas EPIC ofrece un espacio para que estudiantes de secundaria de nuestro país puedan aprender sobre computación científica e interactuar con científicas y científicos ecuatorianos. Las y los estudiantes secundarios que participen en EPIC Junior tendrán la gran oportunidad de: 
 
