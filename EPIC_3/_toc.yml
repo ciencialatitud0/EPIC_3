@@ -13,3 +13,4 @@ parts:
     - file:  info/schedule.md  
     - file:  info/programme.md
     - file:  info/practical-information.md
+    - file:  info/EPIC_Junior.md
