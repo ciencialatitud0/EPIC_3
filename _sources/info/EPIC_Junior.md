@@ -77,7 +77,8 @@ https://forms.gle/H5fzhatzmBzjehrP6
 - 12h00 - 14h00: Almuerzo
 - 14h00 - 16h00: Talleres de Programación Científica
 
-
+## Certificado:
+Luego de finalizado el evento, se entregará un certificado digital de asistencia a tod@s l@s participantes.
 
 # Poster del evento: 
 
