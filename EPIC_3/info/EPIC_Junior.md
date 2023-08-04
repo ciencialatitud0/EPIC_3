@@ -91,4 +91,5 @@ Twitter: https://twitter.com/opticayt
 
 # Poster del evento: 
 
-![EPIC 3](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/6a77d0ce-a847-4da0-91fe-04183c50e099)
+![EPIC_Jr](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/9bdaa6cb-102d-4585-b935-3b2e5e38948d)
+
