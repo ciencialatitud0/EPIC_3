@@ -33,7 +33,8 @@ En el campus de la Universidad Yachay Tech en San Miguel de Urcuquí, Provincia 
 
 ## Cupos disponibles:
 
-Solo tenemos 20 cupos disponibles.
+Solo tenemos 20 cupos disponibles. El registro se cerrará el día jueves 10 de agosto o al llegar a 20 participantes registrad@s.
+
 
 ## Logística y Registro:
 
@@ -50,12 +51,18 @@ L@s padres de familia o adult@s que deseen acompañar las actividades de l@s est
 Por favor completar el siguiente formulario para registrarse en EPIC Junior:
 
 
+
 # Programa preliminar:
 
 - 10h00 - 10h20: Bienvenida
 - 10h20 - 12h00: Charlas científicas divulgativas
 - 12h00 - 14h00: Almuerzo
 - 14h00 - 16h00: Talleres de Programación Científica
+
+# Poster: 
+
+![EPIC 3](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/6a77d0ce-a847-4da0-91fe-04183c50e099)
+
 
 
 
