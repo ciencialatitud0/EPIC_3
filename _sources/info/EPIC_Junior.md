@@ -27,6 +27,7 @@ En el campus de la Universidad Yachay Tech en San Miguel de Urcuquí, Provincia 
 - Escuela de Ciencias Físicas y Nanotecnología de la Universidad Yachay Tech
 - Universidad Internacional del Ecuador
 - Escuela Politécnica Nacional
+- Grupo de Investigadores Latitud Cero
 
 ## Instructores:
 
