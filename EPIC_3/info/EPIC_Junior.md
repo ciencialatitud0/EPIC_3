@@ -1,6 +1,7 @@
-# EPIC Junior: Computación Científica para Estudiantes de Secundaria
+# EPIC Junior
+## Computación Científica para Estudiantes de Secundaria
 
-Por primera ocasión, la serie de escuelas EPIC ofrece un espacio para que estudiantes de secundaria de nuestro país puedan aprender sobre computación científica e interactuar con científic@s ecuatorian@s. L@s estudiantes secundarios que participen en EPIC Junior tendrán la gran oportunidad de: 
+Por primera ocasión, la serie de escuelas EPIC ofrece un espacio para que estudiantes de secundaria de nuestro país puedan aprender sobre computación científica e interactuar con científicas y científicos ecuatorianos. Las y los estudiantes secundarios que participen en EPIC Junior tendrán la gran oportunidad de: 
 
 - visitar las instalaciones de la Universidad Yachay Tech en Urcuquí,
 - asistir a charlas científicas preparadas por nuestr@s profesor@s universitarios,
@@ -9,7 +10,7 @@ Por primera ocasión, la serie de escuelas EPIC ofrece un espacio para que estud
 
 ## ¿Cuándo?
 
-EPIC junior tendrá lugar el día jueves 17 de agosto de 2023 desde las 10h00 hasta las 16h00.
+EPIC Junior tendrá lugar el **día jueves 17 de agosto de 2023 desde las 10h00 hasta las 16h00.**
 
 ## ¿Dónde?
 
@@ -19,11 +20,12 @@ En el campus de la Universidad Yachay Tech en San Miguel de Urcuquí, Provincia 
 
 - Cursar el bachillerato (>15 años) en cualquier institución educativa secundaria del país.
 - Organizar transporte y alimentación propios para el día de la escuela EPIC Junior.
-- Tener muchos deseos de aprender sobre ciencia y computación.
 - Contar con el aval y/o acompañamiento de un adulto para asistir a la escuela.
+- Escribir una excelente carta de motivación en el formulario de registro.
+- Tener muchos deseos de aprender sobre ciencia y computación.
 
 ## Organizan:
-- Club Young Optics de la Universidad Yachay Tech
+- Club Óptica (Young Optics) de la Universidad Yachay Tech
 - Escuela de Ciencias Físicas y Nanotecnología de la Universidad Yachay Tech
 - Universidad Internacional del Ecuador
 - Escuela Politécnica Nacional
@@ -36,7 +38,7 @@ En el campus de la Universidad Yachay Tech en San Miguel de Urcuquí, Provincia 
 - Franklin Limaico, Universidad Yachay Tech
 - Hernán Vaquilema, Universidad Yachay Tech
 
-## Profesor@s:
+## Coordinador@s:
 
 - Helga Dénes, Universidad Yachay Tech
 - Wladimir Banda-Barragán, Universidad Yachay Tech
