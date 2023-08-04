@@ -51,7 +51,7 @@ https://goo.gl/maps/pdWEuniULGYcW9cE7
 
 ## Cupos disponibles:
 
-Solo tenemos 20 cupos disponibles. El registro se cerrará el día miércoles 9 de agosto o al llegar a 20 participantes registrad@s.
+Solo tenemos 20 cupos disponibles. **El registro se cerrará el día jueves 10 de agosto o al llegar a 20 participantes registrad@s.**
 
 ## Logística y registro:
 
