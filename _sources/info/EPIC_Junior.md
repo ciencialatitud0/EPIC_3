@@ -86,9 +86,9 @@ Página web: https://www.facebook.com/opticayt
 
 Twitter: https://twitter.com/opticayt
 
-![OPTICA_Fondo_Blanco](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/13ccc66e-c1da-4ad0-bf02-48db2c8d7066)
+![OPTICA_Fondo_Blanco](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/13ccc66e-c1da-4ad0-bf02-48db2c8d7066 =100x80)
 
-![Young_Optics_FondoBlanco](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/f755c138-6085-4c5f-8472-084dda45e1c8)
+![Young_Optics_FondoBlanco](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/f755c138-6085-4c5f-8472-084dda45e1c8 =100x80)
 
 # Poster del evento: 
 
