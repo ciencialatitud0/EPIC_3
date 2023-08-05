@@ -22,6 +22,7 @@
 - Marcos Jhair Garzón Guevara, Universidad Yachay Tech, Ecuador
 - Karla Paulina Conde Paccha, Universidad Internacional del Ecuador
 - Cristopher Ricardo Erazo Vallejos, Escuela Politécnica Nacional, Ecuador
+- Tifany Natividad Quispe Crisolo, Universidad Nacional Mayor de San Marcos, Perú
 - Daniel Gustavo Córdova Jaramillo, Universidad Internacional del Ecuador
 
 # Participants part of the Local Organising Team
