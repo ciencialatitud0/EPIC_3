@@ -88,7 +88,17 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor
 ### Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-10h40 - 12h20: Scientific talks
+**10h40 - 11h40: Nelson Herrera Aráuz - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine**
+
+![NELSON HERRERA ARÁUZ - Paulina Vizcaino](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/7a96e22e-c3af-4a2f-b31a-71035589cbdf)
+
+**Abstract:** 
+Relatos y referencias históricas de las circunstancias e incidencias que llevaron a la creación del metro como unidad de medida de longitud por parte de los académicos de la Mision Geodesica francesa en Quito el año de 1744.   
+
+**About the Speaker:**
+Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios secundarios Colegio Central Técnico, estudios superiores en Ingeniería Electrónica en la Escuela Politécnica Nacional; Estudios de Matematica Pura, en la Escuela de Ciencias, de la Universidad Central del Ecuador, Electromecánica; Instituto José Antonio Echeverria La Habana Cuba, Física Universidad de Montpellier Francia. Cuenta con Investigaciones y experiencias científicas en Praga y Varsovia. Estudio teórico - experimentales documentado sobre fenómenos y perturbaciones magnéticas causadas por el eclipse solar del 11 de julio de 1991. Profesor Emérito en Cátedra sustentada por 25 años a la fecha de Matemáticas, Física y Circuitos Digitales en la Escuela de Ingeniería mecánica automotriz, de la Universidad International del Ecuador.
+
+11h40 - 12h20: Scientific talks
 
 ### Lunch Break (12h20 - 14h20)
 
