@@ -10,7 +10,18 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 08h15 - 08h40: Welcome to EPIC3 and a short introduction from PWF
 
-08h40 - 10h00: Scientific talks
+08h40 - 09h20: 
+
+**09h20 - 10h00: Clara Rojas, PhD - Analysis of the generalized Starobinsky inflationary model**
+
+**Abstract:**
+In this work we solved the equation of scalar and tensor perturbations for the generalized Starobinsky inflationary model using the improved uniform approximation method and the phase-integral method up to third-order in deviation.  We  compare our results with the  numerical integration.  We have  obtained that  both semiclassical methods reproduce the scalar power spectra $P_{\sca,\ten}$, the scalar spectral index $n_S$,  and the tensor-to-scalar ratio $r$.  Also we present our results in the $(n_S,r)$ plane.
+
+**About the Speaker:**
+
+![Clara Rojas - Clara Inés Rojas Cely](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/fd23e704-7221-41ed-843f-106ca5bae0f5)
+
+Ph. D. en Ciencias mención Física en el Centro de Física del IVIC (Venezuela). Intereses: Cosmología Inflacionaria y Mecánica Cuántica Relativist
 
 ### Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A15, Senescyt building 2nd floor
@@ -36,13 +47,15 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor)
 
 08h00 - 08h40: Andrés Morales Navarrete - Using deep learning to understand fish development
 
-08h40 - 09h20: Zenaida Castillo, PhD - Pseudospectra of matrices and its computation
-
-**Speaker: Zenaida Castillo (PhD)**
-Profesor/Investigador con formación inicial en Ciencias Computacionales, ha obtenido títulos de maestría en Matemáticas Aplicadas y también en Ciencias de la Computación, y finalmente un PhD en Matemáticas aplicadas y Computacionales, otorgado por la Universidad de Rice, en USA. Tiene 25 años de experiencia en la docencia en Educación Superior, y ha ocupado diferentes cargos en la Academia. Su trabajo de investigación gira en torno a la implementación eficiente de métodos para el cálculo numérico, en particular para el cálculo de autovalores y autovectores de matrices de gran magnitud.
+**08h40 - 09h20: Zenaida Castillo, PhD - Pseudospectra of matrices and its computation**
 
 **Abstract:**
 The Pseudospectra is a powerful tool to analyze the behavior of dynamic systems associated to non-normal matrices. Studies and applications have increased in the last decades, thus, its efficient computation has become of interest for the scientific community. In the large scale setting, different approaches have been proposed, some of them based on projection on Krylov subspaces. In this talk, we will present a scheme for the parallel computation of the Pseudospectra, based on a domain decomposition of the interest region into subregions that can be assigned to a set of processors in order to accelerate the computation.
+
+**About the Speaker:**
+Zenaida Castillo (PhD): Profesor/Investigador con formación inicial en Ciencias Computacionales, ha obtenido títulos de maestría en Matemáticas Aplicadas y también en Ciencias de la Computación, y finalmente un PhD en Matemáticas aplicadas y Computacionales, otorgado por la Universidad de Rice, en USA. Tiene 25 años de experiencia en la docencia en Educación Superior, y ha ocupado diferentes cargos en la Academia. Su trabajo de investigación gira en torno a la implementación eficiente de métodos para el cálculo numérico, en particular para el cálculo de autovalores y autovectores de matrices de gran magnitud.
+
+
 
 09h20 - 10h00: TBD
 
