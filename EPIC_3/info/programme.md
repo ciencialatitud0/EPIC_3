@@ -14,14 +14,13 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor
 
 **09h20 - 10h00: Clara Rojas, PhD - Analysis of the generalized Starobinsky inflationary model**
 
-**Abstract:**
-In this work we solved the equation of scalar and tensor perturbations for the generalized Starobinsky inflationary model using the improved uniform approximation method and the phase-integral method up to third-order in deviation.  We  compare our results with the  numerical integration.  We have  obtained that  both semiclassical methods reproduce the scalar power spectra $P_{\sca,\ten}$, the scalar spectral index $n_S$,  and the tensor-to-scalar ratio $r$.  Also we present our results in the $(n_S,r)$ plane.
-
-**About the Speaker:**
-
 ![Clara Rojas - Clara Inés Rojas Cely](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/fd23e704-7221-41ed-843f-106ca5bae0f5)
 
-Ph. D. en Ciencias mención Física en el Centro de Física del IVIC (Venezuela). Intereses: Cosmología Inflacionaria y Mecánica Cuántica Relativist
+**Abstract:**
+In this work we solved the equation of scalar and tensor perturbations for the generalized Starobinsky inflationary model using the improved uniform approximation method and the phase-integral method up to third-order in deviation.  We  compare our results with the  numerical integration.  We have  obtained that  both semiclassical methods reproduce the scalar power spectra $P$, the scalar spectral index $n_S$,  and the tensor-to-scalar ratio $r$.  Also we present our results in the $(n_S,r)$ plane.
+
+**About the Speaker:** Clara Rojas tiene un Ph. D. en Ciencias mención Física en el Centro de Física del IVIC (Venezuela). Intereses: Cosmología Inflacionaria y Mecánica Cuántica Relativist
+
 
 ### Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A15, Senescyt building 2nd floor
