@@ -115,9 +115,11 @@ Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios sec
 ### Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-14h20 - 15h10: Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python
+**14h20 - 15h10: Alejandro Gómez - Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python**
 
-15h10 - 16h00: Hands-on Tutorial 5:How to discover particles in LHC data using Python
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/4e47d7f1-123a-4fb4-9e39-c9196610af78" alt="alt text" width="400px">
+
+**15h10 - 16h00: Alejandro Gómez - Hands-on Tutorial 5:How to discover particles in LHC data using Python**
 
 ### Evening session (18h00 - 20h00)
 18h00 - 20h00: Public talk
@@ -129,7 +131,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ### Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 
-**08h00 - 10h00: Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes**
+**08h00 - 10h00: Helga Dénes, PhD - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes**
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
 
