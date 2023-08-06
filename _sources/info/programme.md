@@ -92,6 +92,8 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 ![NELSON HERRERA ARÁUZ - Paulina Vizcaino](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/7a96e22e-c3af-4a2f-b31a-71035589cbdf)
 
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/7a96e22e-c3af-4a2f-b31a-71035589cbdf" alt="alt text" width="20px" height="20px">
+
 **Abstract:** 
 Relatos y referencias históricas de las circunstancias e incidencias que llevaron a la creación del metro como unidad de medida de longitud por parte de los académicos de la Mision Geodesica francesa en Quito el año de 1744.   
 
