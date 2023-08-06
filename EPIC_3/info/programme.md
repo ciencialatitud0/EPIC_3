@@ -88,7 +88,7 @@ Location: Classroom SEPA-A15, Senescyt building 2nd floor
 ### Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-**10h40 - 11h40: Nelson Herrera Aráuz - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine**
+**10h40 - 11h20: Nelson Herrera Aráuz, PhD - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine**
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/7a96e22e-c3af-4a2f-b31a-71035589cbdf" alt="alt text" width="400px">
 
@@ -98,9 +98,18 @@ Relatos y referencias históricas de las circunstancias e incidencias que llevar
 **About the Speaker:**
 Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios secundarios Colegio Central Técnico, estudios superiores en Ingeniería Electrónica en la Escuela Politécnica Nacional; Estudios de Matematica Pura, en la Escuela de Ciencias, de la Universidad Central del Ecuador, Electromecánica; Instituto José Antonio Echeverria La Habana Cuba, Física Universidad de Montpellier Francia. Cuenta con Investigaciones y experiencias científicas en Praga y Varsovia. Estudio teórico - experimentales documentado sobre fenómenos y perturbaciones magnéticas causadas por el eclipse solar del 11 de julio de 1991. Profesor Emérito en Cátedra sustentada por 25 años a la fecha de Matemáticas, Física y Circuitos Digitales en la Escuela de Ingeniería mecánica automotriz, de la Universidad International del Ecuador.
 
-11h40 - 12h20: Scientific talks
+**11h20 - 12h00: Diego Morales, PhD - TBD**
 
-### Lunch Break (12h20 - 14h20)
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/3f164b74-cf19-4331-91c4-8dc7c5d1e763" alt="alt text" width="400px">
+
+**Abstract:** 
+
+**About the Speaker:**
+
+
+**12h00 - 12h30: Andrés Villares, Fís - **
+
+### Lunch Break (12h30 - 14h20)
 
 ### Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
