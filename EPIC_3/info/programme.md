@@ -107,7 +107,7 @@ Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios sec
 **About the Speaker:**
 
 
-**12h00 - 12h30: Andrés Villares, Fís - **
+**12h00 - 12h30: YT talk**
 
 ### Lunch Break (12h30 - 14h20)
 
