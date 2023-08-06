@@ -90,7 +90,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 **10h40 - 11h40: Nelson Herrera Aráuz - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine**
 
-![NELSON HERRERA ARÁUZ - Paulina Vizcaino](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/7a96e22e-c3af-4a2f-b31a-71035589cbdf.jpeg |width=100px)
+![NELSON HERRERA ARÁUZ - Paulina Vizcaino](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/7a96e22e-c3af-4a2f-b31a-71035589cbdf.jpeg|width=100px)
 
 **Abstract:** 
 Relatos y referencias históricas de las circunstancias e incidencias que llevaron a la creación del metro como unidad de medida de longitud por parte de los académicos de la Mision Geodesica francesa en Quito el año de 1744.   
