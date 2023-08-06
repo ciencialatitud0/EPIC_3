@@ -44,7 +44,10 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ### Morning session (08h00 - 10h00)
 Location: Classroom SEPA-A15, Senescyt building 2nd floor)
 
-08h00 - 08h40: Andrés Morales Navarrete - Using deep learning to understand fish development
+**08h00 - 08h40: Andrés Morales Navarrete, PhD - Using deep learning to understand fish development**
+
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
+
 
 **08h40 - 09h20: Zenaida Castillo, PhD - Pseudospectra of matrices and its computation**
 
@@ -54,9 +57,8 @@ The Pseudospectra is a powerful tool to analyze the behavior of dynamic systems 
 **About the Speaker:**
 Zenaida Castillo (PhD): Profesor/Investigador con formación inicial en Ciencias Computacionales, ha obtenido títulos de maestría en Matemáticas Aplicadas y también en Ciencias de la Computación, y finalmente un PhD en Matemáticas aplicadas y Computacionales, otorgado por la Universidad de Rice, en USA. Tiene 25 años de experiencia en la docencia en Educación Superior, y ha ocupado diferentes cargos en la Academia. Su trabajo de investigación gira en torno a la implementación eficiente de métodos para el cálculo numérico, en particular para el cálculo de autovalores y autovectores de matrices de gran magnitud.
 
-
-
-09h20 - 10h00: TBD
+<span style="color:blue">09h20 - 10h00: TBD</span>.
+**09h20 - 10h00: TBD**
 
 ### Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A15, Senescyt building 2nd floor
