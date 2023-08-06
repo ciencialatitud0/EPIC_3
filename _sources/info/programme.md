@@ -129,7 +129,9 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ### Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 
-08h00 - 10h00: Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes
+**08h00 - 10h00: Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes**
+
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
 
 ### Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A19, Senescyt building 2nd floor
