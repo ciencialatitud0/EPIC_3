@@ -10,7 +10,10 @@ Location: Classroom SEPA-A19, Senescyt building 2nd floor
 
 08h15 - 08h40: Welcome to EPIC3 and a short introduction from PWF
 
-08h40 - 09h20: 
+**08h40 - 09h20: Helga Dénes, PhD - The frontiers of Computational Physics**
+
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
+
 
 **09h20 - 10h00: Clara Rojas, PhD - Analysis of the generalized Starobinsky inflationary model**
 
@@ -48,6 +51,9 @@ Location: Classroom SEPA-A19, Senescyt building 2nd floor)
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
 
+**Abstract:**
+
+**About the Speaker:**
 
 **08h40 - 09h20: Zenaida Castillo, PhD - Pseudospectra of matrices and its computation**
 
@@ -57,7 +63,13 @@ The Pseudospectra is a powerful tool to analyze the behavior of dynamic systems 
 **About the Speaker:**
 Zenaida Castillo (PhD): Profesor/Investigador con formación inicial en Ciencias Computacionales, ha obtenido títulos de maestría en Matemáticas Aplicadas y también en Ciencias de la Computación, y finalmente un PhD en Matemáticas aplicadas y Computacionales, otorgado por la Universidad de Rice, en USA. Tiene 25 años de experiencia en la docencia en Educación Superior, y ha ocupado diferentes cargos en la Academia. Su trabajo de investigación gira en torno a la implementación eficiente de métodos para el cálculo numérico, en particular para el cálculo de autovalores y autovectores de matrices de gran magnitud.
 
-**09h20 - 10h00: TBD**
+**09h20 - 10h00: Gustavo Loachamin, PhD - The framework ROOT CERN and its use in particle physics**
+
+**Abstract:**
+Data analysis is a key component of experimental physics, this is why the knowledge of frameworks and programming languages is necessary for physicists. In particle physics for example, the ROOT framework is widely used because of its graphical interface for interactive analysis and its capacity to store and analyze large sets of data of more than 1 exabyte. In this talk, I will be introducing briefly the functionality of ROOT and relating it to my own research: the amplitude analysis of three-body decays.
+
+**About the Speaker:**
+I did my undergraduate studies at the University of British Columbia in Vancouver, Canada with a scholarship from the Ecuadorian government. At UBC, I obtained the degree of Bachelor of Science in Honours Physics with distinction. During my years at UBC, my interest in particle physics started growing and I was involved in a small project for the TREK collaboration, that was testing lepton universality. After I finished, I moved to Brazil and started working for the LHCb collaboration and obtained the Master in Physics in the area of particle physics and fields. My research for the LHCb was focused on the amplitude analysis of a three-body decay. 
 
 ### Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A19, Senescyt building 2nd floor
