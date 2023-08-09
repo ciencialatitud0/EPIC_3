@@ -71,7 +71,7 @@ Students who attend and complete the course will receive an ICTP-PWF certificate
 * Clara Rojas, PhD, Yachay Tech University, Ecuador (Cosmology)
 * Nelson Herrera, PhD, Universidad Internacional del Ecuador (Mathematics)
 * Zenaida Castillo, PhD, Yachay Tech University, Ecuador (Applied Mathematics and Computing)
-* Gustavo Loachamin Ordoñez, MSc, Pontificia Universidade Catolica do Rio de Janeiro (Particle Physics)
+* Gustavo Loachamin, MSc, Pontificia Universidade Catolica do Rio de Janeiro (Particle Physics)
 * Diego Morales, PhD, Yachay Tech University, Ecuador (Statistics)
 * Paulina Vizcaíno, PhD, Universidad Internacional del Ecuador (Education)
 * Alejandro Gomez Espinosa, PhD, ETH-Zurich, Switzerland (High Energy Physics)
