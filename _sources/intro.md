@@ -73,6 +73,7 @@ Students who attend and complete the course will receive an ICTP-PWF certificate
 * Zenaida Castillo, PhD, Yachay Tech University, Ecuador (Applied Mathematics and Computing)
 * Gustavo Loachamin, MSc, Pontificia Universidade Catolica do Rio de Janeiro (Particle Physics)
 * Edison Salazar, PhD, Leiden University, The Netherlands (Materials Science)
+* Andrés Villares, Fís, Yachay Tech University, Ecuador (Astrophysics)
 * Diego Morales, PhD, Yachay Tech University, Ecuador (Statistics)
 * Paulina Vizcaíno, PhD, Universidad Internacional del Ecuador (Education)
 * Alejandro Gomez Espinosa, PhD, ETH-Zurich, Switzerland (High Energy Physics)
