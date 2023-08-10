@@ -30,7 +30,7 @@ In this work we solved the equation of scalar and tensor perturbations for the g
 
 **About the Speaker:** Clara Rojas tiene un Ph. D. en Ciencias mención Física en el Centro de Física del IVIC (Venezuela). Intereses: Cosmología Inflacionaria y Mecánica Cuántica Relativist
 
-### Coffee Break (10h00 - 10h40)
+## Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
 ### Midday session (10h40 - 12h20)
@@ -45,7 +45,7 @@ In this tutorial you will learn to carry our Monte Carlo simulations in python w
 
 **About the Speaker:** Wladimir Banda-Barragan tiene un Ph. D. en Astronomía y Astrofísica de Australian National University
 
-### Lunch Break (12h20 - 14h20)
+## Lunch Break (12h20 - 14h20)
 
 ## Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
@@ -62,10 +62,9 @@ In this tutorial you will learn to use Fast Fourier Transform algorithms in pyth
 
 
 # Day 2: Tuesday 15 August 2023
+## Machine Learning for Physics and Life Sciences
 
-### Machine Learning for Physics and Life Sciences
-
-### Morning session (08h00 - 10h00)
+## Morning session (08h00 - 10h00)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building)
 
 ### 08h00 - 08h40: Andrés Morales Navarrete, PhD - Using deep learning to understand fish development
@@ -92,10 +91,10 @@ Data analysis is a key component of experimental physics, this is why the knowle
 **About the Speaker:**
 I did my undergraduate studies at the University of British Columbia in Vancouver, Canada with a scholarship from the Ecuadorian government. At UBC, I obtained the degree of Bachelor of Science in Honours Physics with distinction. During my years at UBC, my interest in particle physics started growing and I was involved in a small project for the TREK collaboration, that was testing lepton universality. After I finished, I moved to Brazil and started working for the LHCb collaboration and obtained the Master in Physics in the area of particle physics and fields. My research for the LHCb was focused on the amplitude analysis of a three-body decay. 
 
-### Coffee Break (10h00 - 10h40)
+## Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-### Midday session (10h40 - 12h20)
+## Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 ### 10h40 - 12h20: Andrés Morales-Navarrete, PhD - Hands-on Tutorial 3: Introduction to BioImage Analisys with Python
