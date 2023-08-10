@@ -38,6 +38,7 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 **10h40 - 12h20: Hands-on Tutorial 1: Monte Carlo simulations for physics**
+
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/70d41b1e-c464-4f63-be3c-1873bf8f1933" alt="alt text" width="400px">
 
 **Abstract:**
