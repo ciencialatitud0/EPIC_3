@@ -33,7 +33,7 @@ In this work we solved the equation of scalar and tensor perturbations for the g
 ## Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-### Midday session (10h40 - 12h20)
+## Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 **10h40 - 12h20: Wladimir Banda-Barragán, PhD - Hands-on Tutorial 1: Monte Carlo simulations for physics**
@@ -125,12 +125,18 @@ PostDoctoral Researcher - Zerial Group, Max-Planck-Institute of Molecular Cell B
 # Day 3: Wednesday 16 August 2023
 ## Materials Science and High-energy Physics
 
-## - Morning session (08h00 - 10h00)
+## Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-### 08h00 - 10h00: Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models (live virtual)
+### 08h00 - 10h00: Edison Salazar - Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models (live virtual)
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/95609cc0-3c23-40fa-91d0-222cc00e4190" alt="alt text" width="400px">
+
+**Abstract:**
+Photoinduced processes play a crucial role in different fields of science, for example, the photoisomerization of the retinal chromophore or the synthesis of vitamin D3. Additionally, they are crucial in the development of new technologies such as molecular electronic devices which can be controlled by light. These processes are governed mainly by nonadiabatic transitions which are radiationless electronic transitions between different non-Born-Oppenheimer states along the dynamic of a chemical reaction. In these two lessons, we are going to implement the Tully algorithm in Python to study a simple avoid crossing model as the first approach to a non-adiabatic transition.
+
+**About the Speaker:**
+Postdoctoral researcher - Applied Quantum Algorithms (AQA) group, Lorentz Institute for Theoretical Physics, Leiden University, Leiden, Netherlands
 
 ## Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
