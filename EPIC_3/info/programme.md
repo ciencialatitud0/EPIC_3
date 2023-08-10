@@ -100,7 +100,13 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 ### 10h40 - 12h20: Andrés Morales-Navarrete, PhD - Hands-on Tutorial 3: Introduction to BioImage Analisys with Python
 
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
+
+**Abstract:**
 Explanation about bioimages (i.e. fluorescence microscopy), Bioimage analysis example: quantifying cell morphology from 2D fluorescence micrographs, Importing images and plotting images, Logical operators (pixel-wise operations), Intensity Transformation, Filters and Fourier transformations, Segmentation, Extracting data from segmented images (e.g. cell area, elongation).
+
+**About the Speaker:**
+PostDoctoral Researcher - Zerial Group, Max-Planck-Institute of Molecular Cell Biology and Genetics, Dresden - Germany
 
 ## Lunch Break (12h20 - 14h20)
 
@@ -109,6 +115,13 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 ### 14h00 - 16h00: Andrés Morales-Navarrete, PhD - Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems
 
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
+
+**Abstract:**
+Explanation about bioimages (i.e. fluorescence microscopy), Bioimage analysis example: quantifying cell morphology from 2D fluorescence micrographs, Importing images and plotting images, Logical operators (pixel-wise operations), Intensity Transformation, Filters and Fourier transformations, Segmentation, Extracting data from segmented images (e.g. cell area, elongation).
+
+**About the Speaker:**
+PostDoctoral Researcher - Zerial Group, Max-Planck-Institute of Molecular Cell Biology and Genetics, Dresden - Germany
 
 # Day 3: Wednesday 16 August 2023
 ## Materials Science and High-energy Physics
@@ -116,7 +129,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ## - Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-### 08h00 - 10h00: Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models
+### 08h00 - 10h00: Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models (live virtual)
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/95609cc0-3c23-40fa-91d0-222cc00e4190" alt="alt text" width="400px">
 
@@ -145,7 +158,7 @@ Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios sec
 **About the Speaker:**
 
 
-### 12h00 - 12h30: YT talk
+### 12h00 - 12h30: Talk (TBD)
 
 ## Lunch Break (12h30 - 14h20)
 
