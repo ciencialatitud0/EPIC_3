@@ -2,7 +2,7 @@
 
 Please read carefully all the information given below.
 
-This School focuses mainly on python, but there are a few lectures and tutorials on julia (https://julialang.org/) and R (https://www.r-project.org/). We will use python 3.x (as python2 is not supported anymore). Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this School.
+This School focuses mainly on python, but there are a few lectures on R and ROOT too (https://www.r-project.org/). We will use python 3.x (as python2 is not supported anymore). Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this School.
 
 - Jupyter notebooks are very useful tools for learning programming because they provide a nice visual and interactive interface.
 
