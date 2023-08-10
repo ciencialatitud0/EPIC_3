@@ -16,12 +16,12 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
 ### 08h15 - 08h40: Welcome to EPIC3 and a short introduction from PWF
 
-### 08h40 - 09h20: Helga Dénes, PhD - The frontiers of Computational Physics
+### 08h40 - 09h20: Helga Dénes, PhD (Yachay Tech, Ecuador) - The frontiers of Computational Physics
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
 
 
-### 09h20 - 10h00: Clara Rojas, PhD - Analysis of the generalized Starobinsky inflationary model
+### 09h20 - 10h00: Clara Rojas, PhD (Yachay Tech, Ecuador) - Analysis of the generalized Starobinsky inflationary model
 
 ![Clara Rojas - Clara Inés Rojas Cely](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/fd23e704-7221-41ed-843f-106ca5bae0f5)
 
@@ -36,7 +36,7 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 ## Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-**10h40 - 12h20: Wladimir Banda-Barragán, PhD - Hands-on Tutorial 1: Monte Carlo simulations for physics**
+**10h40 - 12h20: Wladimir Banda-Barragán, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 1: Monte Carlo simulations for physics**
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/70d41b1e-c464-4f63-be3c-1873bf8f1933" alt="alt text" width="400px">
 
@@ -50,7 +50,7 @@ In this tutorial you will learn to carry our Monte Carlo simulations in python w
 ## Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-### 14h00 - 16h00: Wladimir Banda-Barragán, PhD - Hands-on Tutorial 2: Fast Fourier Transform methods for fluid dynamics
+### 14h00 - 16h00: Wladimir Banda-Barragán, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 2: Fast Fourier Transform methods for fluid dynamics
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/70d41b1e-c464-4f63-be3c-1873bf8f1933" alt="alt text" width="400px">
 
@@ -67,7 +67,7 @@ In this tutorial you will learn to use Fast Fourier Transform algorithms in pyth
 ## Morning session (08h00 - 10h00)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building)
 
-### 08h00 - 08h40: Andrés Morales Navarrete, PhD - Using deep learning to understand fish development
+### 08h00 - 08h40: Andrés Morales Navarrete, PhD (U. Konstanz, Germany)  - Using deep learning to understand fish development
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
 
@@ -75,7 +75,7 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building)
 
 **About the Speaker:**
 
-**08h40 - 09h20: Zenaida Castillo, PhD - Pseudospectra of matrices and its computation**
+**08h40 - 09h20: Zenaida Castillo, PhD (Yachay Tech, Ecuador) - Pseudospectra of matrices and its computation**
 
 **Abstract:**
 The Pseudospectra is a powerful tool to analyze the behavior of dynamic systems associated to non-normal matrices. Studies and applications have increased in the last decades, thus, its efficient computation has become of interest for the scientific community. In the large scale setting, different approaches have been proposed, some of them based on projection on Krylov subspaces. In this talk, we will present a scheme for the parallel computation of the Pseudospectra, based on a domain decomposition of the interest region into subregions that can be assigned to a set of processors in order to accelerate the computation.
@@ -83,7 +83,7 @@ The Pseudospectra is a powerful tool to analyze the behavior of dynamic systems 
 **About the Speaker:**
 Zenaida Castillo (PhD): Profesor/Investigador con formación inicial en Ciencias Computacionales, ha obtenido títulos de maestría en Matemáticas Aplicadas y también en Ciencias de la Computación, y finalmente un PhD en Matemáticas aplicadas y Computacionales, otorgado por la Universidad de Rice, en USA. Tiene 25 años de experiencia en la docencia en Educación Superior, y ha ocupado diferentes cargos en la Academia. Su trabajo de investigación gira en torno a la implementación eficiente de métodos para el cálculo numérico, en particular para el cálculo de autovalores y autovectores de matrices de gran magnitud.
 
-### 09h20 - 10h00: Gustavo Loachamin, PhD - The framework ROOT CERN and its use in particle physics
+### 09h20 - 10h00: Gustavo Loachamin, MSc (PUC Rio de Janeiro, Brasil) - The framework ROOT CERN and its use in particle physics
 
 **Abstract:**
 Data analysis is a key component of experimental physics, this is why the knowledge of frameworks and programming languages is necessary for physicists. In particle physics for example, the ROOT framework is widely used because of its graphical interface for interactive analysis and its capacity to store and analyze large sets of data of more than 1 exabyte. In this talk, I will be introducing briefly the functionality of ROOT and relating it to my own research: the amplitude analysis of three-body decays.
@@ -97,7 +97,7 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 ## Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-### 10h40 - 12h20: Andrés Morales-Navarrete, PhD - Hands-on Tutorial 3: Introduction to BioImage Analisys with Python
+### 10h40 - 12h20: Andrés Morales-Navarrete, PhD (U. Konstanz, Germany) - Hands-on Tutorial 3: Introduction to BioImage Analisys with Python
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
 
@@ -112,7 +112,7 @@ PostDoctoral Researcher - Zerial Group, Max-Planck-Institute of Molecular Cell B
 ## Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-### 14h00 - 16h00: Andrés Morales-Navarrete, PhD - Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems
+### 14h00 - 16h00: Andrés Morales-Navarrete, PhD (U. Konstanz, Germany) - Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
 
@@ -128,7 +128,7 @@ PostDoctoral Researcher - Zerial Group, Max-Planck-Institute of Molecular Cell B
 ## Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-### 08h00 - 10h00: Edison Salazar - Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models (live virtual)
+### 08h00 - 10h00: Edison Salazar, PhD (U. Leiden, Netherlands) - Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models (live virtual)
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/95609cc0-3c23-40fa-91d0-222cc00e4190" alt="alt text" width="400px">
 
@@ -144,7 +144,7 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 ## Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-### 10h40 - 11h20: Nelson Herrera Aráuz, PhD - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine
+### 10h40 - 11h20: Nelson Herrera Aráuz, PhD (UIDE, Ecuador) - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/7a96e22e-c3af-4a2f-b31a-71035589cbdf" alt="alt text" width="400px">
 
@@ -154,7 +154,7 @@ Relatos y referencias históricas de las circunstancias e incidencias que llevar
 **About the Speaker:**
 Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios secundarios Colegio Central Técnico, estudios superiores en Ingeniería Electrónica en la Escuela Politécnica Nacional; Estudios de Matematica Pura, en la Escuela de Ciencias, de la Universidad Central del Ecuador, Electromecánica; Instituto José Antonio Echeverria La Habana Cuba, Física Universidad de Montpellier Francia. Cuenta con Investigaciones y experiencias científicas en Praga y Varsovia. Estudio teórico - experimentales documentado sobre fenómenos y perturbaciones magnéticas causadas por el eclipse solar del 11 de julio de 1991. Profesor Emérito en Cátedra sustentada por 25 años a la fecha de Matemáticas, Física y Circuitos Digitales en la Escuela de Ingeniería mecánica automotriz, de la Universidad International del Ecuador.
 
-### 11h20 - 12h00: Diego Morales, PhD - TBD
+### 11h20 - 12h00: Diego Morales, PhD (Yachay Tech, Ecuador) - TBD
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/3f164b74-cf19-4331-91c4-8dc7c5d1e763" alt="alt text" width="400px">
 
@@ -170,11 +170,11 @@ Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios sec
 ## Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-### 14h20 - 15h10: Alejandro Gómez - Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python
+### 14h20 - 15h10: Alejandro Gómez Espinosa, PhD (ETH, Switzerland) - Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/4e47d7f1-123a-4fb4-9e39-c9196610af78" alt="alt text" width="400px">
 
-### 15h10 - 16h00: Alejandro Gómez - Hands-on Tutorial 5:How to discover particles in LHC data using Python
+### 15h10 - 16h00: Alejandro Gómez Espinosa, PhD (ETH, Switzerland) - Hands-on Tutorial 5:How to discover particles in LHC data using Python
 
 ## Evening session (18h00 - 20h00)
 18h00 - 20h00: Public talk
@@ -186,7 +186,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ## Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 
-### 08h00 - 10h00: Helga Dénes, PhD - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes
+### 08h00 - 10h00: Helga Dénes, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
 
@@ -201,7 +201,7 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 ## Midday session (10h40 - 12h20)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-### 10h40 - 11h00: Andrés Villares, Fís - Hydrodynamic shielding in galactic multicloud outflows
+### 10h40 - 11h00: Andrés Villares, Fís (Yachay Tech, Ecuador) - Hydrodynamic shielding in galactic multicloud outflows
 
 **Abstract:** 
 Galactic winds are multi-phase outflows of energy and matter leaving star-forming galaxies. Emission and absorption line observations reveal that these winds are multiphase and turbulent. They contain molecular, atomic, and ionised components characterized by different densities and temperatures. The hot phase of galactic winds typically encounters interstellar clumps of cold gas and dust clouds. However, the detection of cold gas at significant distances from the centres of galaxies is a mystery given the ease with which cold clouds can be disrupted. Therefore, numerical simulations are essential to comprehend the underlying physical processes behind cold gas survival. In this project, we carry out a suite of 3D hydrodynamical simulations of a supersonic wind interacting with a multi-cloud arrangement of multiple clouds travelling together. We study how radiative cooling and different cloud separation distances influence their evolution. We find that the lifetime of dense and cold material in radiative clouds is longer than in their adiabatic counterparts. This is attributed to the condensation of warm gas, which effectively sustains the dense gas in the flow. When clouds are further apart, they are more likely to generate dynamical instabilities, leading to higher degrees of mixing and dense gas destruction. Conversely, when clouds are closer, the condensation mechanism is particularly important owing to hydrodynamic shielding, which helps to maintain the cold material throughout the entire evolution. The velocity of the clouds decreases as the cloud separation distance decreases, as this arrangement triggers the generation of large column densities. Hydrodynamic shielding and radiative cooling are thus found to be effective in maintaining cold dense gas for extended periods of time.
@@ -229,7 +229,7 @@ El conocimiento de las tendencias políticas dentro de las redes sociales da un 
 El artículo presenta un enfoque innovador para abordar los desafíos de eficiencia en el transporte urbano de Loja. Mediante la aplicación de minería de datos, aprendizaje automático y visualización de datos, se analiza un dataset con información sobre buses y tiempos de llegada. Los resultados revelaron patrones clave, horarios de mayor demanda y posibles retrasos en las paradas, lo que permitirá optimizar la programación de buses, reducir tiempos de espera y mejorar la eficiencia del transporte.
 Además, el estudio identificó rutas congestionadas, lo que permitirá implementar mejoras adicionales para abordar problemas de tráfico. Este proyecto ha sido valioso al proporcionar información crucial para ofrecer un servicio de transporte más confiable y eficiente, lo que aumentará la satisfacción de los usuarios y mejorará la calidad general del transporte urbano en Loja. En resumen, este enfoque resalta la importancia de la minería de datos en la toma de decisiones estratégicas para el mejoramiento del transporte urbano.
 
-**- Miguel Agama, Universidad Nacional Mayor de San Marcos - The comparison of Newtonian orbits with Schwarzschild orbits around massive objects like the Sun**
+**- Miguel Agama, Universidad Nacional Mayor de San Marcos (Perú) - The comparison of Newtonian orbits with Schwarzschild orbits around massive objects like the Sun**
 **Abstract:** 
 Due to the shortcomings of Newton's theory of universal gravitation, when explaining the disturbances in the orbits of planets like Mercury, a study of orbits is carried out based on the curvature of space-time under the Schwarzschild metric. Under simulations in Python with data such as mass, eccentricity and period for each planet, the pros and cons of each theory can be compared.
 
@@ -282,7 +282,7 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 ## Midday session (10h40 - 12h30)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-**10h00 - 10h40: Paulina Vizcaíno Imacaña, PhD - La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador**
+**10h00 - 10h40: Paulina Vizcaíno Imacaña, PhD (UIDE, Ecuador) - La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador**
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a102454c-0dc0-4be5-ae1d-d689d8129c75" alt="alt text" width="400px">
 
