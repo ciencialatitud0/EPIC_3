@@ -1,19 +1,20 @@
 # Preliminary Programme
 
-We will use two classroom for EPIC 3, which are located in different buildings:
+We will use two classrooms for EPIC 3, which are located in different buildings:
 
 **- For the talks:** SEPA-A06, 1st floor, Senescyt building
+
 **- For the tutorials:** LAB-PB09, ground floor, E2-E3 building 
 
 # Day 1: Monday 14 August 2023
 ## Computational Physics Tools and Data Analysis
 
-### Morning session (08h00 - 10h00)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor
+## Morning session (08h00 - 10h00)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-08h00 - 08h15: Registration
+**08h00 - 08h15: Registration**
 
-08h15 - 08h40: Welcome to EPIC3 and a short introduction from PWF
+**08h15 - 08h40: Welcome to EPIC3 and a short introduction from PWF**
 
 **08h40 - 09h20: Helga Dénes, PhD - The frontiers of Computational Physics**
 
@@ -30,27 +31,42 @@ In this work we solved the equation of scalar and tensor perturbations for the g
 **About the Speaker:** Clara Rojas tiene un Ph. D. en Ciencias mención Física en el Centro de Física del IVIC (Venezuela). Intereses: Cosmología Inflacionaria y Mecánica Cuántica Relativist
 
 
-### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor
+## Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-### Midday session (10h40 - 12h20)
+## Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
-10h40 - 12h20: Hands-on Tutorial 1: Monte Carlo simulations for physics
+**10h40 - 12h20: Hands-on Tutorial 1: Monte Carlo simulations for physics**
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/70d41b1e-c464-4f63-be3c-1873bf8f1933" alt="alt text" width="400px">
 
-### Lunch Break (12h20 - 14h20)
+**Abstract:**
+In this tutorial you will learn to carry our Monte Carlo simulations in python with the purpose of studying physical systems. There will be guided examples on how to carry out Monte Carlo simulations, and you will have time to work on a proposed problem too.
 
-### Afternoon session (14h20 - 16h00)
+**About the Speaker:** Wladimir Banda-Barragan tiene un Ph. D. en Astronomía y Astrofísica de Australian National University
+
+
+## Lunch Break (12h20 - 14h20)
+
+## Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 14h00 - 16h00: Hands-on Tutorial 2: Fast Fourier Transform methods for fluid dynamics
+
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/70d41b1e-c464-4f63-be3c-1873bf8f1933" alt="alt text" width="400px">
+
+
+**Abstract:**
+In this tutorial you will learn to use Fast Fourier Transform algorithms in python to solve parabolic and hyperbolic partial differential equations. There will be guided examples on how to solve the fluid dynamics equations and you will have the chance to work on proposed problems too.
+
+**About the Speaker:** Wladimir Banda-Barragan tiene un Ph. D. en Astronomía y Astrofísica de Australian National University
 
 
 # Day 2: Tuesday 15 August 2023
 ## Machine Learning for Physics and Life Sciences
 
-### Morning session (08h00 - 10h00)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor)
+## Morning session (08h00 - 10h00)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building)
 
 **08h00 - 08h40: Andrés Morales Navarrete, PhD - Using deep learning to understand fish development**
 
@@ -76,17 +92,17 @@ Data analysis is a key component of experimental physics, this is why the knowle
 **About the Speaker:**
 I did my undergraduate studies at the University of British Columbia in Vancouver, Canada with a scholarship from the Ecuadorian government. At UBC, I obtained the degree of Bachelor of Science in Honours Physics with distinction. During my years at UBC, my interest in particle physics started growing and I was involved in a small project for the TREK collaboration, that was testing lepton universality. After I finished, I moved to Brazil and started working for the LHCb collaboration and obtained the Master in Physics in the area of particle physics and fields. My research for the LHCb was focused on the amplitude analysis of a three-body decay. 
 
-### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor
+## Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-### Midday session (10h40 - 12h20)
+## Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 10h40 - 12h20: Hands-on Tutorial 3: Introduction to BioImage Analisys with Python
 
-### Lunch Break (12h20 - 14h20)
+## Lunch Break (12h20 - 14h20)
 
-### Afternoon session (14h20 - 16h00)
+## Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 14h00 - 16h00: Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems
@@ -95,15 +111,17 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 # Day 3: Wednesday 16 August 2023
 ## Materials Science and High-energy Physics
 
-#### - Morning session (08h00 - 10h00)
+## - Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 08h00 - 10h00: Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models
 
-### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/95609cc0-3c23-40fa-91d0-222cc00e4190" alt="alt text" width="400px">
 
-### Midday session (10h40 - 12h20)
+## Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building
+
+## Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 **10h40 - 11h20: Nelson Herrera Aráuz, PhD - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine**
@@ -127,9 +145,9 @@ Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios sec
 
 **12h00 - 12h30: YT talk**
 
-### Lunch Break (12h30 - 14h20)
+## Lunch Break (12h30 - 14h20)
 
-### Afternoon session (14h20 - 16h00)
+## Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 **14h20 - 15h10: Alejandro Gómez - Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python**
@@ -138,22 +156,22 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 **15h10 - 16h00: Alejandro Gómez - Hands-on Tutorial 5:How to discover particles in LHC data using Python**
 
-### Evening session (18h00 - 20h00)
+## Evening session (18h00 - 20h00)
 18h00 - 20h00: Public talk
 
 
 # Day 4: Thursday 17 August 2023
 ## Astrophysics and Computing
 
-### Morning session (08h00 - 10h00)
+## Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 
 **08h00 - 10h00: Helga Dénes, PhD - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes**
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
 
-### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor
+## Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
 **10h40 - 11h00: Andrés Villares, Fís - Hydrodynamic shielding in galactic multicloud outflows**
 
@@ -162,14 +180,14 @@ Galactic winds are multi-phase outflows of energy and matter leaving star-formin
 
 **About the Speaker:**
 
-### Midday session (11h00 - 12h20)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor
+## Midday session (11h00 - 12h20)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
 10h40 - 12h20: Contributed talks
 
-#### Lunch Break (12h20 - 14h20)
+## Lunch Break (12h20 - 14h20)
 
-#### - Afternoon session (14h20 - 16h00)
+## - Afternoon session (14h20 - 16h00)
 
 14h20 - 16h00: Campus Tour Yachay Tech
 
@@ -177,23 +195,27 @@ Location: Classroom SEPA-A06, Senescyt building 2nd floor
 # Day 5: Friday 18 August 2023
 ## EPIC 3 Student Presentations and Diversity in Science
 
-### Morning session (08h00 - 09h30)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor
+## Morning session (08h00 - 09h30)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
 08h00 - 10h00: Student group talks
 
-### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor
+## Coffee Break (10h00 - 10h40)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-### Midday session (10h40 - 12h30)
-Location: Classroom SEPA-A06, Senescyt building 2nd floor
+## Midday session (10h40 - 12h30)
+Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-10h00 - 10h40: La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador
+**10h00 - 10h40: Paulina Vizcaíno Imacaña, PhD - La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador**
 
-10h40 - 11h30: Mini-presentations from Female Scientists
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a102454c-0dc0-4be5-ae1d-d689d8129c75" alt="alt text" width="400px">
 
-11h30 - 12h20: Women in STEM Forum
+The social and historical construction of the role of women in society has been the subject of study of several feminist theories, which attempt to highlight the dichotomy in philosophical and sociocultural thought that validates the distribution of activities based on sex. The public, rational and technical has been relegated to men, while women represent the sensitive, emotional and private. This structure of stereotypes that is reproduced generationally allows us to discern the reasons why there are fewer women pursuing STEM careers. Identifying the reasons that drive women in their choice of a university career allows us to establish strategies to promote the vocation of women who are oriented towards science, technology, engineering and mathematics in Ecuador. The research also seeks to quantitatively evaluate the academic performance of women in STEM careers; and to analyze the participation of women in the field of research in higher education.The objective of the project is to analyze the factors motivating women to pursue STEM careers in Ecuador, Kazakhstan and  India.
 
-12h20 - 12h30: Concluding Remarks & Wrap-up
+**10h40 - 11h30: Mini-presentations from Female Scientists**
 
-### Good-Bye Lunch (12h30 - 14h00)
+**11h30 - 12h20: Women in STEM Forum**
+
+**12h20 - 12h30: Concluding Remarks & Wrap-up**
+
+## Good-Bye Lunch (12h30 - 14h00)
