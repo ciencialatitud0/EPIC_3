@@ -33,7 +33,7 @@ In this work we solved the equation of scalar and tensor perturbations for the g
 ## Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-### Midday session (10h40 - 12h20)
+## Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 **10h40 - 12h20: Wladimir Banda-Barragán, PhD - Hands-on Tutorial 1: Monte Carlo simulations for physics**
@@ -125,7 +125,7 @@ PostDoctoral Researcher - Zerial Group, Max-Planck-Institute of Molecular Cell B
 # Day 3: Wednesday 16 August 2023
 ## Materials Science and High-energy Physics
 
-## - Morning session (08h00 - 10h00)
+## Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
 
 ### 08h00 - 10h00: Edison Salazar - Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models (live virtual)
