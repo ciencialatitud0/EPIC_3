@@ -200,34 +200,34 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 ### 10h40 - 12h20: Contributed talks
 
 **- Isabel Balvoa, ESPOCH - Identificación del alineamiento global óptimo para dos genomas del virus de Papiloma Humano**
-
+**Abstract:** 
 El virus del Papiloma Humano es un virus ADN de doble cadena, miembro de la familia Papollomaviridae. Es un virus que infecta principalmente células epiteliales cutáneas y mucosas. Este virus presenta varios tipos; sin embargo, los tipos HPV16 y HPV18 son considerados de alto riesgo, asociados con cánceres cervicouterinos, a
 nivel mundial es causante del cuarto cáncer más frecuenta en mujeres. La alineación es un proceso para comparar dos secuencias biológicas, en este caso ADN con el objetivo de determinar el grado de similitud. En la presente investigación se utilizaron tres herramientas de alineamiento global, que usan el algoritmo de Needleman-Wunsch, para comparar dos secuencias de genoma del virus del Papiloma Humano, ACCESSION NC_001526 (type 16) y ACCESSION NC_027779 (isolate SE379). Conforme los resultados obtenidos, se determinó que el uso de la herramienta GGSEARCH2SEQ, con la interacción de los parámetros v1, apertura de brecha (–2) y extensión de brecha (-1), presentó los valores más altos de similitud con 50,4%, identidad con 50,4% y un score de 30369.
 
 **- Mayra Tualombo, Yachay Tech - Predicting Dementia Based on Menopause as a Risk Factor Using Variational Autoencoders**
-
+**Abstract:** 
 There is increasing evidence that menopausal changes can have an impact on women's cognition and can be a risk factor for the development of dementia. Some studies try to explain the relationship between the predominance of dementia linked with postmenopausal hormones. However, the evidence is mixed, with some showing positive effects while others show no or even negative effects. In this investigation, we considered some variables related to the interested health condition. The results obtained through the application of Variational Autoencoders reflect variables' relationship to physical, emotional, and biological effects. Furthermore, this study explains the preponderance of dementia among postmenopausal women compared with same-age men supporting a tentative role of their predominance of suffering from dementia.
 
 **- Karla Conde, UIDE - Análisis de sentimientos en redes sociales de las Elecciones presidenciales electorales 2023 usando procesamiento de lenguaje natural**
-
+**Abstract:** 
 Con las próximas elecciones presidenciales 2023, extraer datos en las páginas de Facebook es un recurso importante para comprender las tendencias políticas la plataforma.
 El conocimiento de las tendencias políticas dentro de las redes sociales da un aproximado en cuanto a datos para definir cuales son los candidatos que estan teniendo mas acogida y con mayor probabilidad para ganar dichas elecciones. Con este análisis se solventa la predicción e interpretación de emociones y sentimientos que tienen los votantes hacia los candidatos y temas políticos. Se evalúa el nivel de participación ciudadana e interés por la política durante las campañas electorales. En conclusión, utilizar técnicas de minería de datos para explotar la información de Facebook, plataforma que es influyente en debate político y compromiso cívico, ayuda a comprender las opiniones y tendencias preferenciales de los votantes, usando procesamiento de lenguaje natural y minería de datos.
 
 **- Daniel Gustavo Cordova, UIDE - Mineria de datos para la Optimización de tiempos en el Transporte Urbano en la ciudad de Loja**
-
+**Abstract:** 
 El artículo presenta un enfoque innovador para abordar los desafíos de eficiencia en el transporte urbano de Loja. Mediante la aplicación de minería de datos, aprendizaje automático y visualización de datos, se analiza un dataset con información sobre buses y tiempos de llegada. Los resultados revelaron patrones clave, horarios de mayor demanda y posibles retrasos en las paradas, lo que permitirá optimizar la programación de buses, reducir tiempos de espera y mejorar la eficiencia del transporte.
 Además, el estudio identificó rutas congestionadas, lo que permitirá implementar mejoras adicionales para abordar problemas de tráfico. Este proyecto ha sido valioso al proporcionar información crucial para ofrecer un servicio de transporte más confiable y eficiente, lo que aumentará la satisfacción de los usuarios y mejorará la calidad general del transporte urbano en Loja. En resumen, este enfoque resalta la importancia de la minería de datos en la toma de decisiones estratégicas para el mejoramiento del transporte urbano.
 
 **- Miguel Agama, Universidad Nacional Mayor de San Marcos - The comparison of Newtonian orbits with Schwarzschild orbits around massive objects like the Sun**
-
+**Abstract:** 
 Due to the shortcomings of Newton's theory of universal gravitation, when explaining the disturbances in the orbits of planets like Mercury, a study of orbits is carried out based on the curvature of space-time under the Schwarzschild metric. Under simulations in Python with data such as mass, eccentricity and period for each planet, the pros and cons of each theory can be compared.
 
 **- Lizbeth Lara, Yachay Tech - Star Formation Rates and Dust Masses of resolved regions for The nearby Galaxy NGC3938 with H alpha maps and TolTEC Simulations**
-
+**Abstract:** 
 The TolTEC camera is installed on the Large Millimeter Telescope. While waiting to start making the first observations, we have simulations of the observations that are planned to be made. These are simulated by TolTEC - Mexico and Liverpool Telescope - Spain. In this work, we will start from these simulated observations to perform their treatment, photometry and later analyze them. The observations to be used correspond to the nearby spiral galaxy NGC 3938 where it is expected to detect and measure cold dust as a tracer of star-forming gas. The objective of this work is to measure star formation rates, flux intensity for the different star forming groups in the nearby galaxy; to derive the physical properties of the clumps in the nearby galaxy, such as dust mass, gas mass and dust emission temperature by spectral energy distribution (SED) fits. In addition to presenting the finding of the ratio of star formation rates versus dust mass for regions resolved in H alpha and TolTEC maps for 1.1mm, 1.4mm, and 2.0mm.
 
 **- Vicente Arévalo, Yachay Tech - CTA science**
-
+**Abstract:** 
 TBD
 
 
@@ -275,7 +275,11 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a102454c-0dc0-4be5-ae1d-d689d8129c75" alt="alt text" width="400px">
 
+**Abstract:** 
 The social and historical construction of the role of women in society has been the subject of study of several feminist theories, which attempt to highlight the dichotomy in philosophical and sociocultural thought that validates the distribution of activities based on sex. The public, rational and technical has been relegated to men, while women represent the sensitive, emotional and private. This structure of stereotypes that is reproduced generationally allows us to discern the reasons why there are fewer women pursuing STEM careers. Identifying the reasons that drive women in their choice of a university career allows us to establish strategies to promote the vocation of women who are oriented towards science, technology, engineering and mathematics in Ecuador. The research also seeks to quantitatively evaluate the academic performance of women in STEM careers; and to analyze the participation of women in the field of research in higher education.The objective of the project is to analyze the factors motivating women to pursue STEM careers in Ecuador, Kazakhstan and  India.
+
+**About the Speaker:**
+Director of the School of Computer Science at the International University of Ecuador. Expert in educational tools and digital collaboration platforms. With a background in educational research. She has participated as a speaker in various seminars in countries such as Colombia, Spain, and Ecuador. Additionally, she has served as a jury member for doctoral theses in Colombia. In the field of research, she created UIDE - The STEM Gender Gap and is currently involved in projects with the CINTANA network, collaborating with countries such as India, Kazakhstan, and Ecuador. She is also conducting research on ICT in Education with the Simon Bolivar University of Colombia. She is a member of the EDInnova Network, which includes universities in Spain, Mexico, Costa Rica, Colombia, and Ecuador. She has multiple publications including book chapters from DYKINSON Publishing, as well as scientific articles indexed in Scopus. Among her academic achievements, she received the International and Cum Laude distinction in her Ph.D. from the Autonomous University of Madrid.
 
 ### 10h40 - 11h30: Mini-presentations from Female Scientists
 
