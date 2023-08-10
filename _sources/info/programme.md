@@ -1,10 +1,15 @@
 # Preliminary Programme
 
+We will use two classroom for EPIC 3, which are located in different buildings:
+
+**- For the talks:** SEPA-A06, 1st floor, Senescyt building
+**- For the tutorials:** LAB-PB09, ground floor, E2-E3 building 
+
 # Day 1: Monday 14 August 2023
 ## Computational Physics Tools and Data Analysis
 
 ### Morning session (08h00 - 10h00)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor
+Location: Classroom SEPA-A06, Senescyt building 2nd floor
 
 08h00 - 08h15: Registration
 
@@ -26,7 +31,7 @@ In this work we solved the equation of scalar and tensor perturbations for the g
 
 
 ### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor
+Location: Classroom SEPA-A06, Senescyt building 2nd floor
 
 ### Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
@@ -45,7 +50,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ## Machine Learning for Physics and Life Sciences
 
 ### Morning session (08h00 - 10h00)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor)
+Location: Classroom SEPA-A06, Senescyt building 2nd floor)
 
 **08h00 - 08h40: Andrés Morales Navarrete, PhD - Using deep learning to understand fish development**
 
@@ -72,7 +77,7 @@ Data analysis is a key component of experimental physics, this is why the knowle
 I did my undergraduate studies at the University of British Columbia in Vancouver, Canada with a scholarship from the Ecuadorian government. At UBC, I obtained the degree of Bachelor of Science in Honours Physics with distinction. During my years at UBC, my interest in particle physics started growing and I was involved in a small project for the TREK collaboration, that was testing lepton universality. After I finished, I moved to Brazil and started working for the LHCb collaboration and obtained the Master in Physics in the area of particle physics and fields. My research for the LHCb was focused on the amplitude analysis of a three-body decay. 
 
 ### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor
+Location: Classroom SEPA-A06, Senescyt building 2nd floor
 
 ### Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
@@ -96,7 +101,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 08h00 - 10h00: Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models
 
 ### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor
+Location: Classroom SEPA-A06, Senescyt building 2nd floor
 
 ### Midday session (10h40 - 12h20)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
@@ -148,7 +153,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
 
 ### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor
+Location: Classroom SEPA-A06, Senescyt building 2nd floor
 
 **10h40 - 11h00: Andrés Villares, Fís - Hydrodynamic shielding in galactic multicloud outflows**
 
@@ -158,7 +163,7 @@ Galactic winds are multi-phase outflows of energy and matter leaving star-formin
 **About the Speaker:**
 
 ### Midday session (11h00 - 12h20)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor
+Location: Classroom SEPA-A06, Senescyt building 2nd floor
 
 10h40 - 12h20: Contributed talks
 
@@ -173,15 +178,15 @@ Location: Classroom SEPA-A19, Senescyt building 2nd floor
 ## EPIC 3 Student Presentations and Diversity in Science
 
 ### Morning session (08h00 - 09h30)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor
+Location: Classroom SEPA-A06, Senescyt building 2nd floor
 
 08h00 - 10h00: Student group talks
 
 ### Coffee Break (10h00 - 10h40)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor
+Location: Classroom SEPA-A06, Senescyt building 2nd floor
 
 ### Midday session (10h40 - 12h30)
-Location: Classroom SEPA-A19, Senescyt building 2nd floor
+Location: Classroom SEPA-A06, Senescyt building 2nd floor
 
 10h00 - 10h40: La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador
 
