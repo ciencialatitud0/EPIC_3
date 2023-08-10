@@ -20,6 +20,11 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
 
+**Abstract:**
+Today computers and computation is part of everyday life and one of the essential components of science. To name some examples, our mobile phones are more sophisticated computers than the first PCs, our IDs tend to be digital, everyone has emails and most people have mobile banks. In the last few months the new artificial intelligence (AI) softwares have generated much attention, however AI has been behind many computer applications for several years. Computation in the sciences has had a long history since the planning of the first Moon Landing in the 1960 to todays most advanced supercomputers. One of the obvious fields of scientific computing is the more and more complex theoretical computer simulations that drive the development of supercomputers. Another important fields are the computers that power the instruments of experimental research. For example, the brains of modern radio telescopes and large particle accelerators are supercomputers as well. In addition, to taking and generating data it is also essential to have the tools to analyse, visualise and disseminate this data. Having a good knowledge of computing these days can open the doors for working in sciences, in industry and in public offices.
+
+**About the Speaker:** PhD in Astrophysics from Swinburne University of Technology.
+
 
 ### 09h20 - 10h00: Clara Rojas, PhD (Yachay Tech, Ecuador) - Analysis of the generalized Starobinsky inflationary model
 
@@ -193,7 +198,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 **Abstract:**
 Brief explanation on astrophysics behind galaxies and their neutral hydrogen (HI content). Reading in fits data cubes (3D spectral line data - HI data of a galaxy). Plotting slices of the 3D data cube and making moment maps. Downloading astronomical images from a database (for the same galaxy as the HI data). Making an overlay of the HI data onto an optical image. Calculating some basic statistics for the spectra. Averaging the spectra for the galaxy. Calculating the HI mass of a galaxy. Fitting a Gaussian to spectra
 
-**About the Speaker:** PhD in Astrophysics from Swiburne University of Technology.
+**About the Speaker:** PhD in Astrophysics from Swinburne University of Technology.
 
 ## Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
