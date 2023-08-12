@@ -32,3 +32,4 @@
 - Jhon Steeven Villacís Ramón, Universidad Yachay Tech, Ecuador
 - Milton Ricardo Palacios Morocho, Universidad Internacional del Ecuador
 - Luis Roberto Jácome Galarza, Universidad Internacional del Ecuador
+- Ivan Galo Reyes Chacón, Universidad Internacional del Ecuador
