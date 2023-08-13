@@ -458,46 +458,11 @@ document.write(`
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>✨🍰✨ Everything looks OK!
-</pre></div>
-</div>
-</div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="o">!</span><span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>uproot
 <span class="o">!</span><span class="w"> </span>conda<span class="w"> </span>install<span class="w"> </span>-c<span class="w"> </span>conda-forge<span class="w"> </span>xrootd
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Requirement already satisfied: uproot in /usr/local/lib/python3.10/site-packages (5.0.10)
-Requirement already satisfied: numpy in /usr/local/lib/python3.10/site-packages (from uproot) (1.25.2)
-Requirement already satisfied: awkward&gt;=2.0.0 in /usr/local/lib/python3.10/site-packages (from uproot) (2.3.1)
-Requirement already satisfied: packaging in /usr/local/lib/python3.10/site-packages (from uproot) (23.1)
-Requirement already satisfied: typing-extensions&gt;=4.1.0 in /usr/local/lib/python3.10/site-packages (from awkward&gt;=2.0.0-&gt;uproot) (4.7.1)
-Requirement already satisfied: awkward-cpp==21 in /usr/local/lib/python3.10/site-packages (from awkward&gt;=2.0.0-&gt;uproot) (21)
-<span class=" -Color -Color-Yellow">WARNING: Running pip as the &#39;root&#39; user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv</span>
-Collecting package metadata (current_repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / done
-Solving environment: \ | / - \ | / - \ | / - done
-
-
-==&gt; WARNING: A newer version of conda exists. &lt;==
-  current version: 23.3.1
-  latest version: 23.7.2
-
-Please update conda by running
-
-    $ conda update -n base -c conda-forge conda
-
-Or to minimize the number of packages updated during conda update use
-
-     conda install conda=23.7.2
-
-
-
-# All requested packages already installed.
 </pre></div>
 </div>
 </div>
@@ -558,241 +523,11 @@ We can see how many rows (jets) are contained in the tree, by checking its <code
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>200000
-</pre></div>
-</div>
-</div>
 </div>
 <p>Let’s list the contents (branches) of the tree.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">tree</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>name                 | typename                 | interpretation                
----------------------+--------------------------+-------------------------------
-Delta_gen_pt         | float                    | AsDtype(&#39;&gt;f4&#39;)
-event_no             | uint32_t                 | AsDtype(&#39;&gt;u4&#39;)
-gen_pt               | float                    | AsDtype(&#39;&gt;f4&#39;)
-isB                  | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-isBB                 | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-isC                  | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-isG                  | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-isLeptonicB          | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-isLeptonicB_C        | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-isS                  | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-isUD                 | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-isUndefined          | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-jet_corr_pt          | float                    | AsDtype(&#39;&gt;f4&#39;)
-jet_eta              | float                    | AsDtype(&#39;&gt;f4&#39;)
-jet_looseId          | float                    | AsDtype(&#39;&gt;f4&#39;)
-jet_no               | uint32_t                 | AsDtype(&#39;&gt;u4&#39;)
-jet_phi              | float                    | AsDtype(&#39;&gt;f4&#39;)
-jet_pt               | float                    | AsDtype(&#39;&gt;f4&#39;)
-jet_tightId          | float                    | AsDtype(&#39;&gt;f4&#39;)
-npv                  | float                    | AsDtype(&#39;&gt;f4&#39;)
-ntrueInt             | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfBoostedDoubleSe... | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfCombinedInclusi... | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfCombinedMVAV2BJ... | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfDeepCSVJetTags_... | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfDeepCSVJetTags_... | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfDeepCSVJetTags_... | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfDeepCSVJetTags_... | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfDeepCSVJetTags_... | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfJetBProbability... | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfJetProbabilityB... | float                    | AsDtype(&#39;&gt;f4&#39;)
-rho                  | float                    | AsDtype(&#39;&gt;f4&#39;)
-softPFElectronBJe... | float                    | AsDtype(&#39;&gt;f4&#39;)
-softPFMuonBJetTags   | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_doubleb           | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_eta               | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_gen_eta           | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_gen_pt            | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_isBB              | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_isH               | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_isNonBB           | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_isQCD             | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_isTop             | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_isW               | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_isZ               | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_jetNTracks        | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_label             | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_labelJMAR         | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_labelLegacy       | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_mass              | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_nSV               | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_n_sdsubjets       | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_nbHadrons         | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_ncHadrons         | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-fj_phi               | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_pt                | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_ptDR              | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_relptdiff         | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdmass            | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdn2              | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj1_axis1       | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj1_axis2       | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj1_csv         | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj1_eta         | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj1_mass        | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj1_mult        | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj1_phi         | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj1_pt          | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj1_ptD         | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj2_axis1       | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj2_axis2       | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj2_csv         | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj2_eta         | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj2_mass        | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj2_mult        | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj2_phi         | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj2_pt          | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_sdsj2_ptD         | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau0_trackEtaR... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau0_trackEtaR... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau0_trackEtaR... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau1              | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau1_trackEtaR... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau1_trackEtaR... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau1_trackEtaR... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau2              | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau21             | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau3              | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau32             | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau_flightDist... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau_flightDist... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau_vertexDelt... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau_vertexEner... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau_vertexEner... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau_vertexMass_0  | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_tau_vertexMass_1  | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSip2dSigA... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSip2dSigA... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSip2dSigA... | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSipdSig_0    | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSipdSig_0_0  | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSipdSig_0_1  | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSipdSig_1    | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSipdSig_1_0  | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSipdSig_1_1  | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSipdSig_2    | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_trackSipdSig_3    | float                    | AsDtype(&#39;&gt;f4&#39;)
-fj_z_ratio           | float                    | AsDtype(&#39;&gt;f4&#39;)
-label_H_bb           | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_H_cc           | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_H_qqqq         | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_QCD_b          | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_QCD_bb         | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_QCD_c          | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_QCD_cc         | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_QCD_others     | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_Top_bc         | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_Top_bcq        | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_Top_bq         | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_Top_bqq        | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_W_cq           | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_W_qq           | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_Z_bb           | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_Z_cc           | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-label_Z_qq           | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-sample_isQCD         | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-n_pfcands            | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-npfcands             | float                    | AsDtype(&#39;&gt;f4&#39;)
-pfcand_VTX_ass       | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_charge        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_deltaR        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_drminsv       | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_drsubjet1     | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_drsubjet2     | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_dxy           | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_dxysig        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_dz            | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_dzsig         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_erel          | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_etarel        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_fromPV        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_hcalFrac      | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_isChargedHad  | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_isEl          | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_isGamma       | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_isMu          | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_isNeutralHad  | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_lostInnerHits | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_mass          | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_phirel        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_ptrel         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-pfcand_puppiw        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-n_tracks             | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-ntracks              | float                    | AsDtype(&#39;&gt;f4&#39;)
-trackBTag_DeltaR     | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_Eta        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_EtaRel     | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_JetDistVal | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_Momentum   | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_PPar       | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_PParRatio  | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_PtRatio    | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_PtRel      | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_Sip2dSig   | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_Sip2dVal   | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_Sip3dSig   | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-trackBTag_Sip3dVal   | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_VTX_ass        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_charge         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_deltaR         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_detadeta       | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dlambdadz      | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dphidphi       | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dphidxy        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dptdpt         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_drminsv        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_drsubjet1      | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_drsubjet2      | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dxy            | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dxydxy         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dxydz          | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dxysig         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dz             | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dzdz           | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_dzsig          | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_erel           | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_etarel         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_fromPV         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_isChargedHad   | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_isEl           | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_isMu           | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_lostInnerHits  | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_mass           | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_normchi2       | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_phirel         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_pt             | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_ptrel          | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_puppiw         | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-track_quality        | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-n_sv                 | int32_t                  | AsDtype(&#39;&gt;i4&#39;)
-nsv                  | float                    | AsDtype(&#39;&gt;f4&#39;)
-sv_chi2              | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_costhetasvpv      | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_d3d               | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_d3derr            | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_d3dsig            | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_deltaR            | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_dxy               | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_dxyerr            | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_dxysig            | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_erel              | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_etarel            | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_mass              | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_ndf               | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_normchi2          | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_ntracks           | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_phirel            | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_pt                | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
-sv_ptrel             | std::vector&lt;float&gt;       | AsJagged(AsDtype(&#39;&gt;f4&#39;), he...
 </pre></div>
 </div>
 </div>
@@ -817,17 +552,6 @@ The latter means there may a variable number per jet.</p>
                      <span class="n">entry_stop</span><span class="o">=</span><span class="mi">20000</span><span class="p">,</span>
                      <span class="n">library</span><span class="o">=</span><span class="s1">&#39;np&#39;</span><span class="p">)</span>
 <span class="n">labels</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>{&#39;label_QCD_b&#39;: array([0, 0, 0, ..., 0, 0, 0], dtype=int32),
- &#39;label_QCD_bb&#39;: array([0, 0, 0, ..., 0, 0, 0], dtype=int32),
- &#39;label_QCD_c&#39;: array([0, 0, 0, ..., 0, 0, 0], dtype=int32),
- &#39;label_QCD_cc&#39;: array([0, 0, 0, ..., 0, 1, 1], dtype=int32),
- &#39;label_QCD_others&#39;: array([1, 1, 1, ..., 1, 0, 0], dtype=int32),
- &#39;label_H_bb&#39;: array([0, 0, 0, ..., 0, 0, 0], dtype=int32),
- &#39;sample_isQCD&#39;: array([1, 1, 1, ..., 1, 1, 1], dtype=int32)}
 </pre></div>
 </div>
 </div>
@@ -866,21 +590,11 @@ The latter means there may a variable number per jet.</p>
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0
-</pre></div>
-</div>
-</div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># fraction of jets with some truth label defined</span>
 <span class="nb">sum</span><span class="p">(</span><span class="n">label_QCD</span><span class="o">+</span><span class="n">label_Hbb</span><span class="p">)</span><span class="o">/</span><span class="nb">len</span><span class="p">(</span><span class="n">label_QCD</span><span class="o">+</span><span class="n">label_Hbb</span><span class="p">)</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0.93785
 </pre></div>
 </div>
 </div>
@@ -921,10 +635,6 @@ The latter means there may a variable number per jet.</p>
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<img alt="../../_images/3fac1b378e5293c1f4ff263f51fddde11a15ea60ec1130507ce9e9cd74775390.png" src="../../_images/3fac1b378e5293c1f4ff263f51fddde11a15ea60ec1130507ce9e9cd74775390.png" />
-<img alt="../../_images/b985ee7dd99cdaec83bdad01cb91bb67793acb1e2acf802fe1f00fccf36be97d.png" src="../../_images/b985ee7dd99cdaec83bdad01cb91bb67793acb1e2acf802fe1f00fccf36be97d.png" />
-</div>
 </div>
 </section>
 <section id="jagged-arrys">
@@ -941,43 +651,12 @@ The latter means there may a variable number per jet.</p>
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<div class="output text_html"><pre>[{track_pt: [1.05, 0.957, ..., 1.62, 1.23], label_H_bb: 0},
- {track_pt: [2.78, 3.53, ..., 1.46, 1.43], label_H_bb: 0},
- {track_pt: [1.53, 6.82, ..., 36.3, 1.15], label_H_bb: 0},
- {track_pt: [2.88, 6.65, ..., 9.36, 1.27], label_H_bb: 0},
- {track_pt: [1.44, 5.91, ..., 5.83, 10.8], label_H_bb: 0},
- {track_pt: [8.88, 16, ..., 1.93, 1.14], label_H_bb: 0},
- {track_pt: [3.45, 1.8, ..., 3.75, 1.89], label_H_bb: 0},
- {track_pt: [1.07, 1.48, ..., 1.47, 2.13], label_H_bb: 0},
- {track_pt: [1.5, 2.99, ..., 21.1, 2.48], label_H_bb: 0},
- {track_pt: [3.21, 127, ..., 1.23, 9.56], label_H_bb: 0},
- ...,
- {track_pt: [1.58, 1.45, ..., 1.2, 2.16], label_H_bb: 0},
- {track_pt: [6.7, 1.11, ..., 26.2, 2.52], label_H_bb: 0},
- {track_pt: [1.78, 2.98, ..., 4.09, 1.14], label_H_bb: 0},
- {track_pt: [1.31, 1.26, ..., 5.94, 4.5], label_H_bb: 0},
- {track_pt: [1.53, 1.93, ..., 6.02, 1.36], label_H_bb: 0},
- {track_pt: [4.18, 3.69, ..., 1.33, 1.72], label_H_bb: 0},
- {track_pt: [1.08, 2.52, ..., 24.5, 8.49], label_H_bb: 0},
- {track_pt: [4.81, 2.68, ..., 23.4, 6.32], label_H_bb: 0},
- {track_pt: [2.41, 1.43, ..., 1.04, 2.97], label_H_bb: 0}]
------------------------------------------------------------
-type: 20000 * {
-    track_pt: var * float32,
-    label_H_bb: int32
-}</pre></div></div>
 </div>
 <p>Note the difference between a “flat” array, where these a fixed number per jet (like 1 per jet in the case of jet properties) and a jagged array, where there are a variable number.</p>
 <p>We can demonstrate this by looking at the first jet in the dataset. As we’ll see there are 21 tracks, each with their own pt.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">jet_features</span><span class="p">[</span><span class="s1">&#39;fj_pt&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>251.27692
 </pre></div>
 </div>
 </div>
@@ -988,29 +667,6 @@ type: 20000 * {
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<div class="output text_html"><pre>[1.05,
- 0.957,
- 1.46,
- 1.09,
- 3.17,
- 3.39,
- 6.86,
- 3.43,
- 1.87,
- 2.89,
- ...,
- 5.01,
- 62.9,
- 7.02,
- 11.1,
- 4.54,
- 14.1,
- 18.2,
- 1.62,
- 1.23]
-------------------
-type: 21 * float32</pre></div></div>
 </div>
 <p>Note, behind the scenes, jagged arrays are just like normal numpy arrays, except there’s additional structure, retreivable from the <code class="docutils literal notranslate"><span class="pre">ak.num</span></code> function, which tells us the (variable) number of tracks per jet.</p>
 <div class="cell docutils container">
@@ -1019,29 +675,6 @@ type: 21 * float32</pre></div></div>
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<div class="output text_html"><pre>[21,
- 35,
- 24,
- 32,
- 28,
- 24,
- 25,
- 32,
- 49,
- 31,
- ...,
- 34,
- 18,
- 8,
- 29,
- 19,
- 16,
- 25,
- 20,
- 45]
--------------------
-type: 20000 * int64</pre></div></div>
 </div>
 </section>
 <section id="operations-with-jaggedness">
@@ -1059,9 +692,6 @@ type: 20000 * int64</pre></div></div>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
-</div>
-<div class="cell_output docutils container">
-<img alt="../../_images/3fa48210ff60b9abfc9cf9f7726ccf39c1e60700667af117555a0b83f2f34aa7.png" src="../../_images/3fa48210ff60b9abfc9cf9f7726ccf39c1e60700667af117555a0b83f2f34aa7.png" />
 </div>
 </div>
 </section>
@@ -1081,9 +711,6 @@ The simplest way to do this is to use zero-padding and truncation to “cap” t
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<img alt="../../_images/c382c0edb70d9ae4aec0fcacbc63e8f22dfcbd524760ae6cc48badb9599d9b62.png" src="../../_images/c382c0edb70d9ae4aec0fcacbc63e8f22dfcbd524760ae6cc48badb9599d9b62.png" />
-</div>
 </div>
 <p>In this case, 60 seems to be a reasonable number.</p>
 <div class="cell docutils container">
@@ -1093,26 +720,6 @@ The simplest way to do this is to use zero-padding and truncation to “cap” t
 <span class="n">a</span> <span class="o">=</span> <span class="n">ak</span><span class="o">.</span><span class="n">fill_none</span><span class="p">(</span><span class="n">ak</span><span class="o">.</span><span class="n">pad_none</span><span class="p">(</span><span class="n">track_features</span><span class="p">[</span><span class="s1">&#39;track_pt&#39;</span><span class="p">],</span> <span class="n">max_tracks</span><span class="p">,</span> <span class="n">clip</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">axis</span><span class="o">=-</span><span class="mi">1</span><span class="p">),</span> <span class="n">pad_value</span><span class="p">,</span> <span class="n">axis</span><span class="o">=-</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">to_numpy</span><span class="p">()</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">a</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>
 <span class="n">a</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>(20000, 60)
-</pre></div>
-</div>
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>array([[ 1.05371094,  0.95654297,  1.45703125, ...,  0.        ,
-         0.        ,  0.        ],
-       [ 2.78320312,  3.52539062, 49.09375   , ...,  0.        ,
-         0.        ,  0.        ],
-       [ 1.53027344,  6.81640625,  2.92578125, ...,  0.        ,
-         0.        ,  0.        ],
-       ...,
-       [ 1.08105469,  2.5234375 , 10.265625  , ...,  0.        ,
-         0.        ,  0.        ],
-       [ 4.8125    ,  2.6796875 ,  3.98242188, ...,  0.        ,
-         0.        ,  0.        ],
-       [ 2.41015625,  1.43457031,  2.46289062, ...,  0.        ,
-         0.        ,  0.        ]])
 </pre></div>
 </div>
 </div>
@@ -1129,12 +736,6 @@ The simplest way to do this is to use zero-padding and truncation to “cap” t
 <span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">()</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">a</span><span class="o">.</span><span class="n">nonzero</span><span class="p">())</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<img alt="../../_images/b14b7f02f5eeeec810bc868871aa0d3a4ffb5a0b08f207f2ed7d18de9bae4415.png" src="../../_images/b14b7f02f5eeeec810bc868871aa0d3a4ffb5a0b08f207f2ed7d18de9bae4415.png" />
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>(array([    0,     0,     0, ..., 19999, 19999, 19999]), array([ 0,  1,  2, ..., 42, 43, 44]))
 </pre></div>
 </div>
 </div>
@@ -1307,12 +908,6 @@ In particular we quantify how displaced a track is in terms of its <em>impact pa
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<img alt="../../_images/efeb89086fb0e34643207f9180e592d568b070112494bb6d2caf6087590240d1.png" src="../../_images/efeb89086fb0e34643207f9180e592d568b070112494bb6d2caf6087590240d1.png" />
-<img alt="../../_images/6ae014911b4f657848a3af6f0331930cb15a3b3d29214b3bdeab51f63485c4dd.png" src="../../_images/6ae014911b4f657848a3af6f0331930cb15a3b3d29214b3bdeab51f63485c4dd.png" />
-<img alt="../../_images/1ca4c2bce7d5c53657286538a8ac7e07f01bec1ec1a3dc2b213217808aec7bbb.png" src="../../_images/1ca4c2bce7d5c53657286538a8ac7e07f01bec1ec1a3dc2b213217808aec7bbb.png" />
-<img alt="../../_images/f727e53581bd94a4d796062431b1e4951ec9aa85184c0353b6d5bd53509deb60.png" src="../../_images/f727e53581bd94a4d796062431b1e4951ec9aa85184c0353b6d5bd53509deb60.png" />
-</div>
 </div>
 </section>
 <section id="visualize-separation-of-sv-features">
@@ -1347,9 +942,6 @@ In particular we quantify how displaced a track is in terms of its <em>impact pa
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
-</div>
-<div class="cell_output docutils container">
-<img alt="../../_images/25a859142232fef40c90110f6490db4e013f1231e71e7a3be781a5f349513892.png" src="../../_images/25a859142232fef40c90110f6490db4e013f1231e71e7a3be781a5f349513892.png" />
 </div>
 </div>
 </section>
@@ -2260,8 +1852,6 @@ In particular we quantify how displaced a track is in terms of its <em>impact pa
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<div class="output text_html"><style>#sk-container-id-1 {color: black;background-color: white;}#sk-container-id-1 pre{padding: 0;}#sk-container-id-1 div.sk-toggleable {background-color: white;}#sk-container-id-1 label.sk-toggleable__label {cursor: pointer;display: block;width: 100%;margin-bottom: 0;padding: 0.3em;box-sizing: border-box;text-align: center;}#sk-container-id-1 label.sk-toggleable__label-arrow:before {content: "▸";float: left;margin-right: 0.25em;color: #696969;}#sk-container-id-1 label.sk-toggleable__label-arrow:hover:before {color: black;}#sk-container-id-1 div.sk-estimator:hover label.sk-toggleable__label-arrow:before {color: black;}#sk-container-id-1 div.sk-toggleable__content {max-height: 0;max-width: 0;overflow: hidden;text-align: left;background-color: #f0f8ff;}#sk-container-id-1 div.sk-toggleable__content pre {margin: 0.2em;color: black;border-radius: 0.25em;background-color: #f0f8ff;}#sk-container-id-1 input.sk-toggleable__control:checked~div.sk-toggleable__content {max-height: 200px;max-width: 100%;overflow: auto;}#sk-container-id-1 input.sk-toggleable__control:checked~label.sk-toggleable__label-arrow:before {content: "▾";}#sk-container-id-1 div.sk-estimator input.sk-toggleable__control:checked~label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-1 div.sk-label input.sk-toggleable__control:checked~label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-1 input.sk-hidden--visually {border: 0;clip: rect(1px 1px 1px 1px);clip: rect(1px, 1px, 1px, 1px);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width: 1px;}#sk-container-id-1 div.sk-estimator {font-family: monospace;background-color: #f0f8ff;border: 1px dotted black;border-radius: 0.25em;box-sizing: border-box;margin-bottom: 0.5em;}#sk-container-id-1 div.sk-estimator:hover {background-color: #d4ebff;}#sk-container-id-1 div.sk-parallel-item::after {content: "";width: 100%;border-bottom: 1px solid gray;flex-grow: 1;}#sk-container-id-1 div.sk-label:hover label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-1 div.sk-serial::before {content: "";position: absolute;border-left: 1px solid gray;box-sizing: border-box;top: 0;bottom: 0;left: 50%;z-index: 0;}#sk-container-id-1 div.sk-serial {display: flex;flex-direction: column;align-items: center;background-color: white;padding-right: 0.2em;padding-left: 0.2em;position: relative;}#sk-container-id-1 div.sk-item {position: relative;z-index: 1;}#sk-container-id-1 div.sk-parallel {display: flex;align-items: stretch;justify-content: center;background-color: white;position: relative;}#sk-container-id-1 div.sk-item::before, #sk-container-id-1 div.sk-parallel-item::before {content: "";position: absolute;border-left: 1px solid gray;box-sizing: border-box;top: 0;bottom: 0;left: 50%;z-index: -1;}#sk-container-id-1 div.sk-parallel-item {display: flex;flex-direction: column;z-index: 1;position: relative;background-color: white;}#sk-container-id-1 div.sk-parallel-item:first-child::after {align-self: flex-end;width: 50%;}#sk-container-id-1 div.sk-parallel-item:last-child::after {align-self: flex-start;width: 50%;}#sk-container-id-1 div.sk-parallel-item:only-child::after {width: 0;}#sk-container-id-1 div.sk-dashed-wrapped {border: 1px dashed gray;margin: 0 0.4em 0.5em 0.4em;box-sizing: border-box;padding-bottom: 0.4em;background-color: white;}#sk-container-id-1 div.sk-label label {font-family: monospace;font-weight: bold;display: inline-block;line-height: 1.2em;}#sk-container-id-1 div.sk-label-container {text-align: center;}#sk-container-id-1 div.sk-container {/* jupyter's `normalize.less` sets `[hidden] { display: none; }` but bootstrap.min.css set `[hidden] { display: none !important; }` so we also need the `!important` here to be able to override the default hidden behavior on the sphinx rendered scikit-learn.org. See: https://github.com/scikit-learn/scikit-learn/issues/21755 */display: inline-block !important;position: relative;}#sk-container-id-1 div.sk-text-repr-fallback {display: none;}</style><div id="sk-container-id-1" class="sk-top-container"><div class="sk-text-repr-fallback"><pre>SGDClassifier()</pre><b>In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. <br />On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.</b></div><div class="sk-container" hidden><div class="sk-item"><div class="sk-estimator sk-toggleable"><input class="sk-toggleable__control sk-hidden--visually" id="sk-estimator-id-1" type="checkbox" checked><label for="sk-estimator-id-1" class="sk-toggleable__label sk-toggleable__label-arrow">SGDClassifier</label><div class="sk-toggleable__content"><pre>SGDClassifier()</pre></div></div></div></div></div></div></div>
 </div>
 </section>
 <section id="fully-connected-neural-network-classifier">
@@ -2281,32 +1871,6 @@ In particular we quantify how displaced a track is in terms of its <em>impact pa
 <span class="n">keras_model</span> <span class="o">=</span> <span class="n">Model</span><span class="p">(</span><span class="n">inputs</span><span class="o">=</span><span class="n">inputs</span><span class="p">,</span> <span class="n">outputs</span><span class="o">=</span><span class="n">outputs</span><span class="p">)</span>
 <span class="n">keras_model</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="n">optimizer</span><span class="o">=</span><span class="s1">&#39;adam&#39;</span><span class="p">,</span> <span class="n">loss</span><span class="o">=</span><span class="s1">&#39;categorical_crossentropy&#39;</span><span class="p">,</span> <span class="n">metrics</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;accuracy&#39;</span><span class="p">])</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">keras_model</span><span class="o">.</span><span class="n">summary</span><span class="p">())</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Model: &quot;model&quot;
-_________________________________________________________________
- Layer (type)                Output Shape              Param #   
-=================================================================
- input (InputLayer)          [(None, 27)]              0         
-                                                                 
- bn_1 (BatchNormalization)   (None, 27)                108       
-                                                                 
- dense_1 (Dense)             (None, 64)                1792      
-                                                                 
- dense_2 (Dense)             (None, 32)                2080      
-                                                                 
- dense_3 (Dense)             (None, 32)                1056      
-                                                                 
- output (Dense)              (None, 2)                 66        
-                                                                 
-=================================================================
-Total params: 5,102
-Trainable params: 5,048
-Non-trainable params: 54
-_________________________________________________________________
-None
 </pre></div>
 </div>
 </div>
@@ -2341,9 +1905,6 @@ None
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
-</div>
-<div class="cell_output docutils container">
-<img alt="../../_images/499ead3a2dfec391d05aae325f754e6be9218f116de8677e060907cc846675a8.png" src="../../_images/499ead3a2dfec391d05aae325f754e6be9218f116de8677e060907cc846675a8.png" />
 </div>
 </div>
 <div class="cell docutils container">
@@ -2384,12 +1945,6 @@ None
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
-</div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>297/297 [==============================] - 0s 1ms/step
-</pre></div>
-</div>
-<img alt="../../_images/9cf4d567d699e5bc31cc5c9d9da4cda4a2b03eba6923854f9eb0ac0dc2c52f28.png" src="../../_images/9cf4d567d699e5bc31cc5c9d9da4cda4a2b03eba6923854f9eb0ac0dc2c52f28.png" />
 </div>
 </div>
 <p>Try to add a boosted decision tree.</p>
