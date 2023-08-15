@@ -34,13 +34,8 @@ One option is to use Google Colab, for which you would need a Google account, wh
  	- Open a jupyter notebook
  	$ jupyter notebook
 
-### 1. Basic programming with Python
-- Introduction to prgramming in Python
-	* [Basic_Programming_with_Python.ipynb](Basic_Programming_with_Python.ipynb)
-	* GoogleColab:
- 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Basic_Programming_with_Python.ipynb)
 
-### 2. Introduction to Digital Images
+### 1. Introduction to Digital Images
 - Brief intro to digital images
 
 	* [Intro_DigitalImages.ipynb](Intro_DigitalImages.ipynb)
@@ -48,7 +43,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Intro_DigitalImages.ipynb)
  
  
-### 3. BioImage Analysis with Python
+### 2. BioImage Analysis with Python
 
 - It is a step by step pipeline for segmenting cells in 2D fluorescence microscopy images (with labeled membranes)
 	* [Image_analysis_tutorial.ipynb](Image_analysis_tutorial.ipynb)
