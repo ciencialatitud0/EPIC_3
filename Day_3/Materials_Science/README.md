@@ -1,5 +1,5 @@
 # Excited-state dynamics: Tully scheme implementation and models
-This is an introductory lecture on nonadiabatic dynamics, focused on the trajectory surface hopping method based on the Tully scheme. The idea is to get the basis and some tools to excited-state dynamics.
+This is an introductory lecture on nonadiabatic dynamics, focused on the trajectory surface hopping method based on the Tully scheme. The idea is to know the basis and some tools to study the reaction mechanisms induced by light via excited-state dynamics.
 ## Settings and Requirements
 To run the scripts locally, the following package must be installed:  
 pip install pycolt
