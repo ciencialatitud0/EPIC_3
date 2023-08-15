@@ -40,7 +40,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 	* [Intro_DigitalImages.ipynb](Intro_DigitalImages.ipynb)
 	* GoogleColab:
- 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ciencialatitud0/EPIC_3/blob/main/Day_2/Intro_DigitalImages.ipynb)
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_3/blob/main/Day_2/Intro_DigitalImages.ipynb)
  
  
 ### 2. BioImage Analysis with Python
