@@ -21,7 +21,6 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 2. Upload the notebooks and the image data (tiffs and jpgs)
 
-3. Open this notebook: https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/My_first_python_notebook.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/My_first_python_notebook.ipynb)
 
 
 	
