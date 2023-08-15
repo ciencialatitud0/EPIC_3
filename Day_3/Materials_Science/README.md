@@ -11,7 +11,7 @@ If you want to run the scripts in Google Colab, then run the following lines:
 
 pip install pycolt
 
-%cd EPIC_3/Day3/Materials_Science/
+%cd EPIC_3/Day_3/Materials_Science/
 
 !python vv_sh_tully.py
 
