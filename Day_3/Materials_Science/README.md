@@ -4,10 +4,15 @@ This is an introductory lecture on nonadiabatic dynamics, focused on the traject
 To run the scripts locally, the following package must be installed:  
 pip install pycolt
 If you want to run the scripts in Google Colab, then run the following lines:
+
 !git clone https://github.com/gatox/EPIC_3.git
+
 pip install pycolt
+
 %cd EPIC_3/Day3/Materials_Science/
+
 !python vv_sh_tully.py
+
 If you want to plot the results:
 !python plots.py
 ## References
