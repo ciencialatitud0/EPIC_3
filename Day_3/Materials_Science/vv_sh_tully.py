@@ -290,7 +290,7 @@ class PrintResults:
 
 class State(Colt):
 
-    _questions = """ 
+    _user_input = """ 
     # chosen parameters
     crd = 10.0 :: float
     vel = 2 :: float
