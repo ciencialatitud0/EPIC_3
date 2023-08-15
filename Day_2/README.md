@@ -53,9 +53,9 @@ One option is to use Google Colab, for which you would need a Google account, wh
 ### 3. Image classifier using Convolutional Neural Networks
 
 - t is a step by step pipeline for setting up an image classififier using CNN
-	* [Image_analysis_tutorial.ipynb](Image_classifier_2classes.ipynb)
+	* [Image_classifier_2classes.ipynb](Image_classifier_2classes.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_3/blob/main/Day_2/Image_classifier_2classes.ipynb)
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/EPIC_3/blob/main/Day_2/Image_classifier_2classes.ipynb)
 
 
 ## Disclaimer
