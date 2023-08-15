@@ -50,10 +50,6 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	* GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Image_analysis_tutorial.ipynb)
 
-- It is a step by step pipeline for segmenting cells in 3D fluorescence microscopy images (with labeled nuclei and membranes)
-	* [Image_analysis_tutorial_3D.ipynb](Image_analysis_tutorial_3D.ipynb)
-	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Image_analysis_tutorial_3D.ipynb)
 
 ## Disclaimer
 - These materials have been adapted from the original versions: 
