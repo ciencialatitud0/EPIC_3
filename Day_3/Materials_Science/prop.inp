@@ -1,0 +1,10 @@
+crd = -5.0
+vel = 0.0145
+mass = 2000.0
+t = 0.0
+dt = 1.0
+mdsteps = 40000
+instate = 0
+nstates = 2
+states = 0 1
+ncoeff = 1.0 0.0
