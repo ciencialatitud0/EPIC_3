@@ -17,7 +17,9 @@ If you want to plot the results:
 !python plots.py
 ## References
 [1] [FSSH](https://github.com/gatox/SH_Tully.git) pluging
+
 [2] Tully, J. C. Molecular dynamics with electronic transitions. J. Chem. Phys. 1990, 93,
 1061–1071.
+
 [3] Menger, M. F. S. J.; Ehrmaier, J.; Faraji, S. PySurf: A Framework for Database
 Accelerated Direct Dynamics. J. Chem. Theory Comput. 2020, 16, 7681–7689.
