@@ -4,7 +4,7 @@ from colt import Colt
 
 class Tully_1(Colt):
 
-    _questions = """ 
+    _user_input = """ 
     # chosen parameters
     a = 0.01 :: float
     b = 1.6 :: float
