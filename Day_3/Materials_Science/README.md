@@ -2,7 +2,9 @@
 This is an introductory lecture on nonadiabatic dynamics, focused on the trajectory surface hopping method based on the Tully scheme. The idea is to know the basis and some tools to study the reaction mechanisms induced by light via excited-state dynamics.
 ## Settings and Requirements
 To run the scripts locally, the following package must be installed:  
+
 pip install pycolt
+
 If you want to run the scripts in Google Colab, then run the following lines:
 
 !git clone https://github.com/gatox/EPIC_3.git
