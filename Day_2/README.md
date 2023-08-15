@@ -48,7 +48,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
 - It is a step by step pipeline for segmenting cells in 2D fluorescence microscopy images (with labeled membranes)
 	* [Image_analysis_tutorial.ipynb](Image_analysis_tutorial.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Image_analysis_tutorial.ipynb)
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_3/blob/main/Day_2/Image_analysis_tutorial.ipynb)
 
 
 ## Disclaimer
