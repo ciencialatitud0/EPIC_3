@@ -190,7 +190,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ## Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 
-### 08h00 - 10h00: Helga Dénes, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes
+### 08h00 - 09h20: Helga Dénes, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
 
@@ -198,6 +198,17 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 Brief explanation on astrophysics behind galaxies and their neutral hydrogen (HI content). Reading in fits data cubes (3D spectral line data - HI data of a galaxy). Plotting slices of the 3D data cube and making moment maps. Downloading astronomical images from a database (for the same galaxy as the HI data). Making an overlay of the HI data onto an optical image. Calculating some basic statistics for the spectra. Averaging the spectra for the galaxy. Calculating the HI mass of a galaxy. Fitting a Gaussian to spectra
 
 **About the Speaker:** PhD in Astrophysics from Swinburne University of Technology.
+
+### 09h20 - 09h40: Roberto Jácome, UIDE - Loxa Smart, a protoype of smart and sustainable city
+
+**Abstract:**
+This work presents a study that combines vehicle counting and contamination analysis in the city of Loja - Ecuador. The increasing urbanization and traffic congestion in cities have raised concerns about air quality and its impact on public health. Understanding vehicular activity patterns and their contribution to air pollution is crucial for effective urban planning and the implementation of sustainable transportation strategies. The study utilizes a combination of computer vision techniques and sensor data to accurately count vehicles in a traffic intersection. A vehicle detection algorithm is employed to process and obtain vehicle counting in this intersection. The collected data measures include particulate matter (PM2.5, PM10), temperature, and humidity. The study also highlights the impact of seasonal variations on contamination levels and with the help of a time-series predicting algorithm, estimate the values of the mentioned data. The objective of this study is to obtain a low-cost prototype for smart cities that can serve as a valuable resource for city authorities and environmental agencies to design data-driven urban policies. Additionally, the research serves as a foundation for future studies to explore more sophisticated approaches to mitigate vehicle emissions and create sustainable urban environments.
+
+### 09h40 - 10h00: Milton Palacios, UIDE - Detección de la atención en clases virtuales a través de las acciones en el ordenador
+
+**Abstract:**
+TBD 
+
 
 ## Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
