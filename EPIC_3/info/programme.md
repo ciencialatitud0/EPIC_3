@@ -159,16 +159,20 @@ Relatos y referencias históricas de las circunstancias e incidencias que llevar
 **About the Speaker:**
 Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios secundarios Colegio Central Técnico, estudios superiores en Ingeniería Electrónica en la Escuela Politécnica Nacional; Estudios de Matematica Pura, en la Escuela de Ciencias, de la Universidad Central del Ecuador, Electromecánica; Instituto José Antonio Echeverria La Habana Cuba, Física Universidad de Montpellier Francia. Cuenta con Investigaciones y experiencias científicas en Praga y Varsovia. Estudio teórico - experimentales documentado sobre fenómenos y perturbaciones magnéticas causadas por el eclipse solar del 11 de julio de 1991. Profesor Emérito en Cátedra sustentada por 25 años a la fecha de Matemáticas, Física y Circuitos Digitales en la Escuela de Ingeniería mecánica automotriz, de la Universidad International del Ecuador.
 
-### 11h20 - 12h00: Diego Morales, PhD (Yachay Tech, Ecuador) - TBD
+### 11h20 - 12h00: Diego Fabián Morales Navarrete, PhD (Yachay Tech, Ecuador) - Modeling and estimating geo-referenced count spatial data with excessive zeros
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/3f164b74-cf19-4331-91c4-8dc7c5d1e763" alt="alt text" width="400px">
 
 **Abstract:** 
+Modelling spatial data is a challenging task in statistics. In many applications, the observed data can be modelled using Gaussian, skew-Gaussian or even restricted random field models. However, in several fields, such as population genetics, epidemiology, and population dynamics, the data of interest are counts with excess of zeros in some cases, and therefore the mentioned models are not suitable for their analysis. Consequently, there is a need for spatial models that can adequately describe data coming from counting processes and handle the excess of zeros in data.
 
 **About the Speaker:**
+I am a mathematical engineer working on theoretical approaches for modelling spatio-temporal non-gaussian data. I am particularly interested in working on the theoretical and methodological development of space-time stochastic models for non-Gaussian data. I completed an undergraduate program in mathematical engineering at Escuela Politécnica Nacional in Quito-Ecuador. Then, I worked as a researcher and statistician in public and private companies in Ecuador for a few years. In the beginning of 2022, I obtained a Ph.D. degree in Statistics at the Department of Statistics of Pontificia Universidad Católica de Chile. As a doctoral researcher under the supervision of Prof. Mauricio Castro and Prof. Moreno Bevilacqua, I was working on developing novel approaches for modelling spatial and spatio-temporal count data. Additionally, I was part of the Center for the Discovery of Structures in Complex Data MiDas as a PhD student and guest researcher at the Department of Biology at the University of Konstanz. Currently, I am a research professor at Yachay Tech University.
 
+### 12h00 - 12h10: Christian Palma (USFQ, Ecuador) - Dimensión Fractal de Objetos 2D: Caso Embalse Daule Peripa
 
-### 12h00 - 12h30: Talk (TBD)
+**Abstract:** 
+La dimensión fractal de un objeto (n-1)-dimensional es estudiada para analizar la complejidad y autosimilaridad que presenta el mismo en un espacio n-dimensional. En la naturaleza existen cuencas hidrográficas que presentan una expansión en forma de fractal a lo largo de sus cauces si son observadas como líneas unidimensionales. En este proyecto se presenta una implementación del algoritmo de conteo de cajas (box counting) en Python para estimar la dimensión fractal de la cuenca hidrográfica del embalse Daule Peripa en Guayas, Ecuador; siendo esta 1.7.
 
 ## Lunch Break (12h30 - 14h20)
 
@@ -234,10 +238,6 @@ El conocimiento de las tendencias políticas dentro de las redes sociales da un 
 El artículo presenta un enfoque innovador para abordar los desafíos de eficiencia en el transporte urbano de Loja. Mediante la aplicación de minería de datos, aprendizaje automático y visualización de datos, se analiza un dataset con información sobre buses y tiempos de llegada. Los resultados revelaron patrones clave, horarios de mayor demanda y posibles retrasos en las paradas, lo que permitirá optimizar la programación de buses, reducir tiempos de espera y mejorar la eficiencia del transporte.
 Además, el estudio identificó rutas congestionadas, lo que permitirá implementar mejoras adicionales para abordar problemas de tráfico. Este proyecto ha sido valioso al proporcionar información crucial para ofrecer un servicio de transporte más confiable y eficiente, lo que aumentará la satisfacción de los usuarios y mejorará la calidad general del transporte urbano en Loja. En resumen, este enfoque resalta la importancia de la minería de datos en la toma de decisiones estratégicas para el mejoramiento del transporte urbano.
 
-**- Miguel Agama, Universidad Nacional Mayor de San Marcos (Perú) - The comparison of Newtonian orbits with Schwarzschild orbits around massive objects like the Sun**
-**Abstract:** 
-Due to the shortcomings of Newton's theory of universal gravitation, when explaining the disturbances in the orbits of planets like Mercury, a study of orbits is carried out based on the curvature of space-time under the Schwarzschild metric. Under simulations in Python with data such as mass, eccentricity and period for each planet, the pros and cons of each theory can be compared.
-
 **- Lizbeth Lara, Yachay Tech - Star Formation Rates and Dust Masses of resolved regions for The nearby Galaxy NGC3938 with H alpha maps and TolTEC Simulations**
 **Abstract:** 
 The TolTEC camera is installed on the Large Millimeter Telescope. While waiting to start making the first observations, we have simulations of the observations that are planned to be made. These are simulated by TolTEC - Mexico and Liverpool Telescope - Spain. In this work, we will start from these simulated observations to perform their treatment, photometry and later analyze them. The observations to be used correspond to the nearby spiral galaxy NGC 3938 where it is expected to detect and measure cold dust as a tracer of star-forming gas. The objective of this work is to measure star formation rates, flux intensity for the different star forming groups in the nearby galaxy; to derive the physical properties of the clumps in the nearby galaxy, such as dust mass, gas mass and dust emission temperature by spectral energy distribution (SED) fits. In addition to presenting the finding of the ratio of star formation rates versus dust mass for regions resolved in H alpha and TolTEC maps for 1.1mm, 1.4mm, and 2.0mm.
@@ -245,6 +245,7 @@ The TolTEC camera is installed on the Large Millimeter Telescope. While waiting 
 **- Vicente Arévalo, Yachay Tech - CTA science**
 **Abstract:** 
 TBD
+
 
 
 ## Lunch Break (12h20 - 14h20)
