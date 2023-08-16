@@ -169,12 +169,7 @@ Modelling spatial data is a challenging task in statistics. In many applications
 **About the Speaker:**
 I am a mathematical engineer working on theoretical approaches for modelling spatio-temporal non-gaussian data. I am particularly interested in working on the theoretical and methodological development of space-time stochastic models for non-Gaussian data. I completed an undergraduate program in mathematical engineering at Escuela Politécnica Nacional in Quito-Ecuador. Then, I worked as a researcher and statistician in public and private companies in Ecuador for a few years. In the beginning of 2022, I obtained a Ph.D. degree in Statistics at the Department of Statistics of Pontificia Universidad Católica de Chile. As a doctoral researcher under the supervision of Prof. Mauricio Castro and Prof. Moreno Bevilacqua, I was working on developing novel approaches for modelling spatial and spatio-temporal count data. Additionally, I was part of the Center for the Discovery of Structures in Complex Data MiDas as a PhD student and guest researcher at the Department of Biology at the University of Konstanz. Currently, I am a research professor at Yachay Tech University.
 
-### 12h00 - 12h10: Christian Palma (USFQ, Ecuador) - Dimensión Fractal de Objetos 2D: Caso Embalse Daule Peripa
-
-**Abstract:** 
-La dimensión fractal de un objeto (n-1)-dimensional es estudiada para analizar la complejidad y autosimilaridad que presenta el mismo en un espacio n-dimensional. En la naturaleza existen cuencas hidrográficas que presentan una expansión en forma de fractal a lo largo de sus cauces si son observadas como líneas unidimensionales. En este proyecto se presenta una implementación del algoritmo de conteo de cajas (box counting) en Python para estimar la dimensión fractal de la cuenca hidrográfica del embalse Daule Peripa en Guayas, Ecuador; siendo esta 1.7.
-
-## Lunch Break (12h30 - 14h20)
+## Lunch Break (12h20 - 14h20)
 
 ## Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
@@ -227,6 +222,10 @@ nivel mundial es causante del cuarto cáncer más frecuenta en mujeres. La aline
 **- Mayra Tualombo, Yachay Tech - Predicting Dementia Based on Menopause as a Risk Factor Using Variational Autoencoders**
 **Abstract:** 
 There is increasing evidence that menopausal changes can have an impact on women's cognition and can be a risk factor for the development of dementia. Some studies try to explain the relationship between the predominance of dementia linked with postmenopausal hormones. However, the evidence is mixed, with some showing positive effects while others show no or even negative effects. In this investigation, we considered some variables related to the interested health condition. The results obtained through the application of Variational Autoencoders reflect variables' relationship to physical, emotional, and biological effects. Furthermore, this study explains the preponderance of dementia among postmenopausal women compared with same-age men supporting a tentative role of their predominance of suffering from dementia.
+
+**- Christian Palma, USFQ - Dimensión Fractal de Objetos 2D: Caso Embalse Daule Peripa**
+**Abstract:** 
+La dimensión fractal de un objeto (n-1)-dimensional es estudiada para analizar la complejidad y autosimilaridad que presenta el mismo en un espacio n-dimensional. En la naturaleza existen cuencas hidrográficas que presentan una expansión en forma de fractal a lo largo de sus cauces si son observadas como líneas unidimensionales. En este proyecto se presenta una implementación del algoritmo de conteo de cajas (box counting) en Python para estimar la dimensión fractal de la cuenca hidrográfica del embalse Daule Peripa en Guayas, Ecuador; siendo esta 1.7.
 
 **- Karla Conde, UIDE - Análisis de sentimientos en redes sociales de las Elecciones presidenciales electorales 2023 usando procesamiento de lenguaje natural**
 **Abstract:** 
