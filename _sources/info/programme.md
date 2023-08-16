@@ -213,17 +213,19 @@ TBD
 ## Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-## Midday session (10h40 - 12h20)
+## Midday session (10h40 - 12h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-### 10h40 - 11h00: Andrés Villares, Fís (Yachay Tech, Ecuador) - Hydrodynamic shielding in galactic multicloud outflows
+### 10h40 - 11h00: TBD
+
+### 11h00 - 11h20: Andrés Villares, Fís (Yachay Tech, Ecuador) - Hydrodynamic shielding in galactic multicloud outflows
 
 **Abstract:** 
 Galactic winds are multi-phase outflows of energy and matter leaving star-forming galaxies. Emission and absorption line observations reveal that these winds are multiphase and turbulent. They contain molecular, atomic, and ionised components characterized by different densities and temperatures. The hot phase of galactic winds typically encounters interstellar clumps of cold gas and dust clouds. However, the detection of cold gas at significant distances from the centres of galaxies is a mystery given the ease with which cold clouds can be disrupted. Therefore, numerical simulations are essential to comprehend the underlying physical processes behind cold gas survival. In this project, we carry out a suite of 3D hydrodynamical simulations of a supersonic wind interacting with a multi-cloud arrangement of multiple clouds travelling together. We study how radiative cooling and different cloud separation distances influence their evolution. We find that the lifetime of dense and cold material in radiative clouds is longer than in their adiabatic counterparts. This is attributed to the condensation of warm gas, which effectively sustains the dense gas in the flow. When clouds are further apart, they are more likely to generate dynamical instabilities, leading to higher degrees of mixing and dense gas destruction. Conversely, when clouds are closer, the condensation mechanism is particularly important owing to hydrodynamic shielding, which helps to maintain the cold material throughout the entire evolution. The velocity of the clouds decreases as the cloud separation distance decreases, as this arrangement triggers the generation of large column densities. Hydrodynamic shielding and radiative cooling are thus found to be effective in maintaining cold dense gas for extended periods of time.
 
 **About the Speaker:** Físico
 
-### 11h00 - 12h20: Contributed talks
+### 11h20 - 12h40: Contributed talks
 
 **- Isabel Balvoa, ESPOCH - Identificación del alineamiento global óptimo para dos genomas del virus de Papiloma Humano**
 
