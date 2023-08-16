@@ -242,10 +242,9 @@ Además, el estudio identificó rutas congestionadas, lo que permitirá implemen
 **Abstract:** 
 The TolTEC camera is installed on the Large Millimeter Telescope. While waiting to start making the first observations, we have simulations of the observations that are planned to be made. These are simulated by TolTEC - Mexico and Liverpool Telescope - Spain. In this work, we will start from these simulated observations to perform their treatment, photometry and later analyze them. The observations to be used correspond to the nearby spiral galaxy NGC 3938 where it is expected to detect and measure cold dust as a tracer of star-forming gas. The objective of this work is to measure star formation rates, flux intensity for the different star forming groups in the nearby galaxy; to derive the physical properties of the clumps in the nearby galaxy, such as dust mass, gas mass and dust emission temperature by spectral energy distribution (SED) fits. In addition to presenting the finding of the ratio of star formation rates versus dust mass for regions resolved in H alpha and TolTEC maps for 1.1mm, 1.4mm, and 2.0mm.
 
-**- Vicente Arévalo, Yachay Tech - CTA science**
+**- Vicente Arévalo, Yachay Tech - A brief overview on CTA science**
 **Abstract:** 
-TBD
-
+The Cherenkov Telescope Array (CTA) will be the major global observatory for very high energy gamma-ray astronomy over the next decade and beyond.  It allows us to understand different phenomena such as  the role of the relativistic cosmic particles, and the understanding of dark matter. For this reason it is important to introduce students in this kind of area that will be a good opportunity to unveil physics.
 
 
 ## Lunch Break (12h20 - 14h20)
