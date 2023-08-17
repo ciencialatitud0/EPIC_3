@@ -159,18 +159,17 @@ Relatos y referencias históricas de las circunstancias e incidencias que llevar
 **About the Speaker:**
 Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios secundarios Colegio Central Técnico, estudios superiores en Ingeniería Electrónica en la Escuela Politécnica Nacional; Estudios de Matematica Pura, en la Escuela de Ciencias, de la Universidad Central del Ecuador, Electromecánica; Instituto José Antonio Echeverria La Habana Cuba, Física Universidad de Montpellier Francia. Cuenta con Investigaciones y experiencias científicas en Praga y Varsovia. Estudio teórico - experimentales documentado sobre fenómenos y perturbaciones magnéticas causadas por el eclipse solar del 11 de julio de 1991. Profesor Emérito en Cátedra sustentada por 25 años a la fecha de Matemáticas, Física y Circuitos Digitales en la Escuela de Ingeniería mecánica automotriz, de la Universidad International del Ecuador.
 
-### 11h20 - 12h00: Diego Morales, PhD (Yachay Tech, Ecuador) - TBD
+### 11h20 - 12h00: Diego Fabián Morales Navarrete, PhD (Yachay Tech, Ecuador) - Modeling and estimating geo-referenced count spatial data with excessive zeros
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/3f164b74-cf19-4331-91c4-8dc7c5d1e763" alt="alt text" width="400px">
 
 **Abstract:** 
+Modelling spatial data is a challenging task in statistics. In many applications, the observed data can be modelled using Gaussian, skew-Gaussian or even restricted random field models. However, in several fields, such as population genetics, epidemiology, and population dynamics, the data of interest are counts with excess of zeros in some cases, and therefore the mentioned models are not suitable for their analysis. Consequently, there is a need for spatial models that can adequately describe data coming from counting processes and handle the excess of zeros in data.
 
 **About the Speaker:**
+I am a mathematical engineer working on theoretical approaches for modelling spatio-temporal non-gaussian data. I am particularly interested in working on the theoretical and methodological development of space-time stochastic models for non-Gaussian data. I completed an undergraduate program in mathematical engineering at Escuela Politécnica Nacional in Quito-Ecuador. Then, I worked as a researcher and statistician in public and private companies in Ecuador for a few years. In the beginning of 2022, I obtained a Ph.D. degree in Statistics at the Department of Statistics of Pontificia Universidad Católica de Chile. As a doctoral researcher under the supervision of Prof. Mauricio Castro and Prof. Moreno Bevilacqua, I was working on developing novel approaches for modelling spatial and spatio-temporal count data. Additionally, I was part of the Center for the Discovery of Structures in Complex Data MiDas as a PhD student and guest researcher at the Department of Biology at the University of Konstanz. Currently, I am a research professor at Yachay Tech University.
 
-
-### 12h00 - 12h30: Talk (TBD)
-
-## Lunch Break (12h30 - 14h20)
+## Lunch Break (12h20 - 14h20)
 
 ## Afternoon session (14h20 - 16h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor
@@ -191,7 +190,7 @@ Location: Classroom LAB-PB09, E2-E3 building 1st floor
 ## Morning session (08h00 - 10h00)
 Location: Classroom LAB-PB09, E2-E3 building 1st floor)
 
-### 08h00 - 10h00: Helga Dénes, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes
+### 08h00 - 09h20: Helga Dénes, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes
 
 <img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
 
@@ -200,10 +199,21 @@ Brief explanation on astrophysics behind galaxies and their neutral hydrogen (HI
 
 **About the Speaker:** PhD in Astrophysics from Swinburne University of Technology.
 
+### 09h20 - 09h40: Roberto Jácome, UIDE - Loxa Smart, a protoype of smart and sustainable city
+
+**Abstract:**
+This work presents a study that combines vehicle counting and contamination analysis in the city of Loja - Ecuador. The increasing urbanization and traffic congestion in cities have raised concerns about air quality and its impact on public health. Understanding vehicular activity patterns and their contribution to air pollution is crucial for effective urban planning and the implementation of sustainable transportation strategies. The study utilizes a combination of computer vision techniques and sensor data to accurately count vehicles in a traffic intersection. A vehicle detection algorithm is employed to process and obtain vehicle counting in this intersection. The collected data measures include particulate matter (PM2.5, PM10), temperature, and humidity. The study also highlights the impact of seasonal variations on contamination levels and with the help of a time-series predicting algorithm, estimate the values of the mentioned data. The objective of this study is to obtain a low-cost prototype for smart cities that can serve as a valuable resource for city authorities and environmental agencies to design data-driven urban policies. Additionally, the research serves as a foundation for future studies to explore more sophisticated approaches to mitigate vehicle emissions and create sustainable urban environments.
+
+### 09h40 - 10h00: Milton Palacios, UIDE - Detección de la atención en clases virtuales a través de las acciones en el ordenador
+
+**Abstract:**
+TBD 
+
+
 ## Coffee Break (10h00 - 10h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
-## Midday session (10h40 - 12h20)
+## Midday session (10h40 - 12h40)
 Location: Classroom SEPA-A06, 1st floor, Senescyt building
 
 ### 10h40 - 11h00: Andrés Villares, Fís (Yachay Tech, Ecuador) - Hydrodynamic shielding in galactic multicloud outflows
@@ -211,40 +221,47 @@ Location: Classroom SEPA-A06, 1st floor, Senescyt building
 **Abstract:** 
 Galactic winds are multi-phase outflows of energy and matter leaving star-forming galaxies. Emission and absorption line observations reveal that these winds are multiphase and turbulent. They contain molecular, atomic, and ionised components characterized by different densities and temperatures. The hot phase of galactic winds typically encounters interstellar clumps of cold gas and dust clouds. However, the detection of cold gas at significant distances from the centres of galaxies is a mystery given the ease with which cold clouds can be disrupted. Therefore, numerical simulations are essential to comprehend the underlying physical processes behind cold gas survival. In this project, we carry out a suite of 3D hydrodynamical simulations of a supersonic wind interacting with a multi-cloud arrangement of multiple clouds travelling together. We study how radiative cooling and different cloud separation distances influence their evolution. We find that the lifetime of dense and cold material in radiative clouds is longer than in their adiabatic counterparts. This is attributed to the condensation of warm gas, which effectively sustains the dense gas in the flow. When clouds are further apart, they are more likely to generate dynamical instabilities, leading to higher degrees of mixing and dense gas destruction. Conversely, when clouds are closer, the condensation mechanism is particularly important owing to hydrodynamic shielding, which helps to maintain the cold material throughout the entire evolution. The velocity of the clouds decreases as the cloud separation distance decreases, as this arrangement triggers the generation of large column densities. Hydrodynamic shielding and radiative cooling are thus found to be effective in maintaining cold dense gas for extended periods of time.
 
-**About the Speaker:** Físico
+**About the Speaker:** Físico por la Universidad Yachay Tech
 
-### 11h00 - 12h20: Contributed talks
+### 11h00 - 12h40: Contributed talks
 
 **- Isabel Balvoa, ESPOCH - Identificación del alineamiento global óptimo para dos genomas del virus de Papiloma Humano**
+
 **Abstract:** 
 El virus del Papiloma Humano es un virus ADN de doble cadena, miembro de la familia Papollomaviridae. Es un virus que infecta principalmente células epiteliales cutáneas y mucosas. Este virus presenta varios tipos; sin embargo, los tipos HPV16 y HPV18 son considerados de alto riesgo, asociados con cánceres cervicouterinos, a
 nivel mundial es causante del cuarto cáncer más frecuenta en mujeres. La alineación es un proceso para comparar dos secuencias biológicas, en este caso ADN con el objetivo de determinar el grado de similitud. En la presente investigación se utilizaron tres herramientas de alineamiento global, que usan el algoritmo de Needleman-Wunsch, para comparar dos secuencias de genoma del virus del Papiloma Humano, ACCESSION NC_001526 (type 16) y ACCESSION NC_027779 (isolate SE379). Conforme los resultados obtenidos, se determinó que el uso de la herramienta GGSEARCH2SEQ, con la interacción de los parámetros v1, apertura de brecha (–2) y extensión de brecha (-1), presentó los valores más altos de similitud con 50,4%, identidad con 50,4% y un score de 30369.
 
 **- Mayra Tualombo, Yachay Tech - Predicting Dementia Based on Menopause as a Risk Factor Using Variational Autoencoders**
+
 **Abstract:** 
 There is increasing evidence that menopausal changes can have an impact on women's cognition and can be a risk factor for the development of dementia. Some studies try to explain the relationship between the predominance of dementia linked with postmenopausal hormones. However, the evidence is mixed, with some showing positive effects while others show no or even negative effects. In this investigation, we considered some variables related to the interested health condition. The results obtained through the application of Variational Autoencoders reflect variables' relationship to physical, emotional, and biological effects. Furthermore, this study explains the preponderance of dementia among postmenopausal women compared with same-age men supporting a tentative role of their predominance of suffering from dementia.
 
+**- Christian Palma, USFQ - Dimensión Fractal de Objetos 2D: Caso Embalse Daule Peripa**
+
+**Abstract:** 
+La dimensión fractal de un objeto (n-1)-dimensional es estudiada para analizar la complejidad y autosimilaridad que presenta el mismo en un espacio n-dimensional. En la naturaleza existen cuencas hidrográficas que presentan una expansión en forma de fractal a lo largo de sus cauces si son observadas como líneas unidimensionales. En este proyecto se presenta una implementación del algoritmo de conteo de cajas (box counting) en Python para estimar la dimensión fractal de la cuenca hidrográfica del embalse Daule Peripa en Guayas, Ecuador; siendo esta 1.7.
+
 **- Karla Conde, UIDE - Análisis de sentimientos en redes sociales de las Elecciones presidenciales electorales 2023 usando procesamiento de lenguaje natural**
+
 **Abstract:** 
 Con las próximas elecciones presidenciales 2023, extraer datos en las páginas de Facebook es un recurso importante para comprender las tendencias políticas la plataforma.
 El conocimiento de las tendencias políticas dentro de las redes sociales da un aproximado en cuanto a datos para definir cuales son los candidatos que estan teniendo mas acogida y con mayor probabilidad para ganar dichas elecciones. Con este análisis se solventa la predicción e interpretación de emociones y sentimientos que tienen los votantes hacia los candidatos y temas políticos. Se evalúa el nivel de participación ciudadana e interés por la política durante las campañas electorales. En conclusión, utilizar técnicas de minería de datos para explotar la información de Facebook, plataforma que es influyente en debate político y compromiso cívico, ayuda a comprender las opiniones y tendencias preferenciales de los votantes, usando procesamiento de lenguaje natural y minería de datos.
 
 **- Daniel Gustavo Cordova, UIDE - Mineria de datos para la Optimización de tiempos en el Transporte Urbano en la ciudad de Loja**
+
 **Abstract:** 
 El artículo presenta un enfoque innovador para abordar los desafíos de eficiencia en el transporte urbano de Loja. Mediante la aplicación de minería de datos, aprendizaje automático y visualización de datos, se analiza un dataset con información sobre buses y tiempos de llegada. Los resultados revelaron patrones clave, horarios de mayor demanda y posibles retrasos en las paradas, lo que permitirá optimizar la programación de buses, reducir tiempos de espera y mejorar la eficiencia del transporte.
 Además, el estudio identificó rutas congestionadas, lo que permitirá implementar mejoras adicionales para abordar problemas de tráfico. Este proyecto ha sido valioso al proporcionar información crucial para ofrecer un servicio de transporte más confiable y eficiente, lo que aumentará la satisfacción de los usuarios y mejorará la calidad general del transporte urbano en Loja. En resumen, este enfoque resalta la importancia de la minería de datos en la toma de decisiones estratégicas para el mejoramiento del transporte urbano.
 
-**- Miguel Agama, Universidad Nacional Mayor de San Marcos (Perú) - The comparison of Newtonian orbits with Schwarzschild orbits around massive objects like the Sun**
-**Abstract:** 
-Due to the shortcomings of Newton's theory of universal gravitation, when explaining the disturbances in the orbits of planets like Mercury, a study of orbits is carried out based on the curvature of space-time under the Schwarzschild metric. Under simulations in Python with data such as mass, eccentricity and period for each planet, the pros and cons of each theory can be compared.
-
 **- Lizbeth Lara, Yachay Tech - Star Formation Rates and Dust Masses of resolved regions for The nearby Galaxy NGC3938 with H alpha maps and TolTEC Simulations**
+
 **Abstract:** 
 The TolTEC camera is installed on the Large Millimeter Telescope. While waiting to start making the first observations, we have simulations of the observations that are planned to be made. These are simulated by TolTEC - Mexico and Liverpool Telescope - Spain. In this work, we will start from these simulated observations to perform their treatment, photometry and later analyze them. The observations to be used correspond to the nearby spiral galaxy NGC 3938 where it is expected to detect and measure cold dust as a tracer of star-forming gas. The objective of this work is to measure star formation rates, flux intensity for the different star forming groups in the nearby galaxy; to derive the physical properties of the clumps in the nearby galaxy, such as dust mass, gas mass and dust emission temperature by spectral energy distribution (SED) fits. In addition to presenting the finding of the ratio of star formation rates versus dust mass for regions resolved in H alpha and TolTEC maps for 1.1mm, 1.4mm, and 2.0mm.
 
-**- Vicente Arévalo, Yachay Tech - CTA science**
+**- Vicente Arévalo, Yachay Tech - A brief overview on CTA science**
+
 **Abstract:** 
-TBD
+The Cherenkov Telescope Array (CTA) will be the major global observatory for very high energy gamma-ray astronomy over the next decade and beyond.  It allows us to understand different phenomena such as  the role of the relativistic cosmic particles, and the understanding of dark matter. For this reason it is important to introduce students in this kind of area that will be a good opportunity to unveil physics.
 
 
 ## Lunch Break (12h20 - 14h20)

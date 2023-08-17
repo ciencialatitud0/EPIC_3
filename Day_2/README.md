@@ -52,12 +52,12 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 ### 3. Image classifier using Convolutional Neural Networks
 
-- t is a step by step pipeline for setting up an image classififier using CNN
+- It is a step by step pipeline for setting up an image classififier using CNN
 	* [Image_classifier_2classes.ipynb](Image_classifier_2classes.ipynb)
 	* GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_3/blob/main/Day_2/Image_classifier_2classes.ipynb)
 
-
+Data : https://drive.google.com/drive/folders/1AbPERKzcJ2hVrCuz6Y3eJtK6uG9xzn69?usp=drive_link
 ## Disclaimer
 - These materials have been adapted from the original versions: 
     - "Python BioImage Analysis Tutorial:" https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
