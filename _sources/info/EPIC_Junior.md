@@ -3,22 +3,17 @@
 
 Por primera ocasión, la serie de escuelas EPIC ofrece un espacio para que estudiantes de secundaria de nuestro país puedan aprender sobre computación científica e interactuar con científicas y científicos ecuatorianos. Las y los estudiantes secundarios que participen en EPIC Junior tendrán la gran oportunidad de: 
 
-- visitar las instalaciones de la Universidad Yachay Tech en Urcuquí,
 - asistir a charlas científicas preparadas por nuestr@s expositoras/es invitad@s,
 - participar en mini-talleres de programación científica preparados por nuestr@s estudiantes universitarios,
 - aprender sobre ciencia y tecnología en un ambiente interactivo.
 
 ## ¿Cuándo?
 
-EPIC Junior tendrá lugar el **día jueves 17 de agosto de 2023 desde las 10h00 hasta las 16h00.**
-
-La hora de llegada al campus de Yachay Tech será a las 09h45 y la hora de salida del campus a las 16h15.
+EPIC Junior tendrá lugar el **día miércoles 13 de septiembre de 2023 desde las 19h00 hasta las 20h00.**
 
 ## ¿Dónde?
 
-En el campus de la Universidad Yachay Tech en San Miguel de Urcuquí, Provincia de Imbabura.
-
-https://goo.gl/maps/pdWEuniULGYcW9cE7
+En línea en zoom. Enviaremos el enlace de zoom a los participantes registrados.
 
 ## Requisitos:
 
@@ -51,7 +46,7 @@ https://goo.gl/maps/pdWEuniULGYcW9cE7
 
 ## Cupos disponibles:
 
-Solo tenemos 20 cupos disponibles. **El registro se cerrará el día jueves 10 de agosto o al llegar a 20 participantes registrad@s.**
+Solo tenemos 20 cupos disponibles. **El registro se cerrará el día martes 12 de septiembre o al llegar a 20 participantes registrad@s.**
 
 ## Logística y registro:
 
@@ -67,15 +62,13 @@ L@s padres de familia, profesores/as acompañantes y/o adultos responsables que 
 
 **Por favor completar el siguiente formulario para registrarse en EPIC Junior:**
 
-https://forms.gle/H5fzhatzmBzjehrP6
+https://forms.gle/DnsLGJer68PMkEja7
 
 
 # Programa preliminar:
 
-- 10h00 - 10h20: Bienvenida a EPIC Jr
-- 10h20 - 12h00: Charlas científicas divulgativas
-- 12h00 - 14h00: Almuerzo
-- 14h00 - 16h00: Talleres de Programación Científica
+- 19h00 - 19h10: Bienvenida a EPIC Jr
+- 19h10 - 20h00: Charlas científicas divulgativas
 
 ## Certificado:
 
@@ -91,6 +84,10 @@ Twitter: https://twitter.com/opticayt
 
 # Poster del evento: 
 
-![EPIC_Jr](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/9cd3c1bd-c6d7-469e-a781-fb0fd450ee29)
+![EPIC JUNIOR 2](https://github.com/ciencialatitud0/EPIC_3/assets/37318512/35683abe-8e61-4919-9f61-dd9f8e3f346d)
+
+# Anterior evento EPIC Junior
+
+jueves 17 de agosto de 2023 desde las 10h00 hasta las 16h00 Campus Yachay Tech
 
 
