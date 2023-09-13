@@ -8,8 +8,10 @@ Por primera ocasión, la serie de escuelas EPIC ofrece un espacio para que estud
 Sitio web: https://ciencialatitud0.github.io/EPIC_3/info/EPIC_Junior.html
 
 Evento en línea: 13 de septiembre de 2023
+https://github.com/ciencialatitud0/EPIC_3/tree/main/EPIC_Junior/evento-septiembre-2023
 
 Evento en Yachay Tech: 17 de agosto de 2023
+https://github.com/ciencialatitud0/EPIC_3/tree/main/EPIC_Junior/evento-agosto-2023
 
 ## Organizan:
 - Yachay Tech University OPTICA Student Chapter
