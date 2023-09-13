@@ -15,7 +15,6 @@ Evento en Yachay Tech: 17 de agosto de 2023
 - Yachay Tech University OPTICA Student Chapter
 - Escuela de Ciencias Físicas y Nanotecnología de la Universidad Yachay Tech
 - Universidad Internacional del Ecuador
-- Escuela Politécnica Nacional
 - Grupo de Investigadores Latitud Cero
 
 ## Instructores:
