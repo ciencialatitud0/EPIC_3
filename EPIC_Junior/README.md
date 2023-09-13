@@ -22,3 +22,8 @@ Evento en Yachay Tech: 17 de agosto de 2023
 - Daniel Arias, Universidad Yachay Tech
 - Franklin Limaico, Universidad Yachay Tech
 - Hernán Vaquilema, Universidad Yachay Tech
+
+## Coordinador@s:
+- Dra. Helga Dénes, Universidad Yachay Tech
+- Dra. Paulina Vizcaíno, Universidad Internacional del Ecuador
+- Dr. Wladimir Banda-Barragán, Universidad Yachay Tech
