@@ -53,9 +53,17 @@ https://forms.gle/DnsLGJer68PMkEja7
 
 # Programa preliminar:
 
-- 19h00 - 19h05: Bienvenida a EPIC Jr
-- 19h05 - 19h45: Charlas científicas divulgativas
-- 19h45 - 20h00: Preguntas
+19:00 - 19:10: Daniela Arellano: Bienvenida
+
+19:10 - 19:20: Daniel Arias: Mecánica orbital y agujeros negros
+
+19:20 - 19:30: Franklin Limaico: ¿Cómo se ven los átomos a nivel cuántico?
+
+19:30 - 19:40: Hernan Vaquilema: ¿Qué es la computación cuántica?
+
+19:40 - 19:50: Jhon Villacís: Monte Carlo y desintegración radioactiva
+
+19:50 - 20:00: Preguntas
 
 ## Certificado:
 
