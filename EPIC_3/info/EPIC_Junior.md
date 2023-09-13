@@ -53,8 +53,9 @@ https://forms.gle/DnsLGJer68PMkEja7
 
 # Programa preliminar:
 
-- 19h00 - 19h10: Bienvenida a EPIC Jr
-- 19h10 - 20h00: Charlas científicas divulgativas
+- 19h00 - 19h05: Bienvenida a EPIC Jr
+- 19h05 - 19h45: Charlas científicas divulgativas
+- 19h45 - 20h00: Preguntas
 
 ## Certificado:
 
