@@ -7,6 +7,11 @@ Por primera ocasión, la serie de escuelas EPIC ofrece un espacio para que estud
 - participar en mini-talleres de programación científica preparados por nuestr@s estudiantes universitarios,
 - aprender sobre ciencia y tecnología en un ambiente interactivo.
 
+## Material
+El material presentado durante EPIC Junior está disponible en el repositorio GitHub del evento:
+
+https://github.com/ciencialatitud0/EPIC_3/tree/main/EPIC_Junior 
+
 ## ¿Cuándo?
 
 EPIC Junior tendrá lugar el **día miércoles 13 de septiembre de 2023 desde las 19h00 hasta las 20h00.**
