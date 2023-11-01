@@ -79,3 +79,6 @@ The 10 selected teams will have to solve three programming challenges (all in Py
 
 Dorothy Johnson Vaughan was an American mathematician and human computer who worked for the National Advisory Committee for Aeronautics (NACA), later NASA, at Langley Research Center in Hampton, Virginia. In 1949, she became acting supervisor of the West Area Computers, the first African-American woman to receive a promotion and supervise a group of staff at the center. She later was promoted officially to the position of supervisor. During her 28-year career, Vaughan prepared for the introduction of computers in the early 1960s by teaching herself and her staff the Fortran programming language. She later headed the programming section of the Analysis and Computation Division (ACD) at Langley.
 
+#### See more below:
+https://en.wikipedia.org/wiki/Dorothy_Vaughan
+https://blog.kaleidos.net/dorothy-vaughan-computer-nasa/
