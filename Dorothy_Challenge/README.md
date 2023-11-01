@@ -18,15 +18,25 @@ The Dorothy Coding Challenge is a scientific programming contest aimed at motiva
 
 Interested teams should follow these steps:
 
-1. Application step (deadline: 19th November 2023). Apply for a spot by registering your team here:
+1. Application step (deadline: 19th November 2023).
    
-2. Selection process (deadline: 24th November 2023). The organisers contact 10 selected teams.
+   Apply for a spot by registering your team here:
+   
+3. Selection process (deadline: 24th November 2023).
+   
+   The organisers contact 10 selected teams.
 
-3. Dorothy Coding Challenge Contest (deadline: 10th December 2023). The 10 selected teams send their solutions to the proposed challenges by the deadline.
+4. Dorothy Coding Challenge Contest (deadline: 10th December 2023).
    
-4. Evaluation process (deadline: 14th December 2023). The evaluation panel submits their scores on the solutions submitted by all teams.
+   The 10 selected teams send their solutions to the proposed challenges by the deadline.
    
-5. Winners announcement (15th December 2023). The winning teams are publicly announced in an online event and they receive their prizes and diplomas.
+5. Evaluation process (deadline: 14th December 2023).
+   
+   The evaluation panel submits their scores on the solutions submitted by all teams.
+   
+6. Winners announcement (15th December 2023).
+   
+   The winning teams are publicly announced in an online event and they receive their prizes and diplomas.
 
 
 
