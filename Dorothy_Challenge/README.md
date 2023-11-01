@@ -13,6 +13,7 @@ The Dorothy Coding Challenge is a scientific programming contest aimed at motiva
 - Teams must apply to participate by providing:
   -  a motivation letter, and
   -  a python experience statement.
+- Team members must be very well versed in programming with the Python language (3.x).
  
 ## Application procedure and contest timeline:
 
@@ -37,6 +38,35 @@ Interested teams should follow these steps:
 **5. Winners announcement (15th December 2023).**
    
    The winning teams are publicly announced in an online event and they receive their prizes and diplomas.
+
+## PWF prizes and diplomas:
+
+Thanks to the very generous financial support from the PWF programme, the winning teams will receive ICTP-signed diplomas and the following prizes:
+
+### Winner Team's prize: 320 USD
+### Runner-up Team's prize: 160 USD
+
+Prizes are per team, not per person.
+
+## Topics for the programming challenges:
+
+The 10 selected teams will have to solve three programming challenges (all in Python) within the following areas:
+
+1. Artificial intelligence and bioimage analysis.
+   
+2. Numerical modelling and scientific visualisation.
+   
+3. Web scraping Computer Science (Iván/Paulina)
+
+## Evaluation process and criteria:
+
+- The selection of the 10 participating teams will be based on a blind evaluation of the motivation letters and statements of python programming experience. Diversity criteria will also be considered.
+  
+- The assessment of the winning teams will be based on the average of the scores submitted by a revision panel of experts, who will blindly review the codes and be instructed to evaluate: i) solution correctness, ii) code performance, and iii) code design and user friendliness.
+
+  
+
+
 
 
 
