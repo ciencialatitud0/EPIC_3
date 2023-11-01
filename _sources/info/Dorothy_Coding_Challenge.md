@@ -22,6 +22,8 @@ Interested teams should follow these steps:
 **1. Application step (deadline: 19th November 2023).**
    
    The potential participants apply for a spot by registering their team here:
+
+   https://forms.gle/3JP5xBFJN1jAdR7FA
    
 **2. Selection process (deadline: 24th November 2023).**
    
