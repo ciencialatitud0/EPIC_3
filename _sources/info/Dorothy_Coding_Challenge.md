@@ -63,11 +63,7 @@ The 10 selected teams will have to solve three programming challenges (all in Py
 - The selection of the 10 participating teams will be based on a blind evaluation of the motivation letters and statements of python programming experience. Diversity criteria will also be considered.
   
 - The assessment of the winning teams will be based on the average of the scores submitted by a revision panel of experts, who will blindly review the codes and be instructed to evaluate: i) solution correctness, ii) code performance, and iii) code design and user friendliness.
-
   
+## A contest to honour Dorothy Johnson Vaughan:
 
-
-
-
-
-
+Dorothy Johnson Vaughan (September 20, 1910 – November 10, 2008) was an American mathematician and human computer who worked for the National Advisory Committee for Aeronautics (NACA), and NASA, at Langley Research Center in Hampton, Virginia. In 1949, she became acting supervisor of the West Area Computers, the first African-American woman to receive a promotion and supervise a group of staff at the center. She later was promoted officially to the position of supervisor. During her 28-year career, Vaughan prepared for the introduction of computers in the early 1960s by teaching herself and her staff the Fortran programming language. She later headed the programming section of the Analysis and Computation Division (ACD) at Langley.
