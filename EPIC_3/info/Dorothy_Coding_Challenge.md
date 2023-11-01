@@ -47,9 +47,7 @@ Thanks to the very generous financial support from ICTP's PWF programme, the win
 
 ### Runner-up Team's prize: 160 USD
 
-Prizes are per team, not per person.
-
-![pngtree-medal-flag-design-template-ecuador-vector-png-image_9188780](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/56725d12-67d2-4fed-bf5b-a62f2e1e5df2)
+These prizes are per team, not per person.
 
 ## Topics for the programming challenges:
 
@@ -66,6 +64,14 @@ The 10 selected teams will have to solve three programming challenges (all in Py
 - The selection of the 10 participating teams will be based on a blind evaluation of the motivation letters and statements of prior python programming experience. Diversity criteria will also be considered.
   
 - The assessment of the winning teams will be based on the average of the scores submitted by a revision panel of experts, who will blindly review the codes and be instructed to evaluate: i) solution correctness, ii) code performance, and iii) code design and user friendliness.
+
+## Panel of experts:
+
+- Andrés Morales-Navarrete, U. Konstanz, Germany
+- Paulina Vizcaíno, UIDE, Ecuador
+- Iván Reyes, UIDE, Ecuador
+- Helga Dénes, Universidad Yachay Tech, Ecuador
+- TBD
   
 ## A contest to honour Dorothy Johnson Vaughan:
 
