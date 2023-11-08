@@ -1,8 +1,8 @@
 # The Dorothy Coding Challenge
 
-The Physics Without Frontiers (PWF) programme of the the Abdus Salam International Centre for Theoretical Physics (ICTP), in collaboration with Grupo de Investigadores Latitud Cero, Universidad Yachay Tech, Unversidad Internacional del Ecuador, and Escuela Politécnica Nacional, has the pleasure to invite university students to participate in the **Dorothy Coding Challenge** event.
+The Physics Without Frontiers (PWF) programme of the the Abdus Salam International Centre for Theoretical Physics (ICTP), in collaboration with Grupo de Investigadores Latitud Cero, Universidad Yachay Tech, Universidad Internacional del Ecuador (UIDE), and Escuela Politécnica Nacional, has the pleasure to invite university students to participate in the **Dorothy Coding Challenge**.
 
-The Dorothy Coding Challenge is a scientific programming contest aimed at motivating BSc students in Ecuador to pursue careers that combine computer science with natural sciences (physics, in particular). Students who participate in this year's edition will have the opportunity to team up with a peer and demonstrate their Python coding abilities to solve tricky problems related to scientific computing.
+The Dorothy Coding Challenge is a scientific programming contest aimed at motivating BSc students in Ecuador to pursue careers that combine computer science with natural sciences (physics, in particular). Students who participate in this year's edition will have the opportunity to team up with a peer and together demonstrate their Python coding abilities to solve tricky problems related to scientific computing.
 
 ## Requirements:
 
@@ -49,7 +49,7 @@ Thanks to the very generous financial support from ICTP's PWF programme, the win
 
 ### Runner-up Team's prize: 160 USD
 
-These prizes are per team, not per person.
+### Note: These prizes are per team, not per person.
 
 ## Topics for the programming challenges:
 
@@ -71,6 +71,7 @@ The 10 selected teams will have to solve three programming challenges (all in Py
 
 - Andrés Morales-Navarrete, U. Konstanz, Germany
 - Paulina Vizcaíno, UIDE, Ecuador
+- Óscar Chimborazo, Universidad Yachay Tech, Ecuador
 - Iván Reyes, UIDE, Ecuador
 - Helga Dénes, Universidad Yachay Tech, Ecuador
 - TBD
