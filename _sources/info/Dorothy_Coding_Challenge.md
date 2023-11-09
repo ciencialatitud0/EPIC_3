@@ -87,3 +87,9 @@ Dorothy Johnson Vaughan was an American mathematician and human computer who wor
 https://en.wikipedia.org/wiki/Dorothy_Vaughan
 
 https://blog.kaleidos.net/dorothy-vaughan-computer-nasa/
+
+
+### Poster:
+![Dorothy](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/1293f96a-973e-48f9-8442-12923e759227)
+
+
