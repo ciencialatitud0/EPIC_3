@@ -1,5 +1,7 @@
 # The Dorothy Coding Challenge
 
+![Concurso-de-Programación-canva](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/e2d9fca3-4bcc-41c2-9cfc-4d817da362fd)
+
 The Physics Without Frontiers (PWF) programme of the the Abdus Salam International Centre for Theoretical Physics (ICTP), in collaboration with Grupo de Investigadores Latitud Cero, Universidad Yachay Tech, Universidad Internacional del Ecuador (UIDE), and Escuela Politécnica Nacional, has the pleasure to invite university students to participate in the **Dorothy Coding Challenge**.
 
 The Dorothy Coding Challenge is a scientific programming contest aimed at motivating BSc students in Ecuador to pursue careers that combine computer science with natural sciences (physics, in particular). Students who participate in this year's edition will have the opportunity to team up with a peer and together demonstrate their Python coding abilities to solve tricky problems related to scientific computing.
