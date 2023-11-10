@@ -71,12 +71,13 @@ The 10 selected teams will have to solve three programming challenges (all in Py
 
 ## Panel of experts:
 
-- Andrés Morales-Navarrete, U. Konstanz, Germany
+- Andrés Morales-Navarrete, Konstanz University, Germany
 - Paulina Vizcaíno, UIDE, Ecuador
 - Óscar Chimborazo, Universidad Yachay Tech, Ecuador
 - Iván Reyes, UIDE, Ecuador
 - Helga Dénes, Universidad Yachay Tech, Ecuador
-- TBD
+- Edison Salazar, Leiden Univeristy, The Netherlands
+- Alejandro Gómez, Carnegie Mellon University, USA
   
 ## A contest to honour Dorothy Johnson Vaughan:
 
