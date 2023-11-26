@@ -10,15 +10,18 @@ Examples of raw images and the correspoing masks could be foun in the [example_d
 ![Workflow](https://github.com/ciencialatitud0/EPIC_3/blob/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis/mask_workflow.png)
 
 ## Challenge Steps
-1. Data Download
+1. Data Download:
 Download the image data from [Training Data](https://kondata.uni-konstanz.de/radar/de/dataset/xhEhklsaJUpbRLnY.EmbryoNet_Training-data%253A%2BWT).
 Use as many images as needed for algorithm development. The images (tif, png or jpg) are located in the subfolders '../images'
-2. Data Visualization
+
+2. Data Visualization:
 Visualize example images in a Jupyter notebook to understand dataset characteristics.
-3. Algorithm Development
+
+3. Algorithm Development:
 Develop an algorithm to generate masks. Use any algorithm, including machine learning. Provide annotated masks if using supervised learning. Manual annotations can be done using any free software such as [LabelMe](http://github.com/wkentaro/labelme).
 Clearly document the algorithm steps in the code.
-4. Evaluation
+
+4. Evaluation:
 Evaluate the algorithm on images from [Evaluation Data](https://kondata.uni-konstanz.de/radar/de/dataset/gckMwoUnrbKCTVDV.TwinNetworkDataZebrafish_Temperature).
 Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary.
 Provide a Jupyter notebook showcasing the entire process, including raw image loading, masking, and result analysis. Comment on each step.
@@ -27,6 +30,7 @@ Provide a Jupyter notebook showcasing the entire process, including raw image lo
 Submit the complete code used in algorithm development.
 Include a Jupyter notebook for external evaluation, ensuring proper comments.
 Clearly mention any external tools or packages used. Make sure they are publicly available and free.
+Include the raw images and annotated mask (of the link to a repository or cloud wher they are stored) if you used a supervised learning approach.
 
 ## Evaluation
 * Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
