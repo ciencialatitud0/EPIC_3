@@ -23,8 +23,9 @@ Clearly document the algorithm steps in the code.
 
 4. Evaluation:
 Evaluate the algorithm on images from [Evaluation Data](https://kondata.uni-konstanz.de/radar/de/dataset/gckMwoUnrbKCTVDV.TwinNetworkDataZebrafish_Temperature).
-Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary.
-Provide a Jupyter notebook showcasing the entire process, including raw image loading, masking, and result analysis. Comment on each step.
+Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary. Your creativity in the evaluation workflow will be graded to.
+
+Provide a Jupyter notebook showcasing the entire process, including raw image loading, masking, and result analysis. Comment the steps.
 
 ## Submission Guidelines
 Submit the complete code used in algorithm development.
