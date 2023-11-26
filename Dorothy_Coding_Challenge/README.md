@@ -59,7 +59,7 @@ The 10 selected teams will have to solve three programming challenges (all in Py
 
 1. [Artificial intelligence and bioimage analysis](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis)
    
-2. Numerical modelling and scientific visualisation.
+2. [Numerical modelling and scientific visualisation](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/Numerical_modelling_and_scientific_visualisation)
    
 3. [Web scraping and computer science](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/Web_Scraping_Challenge)
 
