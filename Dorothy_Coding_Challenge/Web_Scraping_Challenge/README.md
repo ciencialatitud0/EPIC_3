@@ -1,46 +1,17 @@
-## Artificial Intelligence and Bioimage Analysis challenge
+## Web Scraping Challenge
 
-## Challenge Title: Zebrafish Embryo Mask Generation from Bright Field Images
+El objetivo del Challenge es realizar un proceso de web scraping y tratamiento de datos desde obtención de la información hasta su almacenado utilizando herramientas de Python.
+La primera parte consistirá generar la codificación adecuada que permita extraer datos de una fuente online, para lo cual se deberá utilizar al menos dos de las siguientes APIS:
+
+•	La API de la NASA te permite utilizar los datos de la NASA, su url es: https://api.nasa.gov/
+•	The Cocktail DB es una API que contiene una base de datos abierta y de origen colectivo de bebidas y cócteles de todo el mundo. Su url es: https://www.thecocktaildb.com/
+•	Quotes API te permite acceder a múltiples y famosas citas. Su url es: https://quotes.rest/
+•	La API de MovieDB te ofrece todos los datos varias películas de cine. Su url es: https://www.themoviedb.org/documentation/api
+
+Una vez seleccionadas las dos páginas es importante tomar en cuenta que es necesario extraer tanto texto como imágenes.
+La segunda etapa de este reto contempla el almacenamiento de la información obtenida en la etapa anterior; es importante que los equipos utilicen herramientas como MongoDB o Firebase, para almacenar la información extraída en una base de datos en la nube.
+Finalmente, la última etapa es generar un buscador con la información generada durante las dos etapas anteriores. El usuario podrá acceder a este buscador y estará en la capacidad de buscar por texto o imágenes acerca de un tema, y el software deberá entregar toda la data asociada a dicha petición.
+
+Para la entrega se deberá generar un repositorio público en github que contenga su respectivo archivo Readme.md en el que se explique lo que se pretende hacer, lo que se ha hecho y las dificultades encontradas en caso de haber alguna.
 
 
-## Objective
-The goal of this challenge is to develop a standalone python code for creating masks of zebrafish embryos from bright field images (as shown below). Participants are free to choose any image analysis algorithm, including machine learning approaches. 
-Examples of raw images and the correspoing masks could be foun in the [example_data folder](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis/example_data)
-
-![Workflow](https://github.com/ciencialatitud0/EPIC_3/blob/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis/mask_workflow.png)
-
-## Challenge Steps
-1. Data Download:
-Download the image data from [Training Data](https://kondata.uni-konstanz.de/radar/de/dataset/xhEhklsaJUpbRLnY.EmbryoNet_Training-data%253A%2BWT).
-Use as many images as needed for algorithm development. The images (tif, png or jpg) are located in the subfolders '../images'
-
-2. Data Visualization:
-Visualize example images in a Jupyter notebook to understand dataset characteristics.
-
-3. Algorithm Development:
-Develop an algorithm to generate masks. Use any algorithm, including machine learning. Provide annotated masks if using supervised learning. Manual annotations can be done using any free software such as [LabelMe](http://github.com/wkentaro/labelme).
-Clearly document the algorithm steps in the code.
-
-4. Evaluation:
-Evaluate the algorithm on images from [Evaluation Data](https://kondata.uni-konstanz.de/radar/de/dataset/gckMwoUnrbKCTVDV.TwinNetworkDataZebrafish_Temperature).
-Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary. Your creativity in the evaluation workflow will be graded to.
-
-Provide a Jupyter notebook showcasing the entire process, including raw image loading, masking, and result analysis. Comment the steps.
-
-## Submission Guidelines
-Submit the complete code used in algorithm development.
-Include a Jupyter notebook for external evaluation, ensuring proper comments.
-Clearly mention any external tools or packages used. Make sure they are publicly available and free.
-Include the raw images and annotated mask (of the link to a repository or cloud wher they are stored) if you used a supervised learning approach.
-
-## Evaluation
-* Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
-* Interpretability (20%): Evaluation results should be quantitative and rigorous, providing a clear understanding of algorithm performance.
-* Generalizability (40%): The code should work effectively on other similar, unseen images. The evaluators will test your code in a different set of images.
-* Performance (20%): Evaluation of the code's speed and efficiency.
-
-## Note
-This challenge provides an opportunity to showcase your skills in bioimage analysis, artificial intelligence, and algorithm development. Thorough documentation and detailed analysis of results are encouraged. Good luck!
-Data from:
-Čapek, D., Safroshkin, M., Morales-Navarrete, H. et al. EmbryoNet: using deep learning to link embryonic phenotypes to signaling pathways. Nat Methods 20, 815–823 (2023).[Avaible here](https://doi.org/10.1038/s41592-023-01873-4)
-Toulany, N., Morales-Navarrete, H. et al. Uncovering developmental time and tempo using deep learning. Nat Methods (2023). [Avaible here](https://doi.org/10.1038/s41592-023-02083-8)
