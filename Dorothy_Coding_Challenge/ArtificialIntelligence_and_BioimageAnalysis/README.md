@@ -1,6 +1,5 @@
-# Escuela de Programación para Investigación Científica - EPIC 3
-## The frontiers of Computational Physics
+# Dorothy Coding Challenge
 
-# Dorothy CodingChallenge
+## Artificial Intelligence and BioimageAnalysis challenge
 
 
