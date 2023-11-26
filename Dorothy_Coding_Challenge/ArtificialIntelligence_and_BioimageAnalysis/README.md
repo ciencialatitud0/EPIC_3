@@ -1,5 +1,3 @@
-Dorothy Coding Challenge
-
 ## Artificial Intelligence and Bioimage Analysis challenge
 
 ## Challenge Title: Zebrafish Embryo Mask Generation from Bright Field Images
@@ -31,10 +29,10 @@ Include a Jupyter notebook for external evaluation, ensuring proper comments.
 Clearly mention any external tools or packages used. Make sure they are publicly available and free.
 
 ## Evaluation
-Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
-Interpretability (20%): Evaluation results should be quantitative and rigorous, providing a clear understanding of algorithm performance.
-Generalizability (40%): The code should work effectively on other similar, unseen images. The evaluators will test your code in a different set of images.
-Performance (20%): Evaluation of the code's speed and efficiency.
+* Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
+* Interpretability (20%): Evaluation results should be quantitative and rigorous, providing a clear understanding of algorithm performance.
+* Generalizability (40%): The code should work effectively on other similar, unseen images. The evaluators will test your code in a different set of images.
+* Performance (20%): Evaluation of the code's speed and efficiency.
 
 ## Note
 This challenge provides an opportunity to showcase your skills in bioimage analysis, artificial intelligence, and algorithm development. Thorough documentation and detailed analysis of results are encouraged. Good luck!
