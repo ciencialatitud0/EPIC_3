@@ -27,7 +27,7 @@ Interested teams should follow these steps:
 
    https://forms.gle/3JP5xBFJN1jAdR7FA
    
-**2. Selection process (deadline: 24th November 2023).**
+**2. Selection process (<span style="color:red">new deadline: 28th November 2023</span>).**
    
    The contest evaluation panel selects 10 teams, contacts them, and sends them three coding challenges.
 
