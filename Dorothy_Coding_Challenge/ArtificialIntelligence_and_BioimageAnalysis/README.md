@@ -6,9 +6,10 @@ Dorothy Coding Challenge
 
 
 ## Objective
-The goal of this challenge is to develop a standalone python code for creating masks of zebrafish embryos from bright field images. Participants are free to choose any image analysis algorithm, including machine learning approaches.
+The goal of this challenge is to develop a standalone python code for creating masks of zebrafish embryos from bright field images (as shown below). Participants are free to choose any image analysis algorithm, including machine learning approaches. 
+Examples of raw images and the correspoing masks could be foun in the [example_data folder](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis/example_data)
 
-![Workflow](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/1293f96a-973e-48f9-8442-12923e759227)
+![Workflow](https://github.com/ciencialatitud0/EPIC_3/blob/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis/mask_workflow.png)
 
 ## Challenge Steps
 1. Data Download
