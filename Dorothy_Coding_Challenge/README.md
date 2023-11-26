@@ -57,11 +57,11 @@ Thanks to the very generous financial support from ICTP's PWF programme, the win
 
 The 10 selected teams will have to solve three programming challenges (all in Python version 3.x) within the following areas:
 
-1. [Artificial intelligence and bioimage analysis](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis).
+1. [Artificial intelligence and bioimage analysis](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis)
    
 2. Numerical modelling and scientific visualisation.
    
-3. Web scraping and computer science.
+3. [Web scraping and computer science](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/Web_Scraping_Challenge)
 
 ## Evaluation process and criteria:
 
