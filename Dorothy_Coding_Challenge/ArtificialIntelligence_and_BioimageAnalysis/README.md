@@ -1,5 +1,5 @@
 # Dorothy Coding Challenge
 
-## Artificial Intelligence and BioimageAnalysis challenge
+## Artificial Intelligence and Bioimage Analysis challenge
 
 
