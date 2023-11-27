@@ -2,6 +2,8 @@
 
 This problem consist of using Fourier analysis to remove undesired artifacts from scientific images of the Moon.
 
+![First_View_of_Earth_from_Moon3](https://github.com/ciencialatitud0/EPIC_3/assets/30240951/9c3aa6be-de16-42ce-afb3-ef5f60377c88)
+
 The file provided below **First_View_of_Earth_from_Moon3.jpeg** contains an image of the Moon, taken by one of the Lunar Orbiter satellites (1966 - 1967). The Lunar Orbiters (https://nssdc.gsfc.nasa.gov/planetary/lunar/lunarorb.html) were mapping the Moon by taking pictures with film cameras. The film was scanned by a machine on the satellite and sent back to Earth through radio signals. Because of the scanning method there are clear artifacts in the images. Your task is to remove them using your own Fourier-based routines.
 
 #### Download image file:
