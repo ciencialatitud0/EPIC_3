@@ -10,7 +10,7 @@ Examples of raw images and the corresponding masks could be found in the [exampl
 
 ## Challenge Steps
 1. Data Download:
-Download the image data from [Training Data](https://drive.google.com/drive/folders/1tLrE2akKF_bZ9pQby3_rtsgCmlzKe7f-?usp=sharing) and extra images from [Extra Training Data](https://kondata.uni-konstanz.de/radar/de/dataset/xhEhklsaJUpbRLnY.EmbryoNet_Training-data%253A%2BWT).
+Download the image data from [Training Data](https://drive.google.com/drive/folders/1tLrE2akKF_bZ9pQby3_rtsgCmlzKe7f-?usp=sharing) (extra images can be downloaded from [Extra Training Data](https://kondata.uni-konstanz.de/radar/de/dataset/xhEhklsaJUpbRLnY.EmbryoNet_Training-data%253A%2BWT)).
 Use as many images as needed for algorithm development. The images (tif, png or jpg) are located in the subfolders '../images'
 
 2. Data Visualization:
@@ -21,8 +21,8 @@ Develop an algorithm to generate masks. Use any algorithm, including machine lea
 Clearly document the algorithm steps in the code.
 
 4. Evaluation:
-Evaluate the algorithm on images from [Evaluation Data](https://drive.google.com/drive/folders/1yEtBTO41igEbXU_DG2ACTM4JOCp2XTyx?usp=drive_link) and extra images from [Extra Evaluation Data](https://kondata.uni-konstanz.de/radar/de/dataset/gckMwoUnrbKCTVDV.TwinNetworkDataZebrafish_Temperature).
-Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary. Your creativity in the evaluation workflow will be graded to.
+Evaluate the algorithm on images from [Evaluation Data](https://drive.google.com/drive/folders/1yEtBTO41igEbXU_DG2ACTM4JOCp2XTyx?usp=drive_link) (extra images can be downloaded from [Extra Evaluation Data](https://kondata.uni-konstanz.de/radar/de/dataset/gckMwoUnrbKCTVDV.TwinNetworkDataZebrafish_Temperature)).
+Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary. Your creativity in the evaluation workflow will be graded too.
 
 Provide a Jupyter notebook showcasing the entire process, including raw image loading, masking, and result analysis. Comment the steps.
 
