@@ -1,7 +1,6 @@
 
 
 # Zebrafish Embryo Mask Generation from Bright Field Images
-## Artificial Intelligence and Bioimage Analysis challenge
 
 ## Objective
 The goal of this challenge is to develop a standalone python code for creating masks of zebrafish embryos from bright field images (as shown below). Participants are free to choose any image analysis algorithm, including machine learning approaches. 
@@ -41,6 +40,8 @@ Include the raw images and annotated mask (of the link to a repository or cloud 
 
 ## Note
 This challenge provides an opportunity to showcase your skills in bioimage analysis, artificial intelligence, and algorithm development. Thorough documentation and detailed analysis of results are encouraged. Good luck!
+
+
 Data from:
 * Čapek, D., Safroshkin, M., Morales-Navarrete, H. et al. EmbryoNet: using deep learning to link embryonic phenotypes to signaling pathways. Nat Methods 20, 815–823 (2023).[Avaible here](https://doi.org/10.1038/s41592-023-01873-4)
 * Toulany, N., Morales-Navarrete, H. et al. Uncovering developmental time and tempo using deep learning. Nat Methods (2023). [Avaible here](https://doi.org/10.1038/s41592-023-02083-8)
