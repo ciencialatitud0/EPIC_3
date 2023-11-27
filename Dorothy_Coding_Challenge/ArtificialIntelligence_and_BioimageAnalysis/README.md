@@ -10,12 +10,12 @@ Examples of raw images and the corresponding masks could be found in the [exampl
 
 ## Challenge Steps
 1. Data Download:
- * Download the image data from [Training Data](https://drive.google.com/drive/folders/1tLrE2akKF_bZ9pQby3_rtsgCmlzKe7f-?usp=sharing) (extra images can be downloaded from [Extra Training Data](https://kondata.uni-konstanz.de/radar/de/dataset/xhEhklsaJUpbRLnY.EmbryoNet_Training-data%253A%2BWT)).
- * Use as many images as needed for algorithm development.
- * The images (tif, png or jpg) are located in the subfolders '../images'
+   * Download the image data from [Training Data](https://drive.google.com/drive/folders/1tLrE2akKF_bZ9pQby3_rtsgCmlzKe7f-?usp=sharing) (extra images can be downloaded from [Extra Training Data](https://kondata.uni-konstanz.de/radar/de/dataset/xhEhklsaJUpbRLnY.EmbryoNet_Training-data%253A%2BWT)).
+   * Use as many images as needed for algorithm development.
+   * The images (tif, png or jpg) are located in the subfolders '../images'
 
 2. Data Visualization:
-* Visualize example images in a Jupyter notebook to understand dataset characteristics.
+** Visualize example images in a Jupyter notebook to understand dataset characteristics.
 
 3. Algorithm Development:
 * Develop an algorithm to generate masks. Use any algorithm, including machine learning.
