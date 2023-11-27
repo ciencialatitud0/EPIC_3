@@ -15,17 +15,17 @@ Examples of raw images and the corresponding masks could be found in the [exampl
    * The images (tif, png or jpg) are located in the subfolders '../images'
 
 2. Data Visualization:
-  * Visualize example images in a Jupyter notebook to understand dataset characteristics.
+   * Visualize example images in a Jupyter notebook to understand dataset characteristics.
 
 3. Algorithm Development:
-  * Develop an algorithm to generate masks. Use any algorithm, including machine learning.
-  * Provide annotated masks if using supervised learning. Manual annotations can be done using any free software such as [LabelMe](http://github.com/wkentaro/labelme).
-  * Clearly document the algorithm steps in the code.
+   * Develop an algorithm to generate masks. Use any algorithm, including machine learning.
+   * Provide annotated masks if using supervised learning. Manual annotations can be done using any free software such as [LabelMe](http://github.com/wkentaro/labelme).
+   * Clearly document the algorithm steps in the code.
 
 5. Evaluation:
-  * Evaluate the algorithm on images from [Evaluation Data](https://drive.google.com/drive/folders/1yEtBTO41igEbXU_DG2ACTM4JOCp2XTyx?usp=drive_link) (extra images can be downloaded from [Extra Evaluation Data](https://kondata.uni-konstanz.de/radar/de/dataset/gckMwoUnrbKCTVDV.TwinNetworkDataZebrafish_Temperature)).
-  * Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary.
-  * Your creativity in the evaluation workflow will be graded too.
+   * Evaluate the algorithm on images from [Evaluation Data](https://drive.google.com/drive/folders/1yEtBTO41igEbXU_DG2ACTM4JOCp2XTyx?usp=drive_link) (extra images can be downloaded from [Extra Evaluation Data](https://kondata.uni-konstanz.de/radar/de/dataset/gckMwoUnrbKCTVDV.TwinNetworkDataZebrafish_Temperature)).
+   * Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary.
+   * Your creativity in the evaluation workflow will be graded too.
 
 
 ## Submission Guidelines
