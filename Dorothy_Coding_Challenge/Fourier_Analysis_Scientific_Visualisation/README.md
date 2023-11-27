@@ -6,7 +6,7 @@ The file provided below **First_View_of_Earth_from_Moon3.jpeg** contains an imag
 
 #### Download image file:
 
-https://github.com/wbandabarragan/computational-physics-1/blob/main/exams/data_sets/First_View_of_Earth_from_Moon3.jpeg
+Dorothy_Coding_Challenge/Fourier_Analysis_Scientific_Visualisation/First_View_of_Earth_from_Moon3.jpeg
 
 #### Image I/O:
 
