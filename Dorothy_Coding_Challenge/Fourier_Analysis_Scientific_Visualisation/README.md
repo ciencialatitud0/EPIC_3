@@ -40,9 +40,9 @@ Dorothy_Coding_Challenge/Fourier_Analysis_Scientific_Visualisation/First_View_of
 (j) Apply the filter function from (i) to the other two channels of the image. Using the output clean images, reconstruct the 3-layered image and make a two panel figure showing the original 3-layered image and your new artifact-free 3-layered image.
 
 ## Submission Guidelines
-Submit the complete code used in algorithm development and the output images.
-Include a Jupyter notebook for external evaluation, ensuring proper comments.
-Clearly mention any external tools or packages used. Make sure they are publicly available and free.
+* Submit the complete python code used in algorithm development and the output images.
+* Include a single Jupyter notebook for external evaluation, ensuring proper comments.
+* Clearly mention any external tools or packages used. Make sure they are publicly available and free.
 
 ## Evaluation
 * Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
