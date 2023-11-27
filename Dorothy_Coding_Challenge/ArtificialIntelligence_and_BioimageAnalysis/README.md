@@ -1,7 +1,7 @@
-## Artificial Intelligence and Bioimage Analysis challenge
 
-## Challenge Title: Zebrafish Embryo Mask Generation from Bright Field Images
 
+# Zebrafish Embryo Mask Generation from Bright Field Images
+##Artificial Intelligence and Bioimage Analysis challenge
 
 ## Objective
 The goal of this challenge is to develop a standalone python code for creating masks of zebrafish embryos from bright field images (as shown below). Participants are free to choose any image analysis algorithm, including machine learning approaches. 
