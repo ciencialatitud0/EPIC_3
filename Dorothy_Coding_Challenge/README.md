@@ -57,7 +57,7 @@ Thanks to the very generous financial support from ICTP's PWF programme, the win
 
 The 10 selected teams will have to solve three programming challenges (all in Python version 3.x) within the following areas:
 
-1. [Artificial intelligence and bioimage analysis](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis)
+1. [Zebrafish Embryo Mask Generation from Bright Field Images](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis)
    
 2. [Fourier Analysis: removing artifacts from scientific images](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/Fourier_Analysis_Scientific_Visualisation)
    
