@@ -41,9 +41,9 @@ Dorothy_Coding_Challenge/Fourier_Analysis_Scientific_Visualisation/First_View_of
 
 ## Submission Guidelines:
 
-* Submit the complete python code used in algorithm development and the output images in a single tar ball.
-* In such tar ball, include a single Jupyter notebook for external evaluation, ensuring proper comments.
-* Clearly mention any external tools or packages used. Make sure they are publicly available and free.
+- Submit the complete python code used in algorithm development and the output images in a single tar ball.
+- In such tar ball, include a single Jupyter notebook for external evaluation, ensuring proper comments.
+- Clearly mention any external tools or packages used. Make sure they are publicly available and free.
 
 ## Evaluation:
 
