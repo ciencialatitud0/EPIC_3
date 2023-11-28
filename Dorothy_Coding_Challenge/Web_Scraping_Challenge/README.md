@@ -1,17 +1,36 @@
 ## Web Scraping Challenge
 
-El objetivo del Challenge es realizar un proceso de web scraping y tratamiento de datos desde obtención de la información hasta su almacenado utilizando herramientas de Python.
-La primera parte consistirá generar la codificación adecuada que permita extraer datos de una fuente online, para lo cual se deberá utilizar al menos dos de las siguientes APIS:
+The objective of this challenge is to perform web scraping and data processing, from obtaining the information to its storage, using Python tools. 
 
-1.	La API de la NASA te permite utilizar los datos de la NASA, su url es: https://api.nasa.gov/
-2.	The Cocktail DB es una API que contiene una base de datos abierta y de origen colectivo de bebidas y cócteles de todo el mundo. Su url es: https://www.thecocktaildb.com/
-3.	Quotes API te permite acceder a múltiples y famosas citas. Su url es: https://quotes.rest/
-4.	La API de MovieDB te ofrece todos los datos varias películas de cine. Su url es: https://www.themoviedb.org/documentation/api
+### 1. Web scraping:
+The first part will consist of generating the appropriate python code to extract data from an online source, for which at least two of the following APIS must be used:
 
-Una vez seleccionadas las dos páginas es importante tomar en cuenta que es necesario extraer tanto texto como imágenes.
-La segunda etapa de este reto contempla el almacenamiento de la información obtenida en la etapa anterior; es importante que los equipos utilicen herramientas como MongoDB o Firebase, para almacenar la información extraída en una base de datos en la nube.
-Finalmente, la última etapa es generar un buscador con la información generada durante las dos etapas anteriores. El usuario podrá acceder a este buscador y estará en la capacidad de buscar por texto o imágenes acerca de un tema, y el software deberá entregar toda la data asociada a dicha petición.
+    • The NASA API allows you to use NASA data, its url is: https://api.nasa.gov/
+    
+    • The Cocktail DB is an API that contains an open, crowdsourced database of drinks and cocktails from around the world. Its url is: https://www.thecocktaildb.com/
+    
+    • Quotes API allows you to access multiple famous quotes. Its url is: https://quotes.rest/
+    
+    • MovieDB API gives you all the data for many movies. Its url is: https://www.themoviedb.org/documentation/api
 
-Para la entrega se deberá generar un repositorio público en github que contenga su respectivo archivo Readme.md en el que se explique lo que se pretende hacer, lo que se ha hecho y las dificultades encontradas en caso de haber alguna.
+Once the two pages have been selected, it is important to take into account that it is necessary to extract both text and images.
 
+### 2. Data processing:
 
+The second stage of this challenge involves storing the information obtained in the previous stage. It is important that the teams use tools such as **MongoDB** or **Firebase** to store the extracted information in a cloud database.
+
+### 3. Search engine:
+
+Finally, the last stage is to generate a search engine with the information generated during the previous two stages. The user will be able to access this search engine and will be able to search for text or images about a topic, and the software will deliver all the data associated with such request.
+
+## Submission Guidelines:
+
+* For the delivery, a public repository with the code must be generated in github containing its respective Readme.md.
+* The Readme.md file should explain how to use the code, what it is intended to do, what has been done and the difficulties encountered, if any.
+
+## Evaluation
+* Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
+* Interpretability (20%): Evaluation results should be quantitative and rigorous, providing a clear understanding of algorithm performance.
+* Generalizability (40%): The code should work effectively on other similar, unseen images. The evaluators will test your code in a different set of images.
+* Performance (20%): Evaluation of the code's speed and efficiency.
+  
