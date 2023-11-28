@@ -5,13 +5,13 @@ The objective of this challenge is to perform web scraping and data processing, 
 ### 1. Web scraping:
 The first part will consist of generating the appropriate python code to extract data from an online source, for which at least two of the following APIS must be used:
 
-    • The NASA API allows you to use NASA data, its url is: https://api.nasa.gov/
+- The NASA API allows you to use NASA data, its url is: https://api.nasa.gov/
     
-    • The Cocktail DB is an API that contains an open, crowdsourced database of drinks and cocktails from around the world. Its url is: https://www.thecocktaildb.com/
+- The Cocktail DB is an API that contains an open, crowdsourced database of drinks and cocktails from around the world. Its url is: https://www.thecocktaildb.com/
     
-    • Quotes API allows you to access multiple famous quotes. Its url is: https://quotes.rest/
+- Quotes API allows you to access multiple famous quotes. Its url is: https://quotes.rest/
     
-    • MovieDB API gives you all the data for many movies. Its url is: https://www.themoviedb.org/documentation/api
+- MovieDB API gives you all the data for many movies. Its url is: https://www.themoviedb.org/documentation/api
 
 Once the two pages have been selected, it is important to take into account that it is necessary to extract both text and images.
 
@@ -25,12 +25,12 @@ Finally, the last stage is to generate a search engine with the information gene
 
 ## Submission Guidelines:
 
-* For the delivery, a public repository with the code must be generated in github containing its respective Readme.md.
-* The Readme.md file should explain how to use the code, what it is intended to do, what has been done and the difficulties encountered, if any.
+- For the delivery, a public repository with the code must be generated in github containing its respective Readme.md.
+- The Readme.md file should explain how to use the code, what it is intended to do, what has been done and the difficulties encountered, if any.
 
 ## Evaluation
-* Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
-* Interpretability (20%): Evaluation results should be quantitative and rigorous, providing a clear understanding of algorithm performance.
-* Generalizability (40%): The code should work effectively on other similar, unseen images. The evaluators will test your code in a different set of images.
-* Performance (20%): Evaluation of the code's speed and efficiency.
+- Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
+- Interpretability (20%): Evaluation results should be quantitative and rigorous, providing a clear understanding of algorithm performance.
+- Generalizability (40%): The code should work effectively on other similar, unseen images. The evaluators will test your code in a different set of images.
+- Performance (20%): Evaluation of the code's speed and efficiency.
   
