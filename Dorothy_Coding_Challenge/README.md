@@ -63,6 +63,63 @@ The 10 selected teams will have to solve three programming challenges (all in Py
    
 3. [Web scraping and computer science](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/Web_Scraping_Challenge)
 
+## Selected Teams:
+
+The selection process has concluded, 13 teams from 3 different universities will compete in this years's edition of Dorothy:
+
+1. Prometeo, Yachay Tech University
+   Luis David Morocho Pogo
+   Yordan Eduardo Solorzano Roman
+
+2. Complex Kenna Coders, Yachay Tech University
+   Arianna Judith Paredes Quiñonez
+   Kevin Alexis Robalino Gómez
+  
+3. AHDP, Escuela Politécnica Nacional
+   Daniel García-Villacañas Garcés
+   Alejandro Javier Cobo Urvina
+
+4. G-JD CodeCrafters, Universidad Internacional del Ecuador
+   Guillermo Rafael Fuenmayor Solano
+   Juan Diego Terneus Gonzalez
+
+5. Chaotic Code, Yachay Tech University
+   Juan José Macharé
+   Hugo Chancay
+
+6. Critical Quipu Cartographers, Yachay Tech University
+   Juan Sebastián Velez Rojas
+   Ricardo Isaías Velasco Silva
+   
+7. Comphys, Escuela Politécnica Nacional
+   Joseph Luis Cruz Ayala	Gutemberg
+   Stiven Mendoza Mestanza
+
+8. Sigmas, Escuela Politécnica Nacional
+   Esteban Fernando Cárdenas Andino
+   Nicolas Alonso Noriega Cruz
+   
+9. VAS, Yachay Tech University
+   Vicente Alexander Arévalo Nazate
+   Saire David Conejo Pichamba 
+
+10. Pythonic Force, Escuela Politécnica Nacional
+    Jennifer Lorena Ortega Aguilar
+    Andy Marlon Rubio Erazo
+
+11. Code Crafters, Yachay Tech University
+    Bryan Joel Pinargote Morrillo
+    Ariana Melissa Veliz Mendoza
+    
+12. Neural Nexus, Yachay Tech University
+    Saul Steven Figueroa Guayllas
+    Leonel Ángel Cabrera Loor
+    
+13. HintOn, Yachay Tech University
+    Julio Rogers Cajas Guncay
+    Esteban Sebastian Moscoso Garcia
+
+
 ## Evaluation process and criteria:
 
 - The selection of the 10 participating teams will be based on a blind evaluation of the motivation letters and statements of prior python programming experience. Diversity criteria will also be considered.
@@ -75,9 +132,12 @@ The 10 selected teams will have to solve three programming challenges (all in Py
 - Paulina Vizcaíno, UIDE, Ecuador
 - Óscar Chimborazo, Universidad Yachay Tech, Ecuador
 - Iván Reyes, UIDE, Ecuador
-- Helga Dénes, Universidad Yachay Tech, Ecuador
 - Edison Salazar, Leiden Univeristy, The Netherlands
 - Alejandro Gómez, Carnegie Mellon University, USA
+
+## Logistics organisers:
+- Helga Dénes, Universidad Yachay Tech, Ecuador
+- Wladimir Banda-Barragán, Universidad Yachay Tech, Ecuador
   
 ## A contest to honour Dorothy Johnson Vaughan:
 
