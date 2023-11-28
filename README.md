@@ -47,5 +47,4 @@ The third edition of EPIC will focus on introducing computational techniques for
 At the end of this School, participants will be able to carry out scientific data and image analysis using computational tools. This training will allow them to extract important information about the physical systems under study.
 
 ## Format:
-In person at Yachay Tech campus
-
+In person at Yachay Tech campus.
