@@ -4,7 +4,7 @@
 
 Please read the following instructions very carefully:
 
-1. Teams should submit their solutions to the 3 proposed challenges by Sunday 10 December 2023 (23h59, UTC-5h). Late submissions won't be accepted nor considered for evaluation, so make sure you submit your solutions on time.
+1. Teams should submit their solutions to the 3 proposed challenges by **Sunday 10 December 2023 (23h59, UTC-5h)**. Late submissions won't be accepted nor considered for evaluation, so make sure you submit your solutions on time.
    
 2. Submissions are accepted only via email to: ciencia.latitud0@gmail.com Please attach all the required files for each challenge.
    
