@@ -25,7 +25,7 @@ Finally, the last stage is to generate a search engine with the information gene
 
 ## Submission Guidelines:
 
-- For the delivery, a public repository with the code must be generated in github containing its respective Readme.md.
+- For the delivery, please compress all your python routines and revelant files, including a Readme.md file, into a tar ball and send it via email.
 - The Readme.md file should explain how to use the code, what it is intended to do, what has been done and the difficulties encountered, if any.
 
 ## Evaluation
