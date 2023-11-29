@@ -6,7 +6,7 @@ Please read the following instructions very carefully:
 
 1. Teams should submit their solutions to the 3 proposed challenges by **Sunday 10 December 2023 (23h59, UTC-5h)**. Late submissions won't be accepted nor considered for evaluation, so make sure you submit your solutions on time.
    
-2. Submissions are accepted only via email to: ciencia.latitud0@gmail.com Please attach all the required files for each challenge.
+2. Submissions are accepted only via email to: ciencia.latitud0@gmail.com Please use as subject line: "Dorothy Coding Challenge: (your group's name)", and attach all the required files for each challenge.
    
 3. Your python routines (code routines, files, notebooks, etc.) should be anonymous. No reference to your names, institutions, team names, etc. should be included in your submissions. This will ensure that the evaluation of your codes by the panel of experts is fully blind. Upon submission, the logistics team will assign a random number to each submission before sending the codes for peer review. Failure to anonymise your submissions will result in automatic disqualification.
 
