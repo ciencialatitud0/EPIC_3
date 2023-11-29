@@ -4,17 +4,17 @@
 
 Please read the following instructions very carefully:
 
-1. Teams should submit their solutions to the 3 proposed challenges by Sunday 10 December 2023 (23h59). Late submissions won't be accepeted nor considered for evaluation, so make sure you submit your solutions on time.
+1. Teams should submit their solutions to the 3 proposed challenges by Sunday 10 December 2023 (23h59, UTC-5h). Late submissions won't be accepted nor considered for evaluation, so make sure you submit your solutions on time.
    
 2. Submissions are accepted only via email to: ciencia.latitud0@gmail.com Please attach all the required files for each challenge.
    
-3. Your python routines (code, files, notebooks, etc.) should be anonymous. No reference to your names, institutions, team names, etc. should be included in your submissions. This will ensure that the evaluation of your codes by the panel of experts is fully blind. Upon submission, the logistics team will assign a random number to each submission, before sending the codes for peer review. Failure to anonymise your submissions will result in automatic disqualification.
+3. Your python routines (code routines, files, notebooks, etc.) should be anonymous. No reference to your names, institutions, team names, etc. should be included in your submissions. This will ensure that the evaluation of your codes by the panel of experts is fully blind. Upon submission, the logistics team will assign a random number to each submission before sending the codes for peer review. Failure to anonymise your submissions will result in automatic disqualification.
 
 4. The evaluation process will be conducted by a panel of 6 experts (2 experts per challenge), whose scores will be averaged at the end to determine the winners.
 
-## Topics for the programming challenges:
+## Programming challenges:
 
-The 13 selected teams will have to solve three programming challenges (all in Python version 3.x) within the following areas:
+The 13 selected teams will have to solve three programming challenges (all in Python version 3.x). Please see the proposed problems below:
 
 1. [Zebrafish Embryo Mask Generation from Bright Field Images](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis)
    
@@ -22,9 +22,16 @@ The 13 selected teams will have to solve three programming challenges (all in Py
    
 3. [Web scraping and computer science](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/Web_Scraping_Challenge)
 
-## Selected Teams:
+## Evaluation:
 
-The selection process has concluded, 13 teams from 3 different universities will compete in this years's edition of Dorothy:
+- Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
+- Interpretability (20%): Evaluation results should be quantitative and rigorous, providing a clear understanding of algorithm performance.
+- Generalizability (40%): The code should work effectively on the given problem and also on other similar problems (e.g. other images or data sets). The evaluators will test your code in different data sets.
+- Performance (20%): Evaluation of the code's speed and efficiency.
+
+## Participating Teams:
+
+13 teams from 3 different universities will compete in this years's edition of Dorothy:
 
 ### 1. Prometeo, Yachay Tech University
 * Luis David Morocho Pogo
@@ -77,13 +84,6 @@ The selection process has concluded, 13 teams from 3 different universities will
 ### 13. HintOn, Yachay Tech University
 * Julio Rogers Cajas Guncay
 * Esteban Sebastian Moscoso Garcia
-
-
-## Evaluation process and criteria:
-
-- The selection of the 10 participating teams will be based on a blind evaluation of the motivation letters and statements of prior python programming experience. Diversity criteria will also be considered.
-  
-- The assessment of the winning teams will be based on the average of the scores submitted by a revision panel of experts, who will blindly review the codes and be instructed to evaluate: i) solution correctness, ii) code performance, and iii) code design and user friendliness.
 
 ## Panel of experts:
 
