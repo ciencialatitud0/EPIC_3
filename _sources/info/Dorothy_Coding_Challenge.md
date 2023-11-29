@@ -119,6 +119,9 @@ The selection process has concluded, 13 teams from 3 different universities will
 * Julio Rogers Cajas Guncay
 * Esteban Sebastian Moscoso Garcia
 
+## Instructions for participating teams:
+https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge
+
 
 ## Evaluation process and criteria:
 
