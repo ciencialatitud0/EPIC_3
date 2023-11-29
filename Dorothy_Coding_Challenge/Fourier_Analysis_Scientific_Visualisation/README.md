@@ -8,7 +8,7 @@ The file provided below **First_View_of_Earth_from_Moon3.jpeg** contains an imag
 
 #### Download image file:
 
-Dorothy_Coding_Challenge/Fourier_Analysis_Scientific_Visualisation/First_View_of_Earth_from_Moon3.jpeg
+[Dorothy_Coding_Challenge/Fourier_Analysis_Scientific_Visualisation/First_View_of_Earth_from_Moon3.jpeg](https://github.com/ciencialatitud0/EPIC_3/blob/main/Dorothy_Coding_Challenge/Fourier_Analysis_Scientific_Visualisation/First_View_of_Earth_from_Moon3.jpeg)
 
 #### 1. Image I/O:
 
