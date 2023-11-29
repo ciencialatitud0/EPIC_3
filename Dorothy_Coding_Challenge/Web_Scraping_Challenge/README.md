@@ -31,6 +31,6 @@ Finally, the last stage is to generate a search engine with the information gene
 ## Evaluation
 - Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
 - Interpretability (20%): Evaluation results should be quantitative and rigorous, providing a clear understanding of algorithm performance.
-- Generalizability (40%): The code should work effectively on other similar, unseen images. The evaluators will test your code in a different set of images.
+- Generalizability (40%): The code should work effectively on other similar data sets. The evaluators will test your code in different data sets.
 - Performance (20%): Evaluation of the code's speed and efficiency.
   
