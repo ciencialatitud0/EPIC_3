@@ -25,8 +25,9 @@ Finally, the last stage is to generate a search engine with the information gene
 
 ## Submission Guidelines:
 
-- For the delivery, please compress all your python routines and revelant files, including a Readme.md file, into a tar ball and send it via email.
-- The Readme.md file should explain how to use the code, what it is intended to do, what has been done and the difficulties encountered, if any.
+- Submit the complete python code used in algorithm development and the output images in a single tar ball.
+- In such tar ball, include a single Jupyter notebook for external evaluation, ensuring proper comments.
+- Clearly mention any external tools or packages used. Make sure they are publicly available and free.
 
 ## Evaluation
 - Usability (20%): Your code should run smoothly, and its readability should be accessible to external evaluators.
