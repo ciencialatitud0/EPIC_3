@@ -49,7 +49,9 @@ Thanks to the very generous financial support from ICTP's PWF programme, the win
 
 ### Winner Team's prize: 320 USD
 
-### Runner-up Team's prize: 160 USD
+### 2nd Team's prize: 160 USD
+
+### 3rd Team's prize: 80 USD
 
 ### Note: These prizes are per team, not per person.
 
@@ -122,6 +124,17 @@ The selection process has concluded, 13 teams from 3 different universities will
 ## Instructions for participating teams:
 https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge
 
+## Results:
+
+Out of the selected 13 teams we received solutions to the Challenge from 8 teams. The results of the evaluation are the following:
+
+### 1st place: Chaotic Code, team members: Juan José Macharé and Hugo Chancay
+
+### 2nd place: Critical Quipu Cartographers, team members: Juan Sebastián Velez Rojas and Ricardo Isaías Velasco Silva
+
+### 3rd place: Sigmas, team members: Esteban Fernando Cárdenas Andino and Nicolas Alonso Noriega Cruz
+
+Congratulations to the winners and all the participating teams!
 
 ## Evaluation process and criteria:
 
