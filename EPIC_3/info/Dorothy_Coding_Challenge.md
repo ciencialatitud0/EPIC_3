@@ -126,13 +126,16 @@ https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge
 
 ## Results:
 
-Out of the selected 13 teams we received solutions to the Challenge from 8 teams. The results of the evaluation are the following:
+Out of the selected 13 teams we received solutions to the challenges from 8 teams. The results of the evaluation are the following:
 
-### 1st place: Chaotic Code, team members: Juan José Macharé and Hugo Chancay
+### 1st place: 
+Chaotic Code, team members: Juan José Macharé and Hugo Chancay
 
-### 2nd place: Critical Quipu Cartographers, team members: Juan Sebastián Velez Rojas and Ricardo Isaías Velasco Silva
+### 2nd place: 
+Critical Quipu Cartographers, team members: Juan Sebastián Velez Rojas and Ricardo Isaías Velasco Silva
 
-### 3rd place: Sigmas, team members: Esteban Fernando Cárdenas Andino and Nicolas Alonso Noriega Cruz
+### 3rd place: 
+Sigmas, team members: Esteban Fernando Cárdenas Andino and Nicolas Alonso Noriega Cruz
 
 Congratulations to the winners and all the participating teams!
 
